@@ -1,0 +1,334 @@
+
+*Programmeurs
+
+		Joonas Rikkonen ("Regalis")
+		CommanderMark
+		Jesse Ludtke ("MonocleBios")
+		Juan Pablo Arce ("Juanjpro")
+		Luggs123
+		Ryan Stillings ("Risingstar64")
+		Sam Lynch ("InnocentSam")
+		Shaun Gaylard ("ENDSHN")
+
+*Modéliseurs 3D
+		
+		Joonas Rikkonen ("Regalis")
+		Apocryphos
+		Atomicsneak
+		Brandon Smith
+		EternalError
+		GamerEntitlement
+		Hakkla
+		Ivan Mikhailov ("Redbull.Ivan")
+		James Bear ("Moonsaber")
+		Kenneth Crooker
+		Lionel Ruskin ("Cridone")
+		Micro
+		Night
+		Prosth
+		TheKMan
+		Reilly Grindle ("Mirocaine")
+		SaitoFox
+		Sam Lynch ("InnocentSam")
+		Shaun Gaylard ("ENDSHN")
+		Tom Malinowski
+		Vladislav Borisevich ("Vane Brain")
+		GruppyJB
+
+*Sons et musiques
+
+		Joonas Rikkonen ("Regalis")
+		Caleb Yu ("Omniary")
+		Class401
+		FireFox
+		gmodfan11
+		Kevin MacLeod
+		phlip45
+		revo794
+		Shaun Gaylard ("ENDSHN")
+		Slagar
+		Tim Morrison
+		Vladislav Borisevich ("Vane Brain")
+		Walach
+
+*Comédiens de doublage
+
+		Aaron Mckee ("TheVolgun")
+		Brendan Sussman ("DukeLovesYou")
+		CDWinters
+		Graham Ruruku ("Stealthy Zoroark")
+		Hunter
+		ItsDuke
+		Joshofsouls
+		Moonstiee
+		SolidBaker
+		Tallfellow
+
+*Graphismes et images
+
+		Joonas Rikkonen ("Regalis")
+		Anon4743
+		Balzac
+		Brokami
+		Caleb Yu ("Omniary")
+		KyoteeWilliams
+		Orgil Pount ("Destructoid")
+		Pavel Lvovich Gorfunkel ("-Mark-")
+		Shadowscale48
+		Shaun Gaylard ("ENDSHN")
+		Vladislav Borisevich ("Vane Brain")
+
+*Scénaristes
+
+		Joonas Rikkonen ("Regalis")
+		Caleb Yu ("Omniary")
+		Dr. Gears
+		Irontaco
+		Steelpoint
+		Vladislav Borisevich ("Vane Brain")
+
+*Testeurs
+
+		Christian Rieß
+		Emil215p
+		Flipsy
+		Inclination
+		LordDeathv11
+		Onemario1234
+		RadReed
+		TheHappyJammer
+		Zadrakos
+
+*Autres
+
+		Agent G
+		Gage Allen ("Lotims")
+		Haversine
+		Max Taylor
+		Meow :3
+		Nikita Sidorov ("Jabka")
+		Turtle Sandwich/Catnipbuddy
+		/v/ et tout le monde sur le forum SCP-CB
+
+*Créateurs du mod
+
+		Nikita Sidorov ("Jabka")
+		Andre Pari ("ADMClef")
+		Dawid Mleczko ("Mleczyk76")
+		slend
+		Samuel ("Ayylien/Soylien")
+		Egor Oleynik ("Chumnaya Karkusa")
+		EpicDasherFR
+		ZiYueCommentary
+		Snoe
+
+*Aides externes au développement
+
+		Shaun Gaylard ("ENDSHN")
+		Alexander Deshko ("CmElektrik") 
+		neptuneprogamertv
+		The KMan
+		purseit
+		Levi The Boss
+		Seth Smith ("Faust")
+		Sehnor
+		Leonard Blackmore ("UnknownDev")
+		Ivan Mikhailov ("Redbull.Ivan")
+		Elan S.
+		Ashad Jackson ("ashadttt") 
+		Vladislav Borisevich ("Vane Brain")
+		Dmitry Afanasenko ("Ne4to")
+		BerkeliumΛsset
+		Dmitriy Sazanov ("Dmitriy-Bars")
+		C45
+		Stefan Koch ("Salvage")
+		Quote
+		Dreamanchik
+		Time_the_Creator
+		Yuri Novikov ("BayanForce")
+		TheHappyJammer
+		Femcube Zero
+		Kacey Roberts ("I8aDOG")
+		MetridSiardily
+		XtrithX
+
+*Traducteurs
+
+		Traduction en chinois simplifié,
+par "ZiYueCommentary"
+
+		Traduction en russe,
+par "CreatorMasters", "Trill Team" et Nikita Sidorov ("Jabka")
+
+		Traduction en français,
+par "EpicDasherFR"
+
+		Traduction en italien,
+par Extol ("amogussusimpostor3")
+
+		Traduction en allemand,
+par Tillikum Soyer ("Tillikum")
+
+		Traduction en japonais,
+par Xing Jie ("XingJieGames")
+
+		Traduction en espagnol,
+par kSuzukuOninuts ("SuzukuKnm")
+
+		Traduction en portugais,
+par Ariel ("arielniii")
+
+*Testeurs du mod
+
+		Alexey Krasnov ("TaskeWSH")
+		LoneWolf
+		[dataexpunded]
+		ALeKS GM
+		rus_hunter
+		Vladislav Safonov ("Onmane")
+		Nero
+
+*Certains contenus ont été pris ou inspirés par :
+
+		Wiki officiel de SCP - Containment Breach (ANG) :
+		www.scpcb.gamepedia.com
+
+		Wiki officiel de SCP - Containment Breach (RUS) :
+		www.scpcontainmentbreach.fandom.com/ru/
+
+		La Fondation SCP (ENG) :
+		www.scpfoundation.net
+
+		La Fondation SCP (RUS) :
+		www.scpfoundation.ru
+
+		Le mod "The Box of Horrors" pour "SCP - Containment Breach" :
+		https://undertowgames.com/forum/viewtopic.php?t=3404
+
+		Le mod "Field Of View (FOV)" pour "SCP - Containment Breach" :
+		https://www.moddb.com/mods/scp-containment-breach-field-of-view-fov-addon
+
+		Le mod "Gameplay Overhaul" pour "SCP - Containment Breach" :
+		https://www.moddb.com/mods/scp-containment-breach-gameplay-overhaul
+
+		Le mod "SCP - Containment Breach Nine Tailed Fox" :
+		https://store.steampowered.com/app/1304510/SCP_NineTailed_Fox/
+
+*Le jeu est basé sur les travaux de la communauté Fondation SCP.
+
+		Le logo de SCP-CB et le logo SCP sont basés sur le logo créé,
+par "far2"
+
+		SCP-005 est basé sur "SCP-005 - Passe-partout",
+author unknown
+
+		SCP-008 est basé sur "SCP-008 - Peste zombie",
+par "Lee Byron"
+
+		SCP-012 est basé sur "SCP-012 - Une mauvaise partition",
+par "xthevilecorruptor"
+
+		SCP-035 est basé sur "SCP-035 - Masque possessif",
+par "Kain Pathos Crow"
+
+		SCP-049 est basé sur "SCP-049 - Le Docteur de peste",
+par "Gabriel Jade"
+
+		SCP-066 est basé sur "SCP-066 - Le Jouet d'Éric",
+par "Scantron"
+
+		SCP-079 est basé sur "SCP-079 - Vieille IA",
+par "far2"
+
+		SCP-096 est basé sur "SCP-096 - 'L'Homme timide'",
+par "Dr. Dan"
+
+		SCP-106 est basé sur "SCP-106 - Le Vieil Homme",
+par "Dr. Gears"
+
+		SCP-148 est basé sur "SCP-148 - L'alliage 'Télékill'",
+par "Lt Masipag"
+
+		SCP-173 est basé sur "SCP-173 - La statue",
+par "Moto42"
+
+		SCP-205 est basé sur "SCP-205 - Lampes à ombres", 
+par "Sorts"
+
+		SCP-294 est basé sur "SCP-294 - La Machine à café",
+par "far2"
+
+		SCP-372 est basé sur "SCP-372 - Sauteur de vision périphérique",
+par "Sylocat"
+
+		SCP-409 est basé sur "SCP-409 - Cristal contagieux",
+par "Dr. Gears"
+
+		SCP-420-J est basé sur "SCP-420-J - Le Meilleur ____ du monde",
+par "Quikngruvn"
+
+		SCP-427 est basé sur "SCP-427 - Pendentif lovecraftien",
+par "Dr. Ouros"
+
+		SCP-500 est basé sur "SCP-500 - La Panacée",
+par "far2"
+
+		SCP-513-1 est basé sur "SCP-513 - Une sonnaille",
+par "beefwit"
+
+		SCP-682 est basé sur "SCP-682 - Reptile difficile à détruire",
+par "Dr. Gears"
+
+		SCP-714 est basé sur "SCP-714 - L'Anneau de jade",
+par "Arcalane"
+
+		SCP-789-J est basé sur "SCP-789-J - le fantôme des fesses !!",
+par "Salman Corbette"
+
+		SCP-860 est basé sur "SCP-860 - Clef bleue",
+par "Enma Ai"
+
+		SCP-895 est basé sur "SCP-895 - Perturbations de caméra",
+par "Aelanna"
+
+		SCP-914 est basé sur "SCP-914 - Le Mécanisme d'horlogerie",
+par "Dr. Gears"
+
+		SCP-939 est basé sur "SCP-939 - De nombreuses voix",
+par "Adam Smascher"
+
+		SCP-966 est basé sur "SCP-966 - Tueur du sommeil",
+par "Enma Ai"
+
+		SCP-970 est basé sur "SCP-970 - La Pièce récursive",
+par "Freudian"
+
+		SCP-1025 est basé sur "SCP-1025 - Encyclopédie des maladies",
+par "Lasergoose"
+
+		SCP-1048 est basé sur "SCP-1048 - Nounours bricoleur",
+par "Researcher Dios"
+
+		SCP-1123 est basé sur "SCP-1123 - Crâne de l'atrocité",
+par "sandrewswann"
+
+		SCP-1162-ARC est basé sur "SCP-1162-ARC - Un Trou dans un Mur",
+par "Dedaluminus"
+
+		SCP-1499 est basé sur "SCP-1499 - Le Masque à gaz",
+par "Trasknari"
+
+		Les Canards Anormaux sont basés sur la "Liste Des Canards Anormaux",
+par "Skara Brae"
+
+/
+	Un grand merci à tout ceux qui ont supporté le projet pendant toutes ces années
+	- on n'en serait jamais arrivé là sans votre aideit would have.
+
+	SCP-CB a été un énorme effort collaboratif avec des dizaines (voire même des centaines ?)
+	de personnes créant du contenu et donnant des idées et des suggesitons pour le jeu, et
+	je suis sûr que j'ai oublié de mentionner ici certains d'entre vous. Si vous avez contribué
+	au jeu et voulez que votre nom soit ajouté ici, envoyez moi un message sur le forum Undertow Games
+	ou bien à l'adresse mail contact@undertowgames.com !
+
+	- Joonas Rikkonen ("Regalis")
