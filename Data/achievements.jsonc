@@ -1,0 +1,192 @@
+{
+    "translations": {
+        "458": {
+            "description": "Prendre une part du Carton à pizza sans fin.",
+            "name": "Aujourd'hui c'est pizza !"
+        },
+        "513": {
+            "description": "Vous avez fait sonner la Vieille cloche.",
+            "name": "Si vous la faite sonner, il viendra"
+        },
+        "snav": {
+            "name": "Prouesses techniques",
+            "description": "Vous avez obtenu le Navigateur S-NAV Ultimate."
+        },
+        "005": {
+            "description": "Vous avez trouvé le Passe-Partout.",
+            "name": "Intrus"
+        },
+        "gears": {
+            "name": "Le dernier espoir",
+            "description": "Vous êtes entré dans le bureau du Docteur Gears."
+        },
+        "096": {
+            "description": "Vous avez évité le visage l'Homme timide.",
+            "name": "Ne me regarde pas"
+        },
+        "055": {
+            "name": "Anti-mémétique",
+            "description": "Vous avez reconfiné SCP-055."
+        },
+        "500": {
+            "name": "Un goût d'immortalité",
+            "description": "Vous avez avalé un échantillon de Panacée."
+        },
+        "427": {
+            "description": "Vous avez trouvé et porté le \"Pendentif lovecraftien\".",
+            "name": "Lueur de vie"
+        },
+        "pocketdimension": {
+            "description": "Vous vous êtes échappé de la dimension de poche du Vieil homme.",
+            "name": "No man's land"
+        },
+        "omni": {
+            "name": "Accès illimité",
+            "description": "Vous avez obtenu une Carte d'accès Omni."
+        },
+        "1048": {
+            "description": "Vous avez trouvé le Nounours bricoleur.",
+            "name": "L'architecte"
+        },
+        "148": {
+            "description": "Vous avez obtenu l'Alliage \"Télékill\".",
+            "name": "Métal sale"
+        },
+        "409": {
+            "description": "Vous vous êtes approché du Cristal contagieux.",
+            "name": "Mort cristalline"
+        },
+        "789j": {
+            "name": "\"par le chercheur James, 11 ans\"",
+            "description": "Vous avez protégé vos fesses du Fantôme des fesses."
+        },
+        "420j": {
+            "name": "\"Raggae, man\"",
+            "description": "Vous avez fumé du bon shit."
+        },
+        "079": {
+            "name": "Raisonnement déductif",
+            "description": "Vous avez passé un marché avec la Vieille IA."
+        },
+        "049": {
+            "description": "Vous avez trouvé le remède.",
+            "name": "Docteur, docteur !"
+        },
+        "714": {
+            "description": "Vous avez trouvé et mis l'Anneau de jade.",
+            "name": "Épuisement mental"
+        },
+        "970": {
+            "name": "Phénomène Spatial Récursif",
+            "description": "Vous êtes entré dans une Pièce récursive."
+        },
+        "914": {
+            "description": "Vous êtes entré dans la chambre du Mécanisme d'horlogerie.",
+            "name": "Raffinerie"
+        },
+        "939": {
+            "description": "Vous avez trouvé les Créatures aux nombreuses voix.",
+            "name": "Montre-toi !"
+        },
+        "294": {
+            "name": "HORS DE PORTÉE",
+            "description": "Vous avez utilisé la Machine à café."
+        },
+        "harp": {
+            "name": "Scénario de fin du monde",
+            "description": "Vous êtes entré dans le bureau du Docteur Harp."
+        },
+        "o5": {
+            "name": "Contrôle de la Fondation",
+            "description": "Vous êtes entré dans le bureau du Conseil O5."
+        },
+        "012": {
+            "description": "Vous avez trouvé la Mauvaise partition.",
+            "name": "Scribe"
+        },
+        "066": {
+            "name": "\"Éric ?\"",
+            "description": "Vous avez intéragi avec le Jouet d'Éric."
+        },
+        "1499": {
+            "description": "Vous avez mis un Masque à gaz GP-5.",
+            "name": "Cris du présent"
+        },
+        "1025": {
+            "name": "\"Arme biologique potentielle\"",
+            "description": "Vous avez lu l'Encyclopédie des maladies."
+        },
+        "035": {
+            "name": "Baissé de rideaux",
+            "description": "Vous avez parlé au Masque possessif."
+        },
+        "372": {
+            "description": "Vous avez aperçu le Sauteur de vision périphérique.",
+            "name": "Dans le coin de l'œil..."
+        },
+        "maynard": {
+            "name": "La brèche de confinement",
+            "description": "Vous êtes entré dans le bureau du Docteur Maynard."
+        },
+        "205": {
+            "description": "Vous avez trouvé les Lampes à ombres.",
+            "name": "Femme fatale"
+        },
+        "966": {
+            "description": "Vous avez croisé les Tueurs du sommeil.",
+            "name": "Rapide coup d'œil"
+        },
+        "008": {
+            "description": "Vous êtes entré dans la chambre de la Peste zombie.",
+            "name": "Danger biologique"
+        },
+        "1123": {
+            "description": "Vous avez touché le Crâne de l'atrocité.",
+            "name": "La solution finale"
+        },
+        "keter": {
+            "description": "Vous avez fini le jeu en difficulté \"Keter\".",
+            "name": "Survie dans un cauchemar"
+        },
+        "895": {
+            "description": "Vous vous êtes approché du Vieux cercueil.",
+            "name": "Interférence"
+        },
+        "1162arc": {
+            "name": "Morceaux du passé",
+            "description": "Vous vous êtes servis du Trou dans le mur."
+        },
+        "keycard6": {
+            "name": "Oui ou non ?",
+            "description": "Vous avez obtenu une Carte d'accès de niveau 6."
+        },
+        "console": {
+            "name": "Fair play",
+            "description": "Vous n'avez pas utilisé de commandes."
+        },
+        "106": {
+            "description": "Vous avez rencontré le Vieil homme.",
+            "name": "Une marche décrépie"
+        },
+        "860": {
+            "name": "Bosquet à deux visages",
+            "description": "S’est aventuré dans une clairière apparemment petite."
+        },
+        "268": {
+            "name": "Ne-m'oublie-pas",
+            "description": "Vous avez trouvé et porté la Casquette de négligence."
+        },
+        "999": {
+            "name": "J'aimerais te faire un câlin, mais je n'ai pas de mains.",
+            "description": "Joue avec le Monstre Chatouilleur."
+        },
+        "tesla": {
+            "description": "Vous avez attiré le Vieil Homme à travers un portail tesla.",
+            "name": "Choc post-traumatique"
+        },
+        "apollyon": {
+            "description": "Vous avez fini le jeu en difficulté \"Apollyon\".",
+            "name": "Le Bon Survivant"
+        }
+    }
+}
