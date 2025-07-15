@@ -34,17 +34,17 @@
 		"classd": [225, 120, 0],
 		"guard": [180, 180, 150],
 		"janitor": [120, 140, 170],
-		"mtf": [100, 60, 45],
+		"mtf": [120, 84, 65],
 		"nazi": [130, 0, 20],
 		"035": [150, 0, 0],
 		"049": [50, 70, 70],
 		"066": [180, 35, 60],
 		"096": [230, 230, 230],
-		"106": [10, 5, 5],
+		"106": [30, 30, 30],
 		"682": [180, 160, 135],
 		"860-2": [110, 55, 80],
-		"1499-1": [40, 40, 40],
-		"ulgrin":[200, 190, 140]
+		"1499-1": [30, 29, 40],
+		"ulgrin":[180, 215, 150]
 	},
 	/* D-9341 */
 	"SFX\\Character\\D9341\\Cough0.ogg": [
@@ -1838,7 +1838,7 @@
 	],
 	"SFX\\Character\\MTF\\ClassD1.ogg": [
 		{
-			"text": "Mec, il y a un Classe-D dans le coin. Garde les yeux ouverts.",
+			"text": "Hm, il y a un Classe-D dans le coin. Gardez les yeux ouverts.",
 			"delay": 0.3,
 			"color": "mtf"
 		}
@@ -2023,7 +2023,7 @@
 	],
 	"SFX\\Character\\MTF\\Stop1.ogg": [
 		{
-			"text": "Classe-D repéré.",
+			"text": "Classe-D retrouvé.",
 			"color": "mtf"
 		}
 	],
@@ -2164,7 +2164,7 @@
 	],
 	"SFX\\Character\\MTF\\049_2\\Spotted.ogg": [
 		{
-			"text": "Nine-Tailed Fox au contrôle, une instance active de SCP-049-2 a été détect",
+			"text": "Nine-Tailed Fox au contrôle, une instance active de SCP-049-2 a été détecté",
 			"delay": 0.2,
 			"color": "mtf"
 		}
