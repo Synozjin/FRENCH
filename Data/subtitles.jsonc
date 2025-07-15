@@ -2092,7 +2092,7 @@
 	],
 	"SFX\\Character\\MTF\\TargetTerminated2.ogg": [
 		{
-			"text": "Devine ce qu’ils font aux Classe-D errants comme toi ?",
+			"text": " Classe-D a été neutralisé.",
 			"delay": 1.0,
 			"color": "mtf"
 		}
