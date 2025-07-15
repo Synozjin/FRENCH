@@ -2017,7 +2017,7 @@
 	],
 	"SFX\\Character\\MTF\\Stop0.ogg": [
 		{
-			"text": "Halte là !",
+			"text": "Arrête-toi !",
 			"color": "mtf"
 		}
 	],
@@ -2035,7 +2035,7 @@
 	],
 	"SFX\\Character\\MTF\\Stop3.ogg": [
 		{
-			"text": "Arrête-toi là !",
+			"text": "Arrête-toi !",
 			"color": "mtf"
 		}
 	],
