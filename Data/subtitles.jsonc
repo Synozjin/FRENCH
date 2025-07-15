@@ -2078,7 +2078,7 @@
 	],
 	"SFX\\Character\\MTF\\TargetTerminated0.ogg": [
 		{
-			"text": "Cible neutralisée.",
+			"text": "Cible neutralisé.",
 			"delay": 1.08,
 			"color": "mtf"
 		}
