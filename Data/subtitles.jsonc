@@ -1746,7 +1746,7 @@
 	],
 	"SFX\\Character\\MTF\\AnnouncCameraFound2.ogg": [
 		{
-			"text": "Contrôle à Nine-Tailed Fox, scan des caméras terminé. Il ne reste plus qu’un seul Class-D.",
+			"text": "Contrôle à Nine-Tailed Fox, scan des caméras terminé. Il ne reste plus qu’un seul Classe-D.",
 			"delay": 2.45,
 			"color": "announcement"
 		}
@@ -1831,7 +1831,7 @@
 	/* MTF */
 	"SFX\\Character\\MTF\\ClassD0.ogg": [
 		{
-			"text": "Un Classe-D détectée.",
+			"text": "Un Classe-D détecté.",
 			"delay": 0.68,
 			"color": "mtf"
 		}
@@ -1845,7 +1845,7 @@
 	],
 	"SFX\\Character\\MTF\\ClassD2.ogg": [
 		{
-			"text": "Un Classe-D détecté à proximité. Restez vigilant.",
+			"text": "J'ai détecté un Classe-D dans les parages. Restez vigilant.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
@@ -2067,11 +2067,11 @@
 	],
 	"SFX\\Character\\MTF\\TargetLost2.ogg": [
 		{
-			"text": "Regarde, il a pris la fuite.",
+			"text": "Regardez, il a pris la fuite.",
 			"color": "mtf"
 		},
 		{
-			"text": "Peu importe, je suppose qu'il n'aura pas vraiment d'importance.",
+			"text": "Peu importe, je suppose qu'il n'en vaut pas la peine.",
 			"delay": 3.5,
 			"color": "mtf"
 		}
@@ -2092,7 +2092,7 @@
 	],
 	"SFX\\Character\\MTF\\TargetTerminated2.ogg": [
 		{
-			"text": " Class-D a été neutralisé.",
+			"text": "Devine ce qu’ils font aux Classe-D errants comme toi ?",
 			"delay": 1.0,
 			"color": "mtf"
 		}
@@ -2427,7 +2427,7 @@
 			"delay": 0.7
 		},
 		{
-			"text": "Devine ce qu’ils font aux Class-D errants comme toi ?",
+			"text": "Devine ce qu’ils font aux Classe-D errants comme toi ?",
 			"delay": 5.4
 		}
 	],
@@ -3523,7 +3523,7 @@
 			"delay": 0.5
 		},
 		{
-			"text": "Euh, il semble y avoir un Class-D.",
+			"text": "Euh, il semble y avoir un Classe-D.",
 			"delay": 3.4
 		},
 		{
