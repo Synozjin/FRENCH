@@ -255,12 +255,12 @@
 			"color": "guard"
 		},
 		{
-			"text": "Bah ouai, à qui tu pense que je parle ? Le gars avec là avec la tête de punching-ball ? Bien sûr que c'est à toi que je parle.",
+			"text": "Bah ouais, à qui tu pense que je parle ? Le gars avec là avec la tête de punching-ball ? Bien sûr que c'est à toi que je parle.",
 			"delay": 5.3,
 			"color": "guard"
 		},
 		{
-			"text": "Hé ben, ouai. C'est ton premier jour ici après tout",
+			"text": "Hé ben, ouais. C'est ton premier jour ici après tout",
 			"delay": 15.4,
 			"color": "guard"
 		},
@@ -1091,7 +1091,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted1.ogg": [
 		{
-			"text": ">Docteur L, veuillez vous présenter au poste de confinement renforcé C.",
+			"text": "Docteur L, veuillez vous présenter au poste de confinement renforcé C.",
 			"color": "announcement"
 		}
 	],
@@ -1984,7 +1984,7 @@
 	],
 	"SFX\\Character\\MTF\\Searching1.ogg": [
 		{
-			"text": "Recherche du Class-D.",
+			"text": "Recherche du Classe-D.",
 			"color": "mtf"
 		}
 	],
@@ -2022,7 +2022,7 @@
 	],
 	"SFX\\Character\\MTF\\Stop1.ogg": [
 		{
-			"text": "Class-D repéré.",
+			"text": "Classe-D repéré.",
 			"color": "mtf"
 		}
 	],
@@ -2059,7 +2059,7 @@
 	],
 	"SFX\\Character\\MTF\\TargetLost1.ogg": [
 		{
-			"text": "Le Class-D nous a échappé. Reprise de la tâche précédente..",
+			"text": "Le Classe-D nous a échappé. Reprise de la tâche précédente..",
 			"delay": 0.8,
 			"color": "mtf"
 		}
@@ -2117,7 +2117,7 @@
 	],
 	"SFX\\Character\\MTF\\ThereHeIs0.ogg": [
 		{
-			"text": "Class-D trouvée !",
+			"text": "Classe-D trouvée !",
 			"delay": 0.15,
 			"color": "mtf"
 		}
@@ -2142,14 +2142,14 @@
 	],
 	"SFX\\Character\\MTF\\ThereHeIs4.ogg": [
 		{
-			"text": "Ah ah ! J'ai trouvé la Class-D !",
+			"text": "Ah ah ! J'ai trouvé la Classe-D !",
 			"delay": 0.2,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs5.ogg": [
 		{
-			"text": "Oh, tiens, c’est un Class-D !",
+			"text": "Oh, tiens, c’est un Classe-D !",
 			"delay": 0.2,
 			"color": "mtf"
 		}
@@ -2263,7 +2263,7 @@
 	],
 	"SFX\\Character\\MTF\\106\\Spotted3.ogg": [
 		{
-			"text": "Oubliez le D, il faut qu’on se barre de là !",
+			"text": "Oubliez le D, il faut qu’on se barre d'ici !",
 			"color": "mtf"
 		}
 	],
@@ -3355,13 +3355,13 @@
 	],
 	"SFX\\SCP\\939\\2Lure9.ogg": [
 		{
-			"text": "Where are you?",
+			"text": "Où êtes-vous ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Alert0.ogg": [
 		{
-			"text": "Oh merci mon Dieu, ce n’est que quelqu’un d’autre.",
+			"text": "Oh Dieu merci, ce n’est que quelqu’un d’autre.",
 			"color": "crew"
 		}
 	],
@@ -3795,7 +3795,7 @@
 			"color": "mtf"
 		},
 		{
-			"text": "Je veux savoir comment un Classe-D a pu passer la porte. Fournissez-moi les enregistrements de toutes les caméras proches de la porte et identifiez qui était posté là, avant et pendant la tentative d’évasion du SCP-682.",
+			"text": "Je veux savoir comment un Classe-D a pu passer la Gate. Fournissez-moi les enregistrements de toutes les caméras proches de la Gate et identifiez qui était posté là, avant et pendant la tentative d’évasion du SCP-682.",
 			"delay": 11.5,
 			"length": 16.0,
 			"color": "mtf"
@@ -3861,7 +3861,7 @@
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion18.ogg": [
 		{
-			"text": "Allez-y, je vous rejoindrai plus tard! Merde"
+			"text": "Allez-y, je vous rejoindrai plus tard! Merde.."
 		},
 		{
 			"text": "*CRI*",
@@ -3880,7 +3880,7 @@
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion20.ogg": [
 		{
-			"text": "*ÉTOUFFEMENT*",
+			"text": "*RESPIRATION FORTE*",
 			"delay": 2.0
 		},
 		{
