@@ -43,7 +43,8 @@
 		"106": [10, 5, 5],
 		"682": [180, 160, 135],
 		"860-2": [110, 55, 80],
-		"1499-1": [40, 40, 40]
+		"1499-1": [40, 40, 40],
+		"ulgrin":[200, 190, 140]
 	},
 	/* D-9341 */
 	"SFX\\Character\\D9341\\Cough0.ogg": [
@@ -94,7 +95,7 @@
 		{
 			"text": "Contrôle, ici l'Agent Ulgrin. J'ai besoin d'une requête pour ouvrir la cellule 3-11.",
 			"delay": 3.7,
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 4.0
 		},
 		{
@@ -107,138 +108,138 @@
 		{
 			"text": "Hé, ils ont du boulot pour toi. Fais moi plaisir, et sors de ta cellule.",
 			"delay": 1.37,
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 4.14
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse0.ogg": [
 		{
 			"text": "T'es débile ou quoi ? Je t'ai dis de sortir. Si tu ne sors pas de ta cellule, je vais te botter le cul.",
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 6.05
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse1.ogg": [
 		{
 			"text": "Écoute mon pote, j'ai pas toute la journée. J'essaye de rester poli. Si tu ne sors pas de ta cellule, je vais te botter le cul.",
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 5.6
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\CellGas0.ogg": [
 		{
 			"text": "*RICANE* T'es sans aucun doute le sujet de test le plus con qu'on ait jamais eu ! Très bien, fermez la porte et ouvrez les valves de gaz.",
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 7.05
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\CellGas1.ogg": [
 		{
 			"text": "Ah. Je suis un peu déçu que t'ait pas résisté. J'avais bien envie de t'en coller une.",
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 5.71
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\Escort0.ogg": [
 		{
 			"text": "Contente-toi de me suivre. Oh, et aussi, on a le droit de tuer les sujets désobéissants. Alors, ne tente rien de stupide..",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\Escort1.ogg": [
 		{
 			"text": "Contente-toi de me suivre. Oh, et aussi, on a le droit de, euh, exterminer les sujets désobéissants. Alors je te recommande de ne rien faire de stupide.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRun.ogg": [
 		{
 			"text": "Hé, ducon ! Tu vas dans la mauvaise direction ! Reviens ici tout de suite.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRefuse0.ogg": [
 		{
 			"text": "On se bouge ! Ils t'attendent !",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRefuse1.ogg": [
 		{
 			"text": "Écoute mec, je déteste déjà mon boulot. Pourquoi tu me compliques la tâche ?",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortPissedOff0.ogg": [
 		{
 			"text": "Je suis pas d'humeur pour ça. J'aurais aucun soucis à te coller une balle entre les deux yeux si tu veux pas coopérer.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortPissedOff1.ogg": [
 		{
 			"text": "Je suis pas d'humeur pour ça ! J'aurais aucun soucis à te coller une balle entre les deux yeux si tu veux pas coopérer.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortKill0.ogg": [
 		{
-			"text": ">Ok tu sais quoi, très bien. Fais comme tu veux. On va juste prendre quelqu'un d'autre.",
-			"color": "guard"
+			"text": "Ok tu sais quoi, très bien. Fais comme tu veux. On va juste prendre quelqu'un d'autre.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortKill1.ogg": [
 		{
 			"text": "Ok, très bien. Fais comme tu veux. On va juste prendre quelqu'un d'autre.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortTerminated.ogg": [
 		{
 			"text": "Je me charge du corps. Tu peux aller m'en chercher un autre...",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone0.ogg": [
 		{
 			"text": "Voilà, on y est. Contente-toi d'y aller et de suivre les instructions et euh... je pense que tout ira bien.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone1.ogg": [
 		{
 			"text": "Voilà, on y est. Je suis toujours déçu de pas avoir pu te frapper mais... bref.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone2.ogg": [
 		{
 			"text": "Voilà, on y est. Je suis toujours déçu de pas avoir pu t'en coller une mais... bref.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone3.ogg": [
 		{
 			"text": "Contente-toi d'y aller et de suivre les instructions et euh... je pense que tout ira bien. Ou peut-être pas. Dans tout les cas je m'en fous.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone4.ogg": [
 		{
 			"text": "Enfin bref, assez perdu de temps. Ils t'attendent dans la chambre.",
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\WhatThe0b.ogg": [
 		{
 			"text": "Oh merde !",
 			"delay": 1.15,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Ok, Bien compris..",
 			"delay": 7.78,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	/* ESCAPE GUARD */
@@ -252,22 +253,22 @@
 	"SFX\\Room\\Intro\\Guard\\Conversation0a.ogg": [
 		{
 			"text": "Donc euh... ça va ?",
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Bah ouais, à qui tu pense que je parle ? Le gars avec là avec la tête de punching-ball ? Bien sûr que c'est à toi que je parle.",
 			"delay": 5.3,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Hé ben, ouais. C'est ton premier jour ici après tout",
 			"delay": 15.4,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Sérieux ? Wow. Bizarre.",
 			"delay": 23.65,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation0b.ogg": [
@@ -290,27 +291,27 @@
 	"SFX\\Room\\Intro\\Guard\\Conversation1a.ogg": [
 		{
 			"text": "Euh... t'as vu des bon films récemment ?",
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Ah ouais ? Quel genre de livre ?",
 			"delay": 7.19,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Héh, tu te fous de moi ?",
 			"delay": 12.5,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Ton boulot se résume déjà à de l'horreur et de la science-fiction ! Sauf que, bah tu sais, c'est pas de la fiction.",
 			"delay": 15.93,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Ouais bon écoute, je veux pas paraître impolis mais ce que tu dis m'intéresse déjà plus.",
 			"delay": 24.73,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation1b.ogg": [
@@ -338,17 +339,17 @@
 	"SFX\\Room\\Intro\\Guard\\Conversation2a.ogg": [
 		{
 			"text": "Mec, j'ai la dalle. Hé, c'est pas le jour de la pizza à la cafet aujourd'hui ?",
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Oh, bordel. Voilà, ma journée est ruinée. La seule raison pour laquelle je continue à venir ici c'est la pizza. Je sais pas pourquoi mais cette pizza, c'est une tuerie.",
 			"delay": 7.65,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Le gratin au thon là, par contre, est une abomination et devrait être enfermée ici avec le reste de ces abominations.",
 			"delay": 16.5,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation2b.ogg": [
@@ -366,27 +367,27 @@
 	"SFX\\Room\\Intro\\Guard\\Conversation3a.ogg": [
 		{
 			"text": "T'as pas de petite copine, pas vrai ?",
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Bah, j'suis pas devin. Sinon, je serai enfermé ici. Donc, ouais, je dirai que ça se voit très bien",
 			"delay": 3.3,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Dis lui que tu bosses dans un café ou un truc comme ça..",
 			"delay": 13.51,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Euh, j'en sais rien moi ! T'as qu'à... lui dire que c'est euh... du ketchup.",
 			"delay": 23.55,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Argh... bref laisse tomber.",
 			"delay": 30.45,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation3b.ogg": [
@@ -414,17 +415,17 @@
 	"SFX\\Room\\Intro\\Guard\\Conversation4a.ogg": [
 		{
 			"text": "Euh... t'as vu des bon films récemment ?",
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Oh, ok. Oh, et les jeux-vidéos ? Tu sais quoi, ça me rappelle une idée, quelqu'un devrait créer un jeu sur cet endroit.",
 			"delay": 5.4,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
 			"text": "Euh, je ne sais pas. Je pensais que ce serait une bonne idée. .",
 			"delay": 13.5,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation4b.ogg": [
@@ -772,7 +773,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\3\\CallOnLine.ogg": [
 		{
-			"text": "Call on-line.",
+			"text": "Appel en ligne.",
 			"color": "announcement"
 		}
 	],
@@ -1794,7 +1795,7 @@
 	],
 	"SFX\\Character\\MTF\\AnnouncThreatPossession.ogg": [
 		{
-			"text": "Sujet D-9341, rendez-vous à l’unité de la Mobile Task Force la plus proche pour la récupération de plusieurs objets de haute importance.",
+			"text": "Sujet D-9341, rendez-vous à l’unité de la Force d'Intervention Mobile la plus proche pour la récupération de plusieurs objets de haute importance.",
 			"delay": 2.4,
 			"color": "announcement"
 		}
