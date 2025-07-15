@@ -1978,7 +1978,7 @@
 	],
 	"SFX\\Character\\MTF\\Searching0.ogg": [
 		{
-			"text": "Sors, enfoiré !",
+			"text": "Montre-toi, enfoiré !",
 			"delay": 0.09,
 			"color": "mtf"
 		}
@@ -1991,7 +1991,7 @@
 	],
 	"SFX\\Character\\MTF\\Searching2.ogg": [
 		{
-			"text": "Sors. De toute façon, tu vas mourir.",
+			"text": "Montre-toi. De toute façon, tu vas mourir.",
 			"color": "mtf"
 		}
 	],
@@ -2004,14 +2004,14 @@
 	],
 	"SFX\\Character\\MTF\\Searching4.ogg": [
 		{
-			"text": "Sors, sale batard !",
+			"text": "Montre-toi, espèce d’enfoiré !",
 			"delay": 0.075,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching5.ogg": [
 		{
-			"text": "Javla helvete, sors de là !",
+			"text": "Javla helvete, montre-toi !",
 			"color": "mtf"
 		}
 	],
