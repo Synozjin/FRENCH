@@ -815,7 +815,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew4.ogg": [
 		{
-			"text": "À la porte Tesla G-6.",
+			"text": "Au portail Tesla G-6.",
 			"color": "announcement"
 		}
 	],
@@ -1809,21 +1809,21 @@
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled0.ogg": [
 		{
-			"text": "Contrôle à Nine-Tailed Fox, portail Tesla désactivée.",
+			"text": "Contrôle à Nine-Tailed Fox, portail Tesla désactivé.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled1.ogg": [
 		{
-			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla est désactivée. Vous pouvez passer.",
+			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla est désactivé. Vous pouvez passer.",
 			"delay": 1.25,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled2.ogg": [
 		{
-			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla dans votre secteur est maintenant inactive. Procédez en toute sécurité.",
+			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla dans votre secteur est maintenant inactif. Procédez en toute sécurité.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
@@ -2111,7 +2111,7 @@
 	],
 	"SFX\\Character\\MTF\\TeslaRequest.ogg": [
 		{
-			"text": "Nine-Tailed Fox aux contrôles, on demande la désactivation de la porte Tesla la plus proche de notre position.",
+			"text": "Nine-Tailed Fox aux contrôles, on demande la désactivation du portail Tesla le plus proche de notre position.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
