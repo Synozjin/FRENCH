@@ -237,7 +237,7 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Ok, Bien compris..",
+			"text": "Ok, bien compris..",
 			"delay": 7.78,
 			"color": "ulgrin"
 		}
@@ -3862,7 +3862,7 @@
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion18.ogg": [
 		{
-			"text": "Allez-y, je vous rejoindrai plus tard! Merde.."
+			"text": "Allez-y, je vous rejoindrai plus tard ! Merde..."
 		},
 		{
 			"text": "*CRI*",

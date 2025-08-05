@@ -181,12 +181,16 @@
             "description": "Joue avec le Monstre Chatouilleur."
         },
         "tesla": {
-            "description": "Vous avez attiré le Vieil Homme à travers un portail tesla.",
+            "description": "Vous avez attiré le Vieil Homme à travers un portail Tesla.",
             "name": "Choc post-traumatique"
         },
         "apollyon": {
             "description": "Vous avez fini le jeu en difficulté \"Apollyon\".",
             "name": "Le Bon Survivant"
+        },
+        "009": {
+            "name": "Incident Surgelé",
+            "description": "A interagi avec la glace rouge."
         }
     }
 }

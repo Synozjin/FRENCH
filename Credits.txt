@@ -161,7 +161,7 @@ par "ZiYueCommentary"
 par "CreatorMasters", "Trill Team" et Nikita Sidorov ("Jabka")
 
 		Traduction en français,
-par "EpicDasherFR" et "SinosseRT0"
+par "EpicDasherFR" et "Synoz"
 
 		Traduction en italien,
 par Extol ("amogussusimpostor3")
