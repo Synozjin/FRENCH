@@ -34,56 +34,57 @@
 		"classd": [225, 120, 0],
 		"guard": [180, 180, 150],
 		"janitor": [120, 140, 170],
-		"mtf": [100, 60, 45],
+		"mtf": [120, 84, 65],
 		"nazi": [130, 0, 20],
 		"035": [150, 0, 0],
 		"049": [50, 70, 70],
 		"066": [180, 35, 60],
 		"096": [230, 230, 230],
-		"106": [10, 5, 5],
+		"106": [30, 30, 30],
 		"682": [180, 160, 135],
 		"860-2": [110, 55, 80],
-		"1499-1": [40, 40, 40]
+		"1499-1": [30, 29, 40],
+		"ulgrin":[180, 180, 150]
 	},
 	/* D-9341 */
 	"SFX\\Character\\D9341\\Cough0.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*TOUSSE*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough1.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*TOUSSE*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough2.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*TOUSSE*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough0Gas.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*TOUSSE*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough1Gas.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*TOUSSE*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough2Gas.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*TOUSSE*",
 			"length": 2.0,
 			"color": "classd"
 		}
@@ -92,354 +93,354 @@
 	/* AGENT ULGRIN */
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\BeforeDoorOpen.ogg": [
 		{
-			"text": "Control, this is Agent Ulgrin. I need a request to open up Cell 3-11.",
+			"text": "Contrôle, ici l'Agent Ulgrin. J'ai besoin d'une requête pour ouvrir la cellule 3-11.",
 			"delay": 3.7,
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 4.0
 		},
 		{
-			"text": "Copy that.",
+			"text": "Reçu.",
 			"delay": 8.9,
 			"length": 0.91
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCell.ogg": [
 		{
-			"text": "Hey, they got some work for ya. Do me a favor, and step outta your cell.",
+			"text": "Hé, ils ont du boulot pour toi. Fais moi plaisir, et sors de ta cellule.",
 			"delay": 1.37,
-			"color": "guard",
+			"color": "ulgrin",
 			"length": 4.14
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse0.ogg": [
 		{
-			"text": "What are you, stupid or something? I said step out of the cell. If you don't step out of the cell, I'm gonna kick your ass.",
-			"color": "guard",
+			"text": "T'es débile ou quoi ? Je t'ai dis de sortir. Si tu ne sors pas de ta cellule, je vais te botter le cul.",
+			"color": "ulgrin",
 			"length": 6.05
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse1.ogg": [
 		{
-			"text": "Look buddy, I don't have all day. I'm trying to be polite about this. If you don't step outta the cell, I'm gonna kick your ass.",
-			"color": "guard",
+			"text": "Écoute mon pote, j'ai pas toute la journée. J'essaye de rester poli. Si tu ne sors pas de ta cellule, je vais te botter le cul.",
+			"color": "ulgrin",
 			"length": 5.6
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\CellGas0.ogg": [
 		{
-			"text": "*CHUCKLE* You have got to be the dumbest test subject we've ever had! Oh well, shut the doors and open the gas valves.",
-			"color": "guard",
+			"text": "*RICANE* T'es sans aucun doute le sujet de test le plus con qu'on ait jamais eu ! Très bien, fermez la porte et ouvrez les valves de gaz.",
+			"color": "ulgrin",
 			"length": 7.05
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\CellGas1.ogg": [
 		{
-			"text": "Huh. I'm actually kinda disappointed you didn't put up a fight. I was looking forward to punching you in the face.",
-			"color": "guard",
+			"text": "Ah. Je suis un peu déçu que t'ait pas résisté. J'avais bien envie de t'en coller une.",
+			"color": "ulgrin",
 			"length": 5.71
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\Escort0.ogg": [
 		{
-			"text": "Just follow me. Oh, and by the way, we're authorized to kill any disobedient test subjects. So, don't try anything stupid.",
-			"color": "guard"
+			"text": "Contente-toi de me suivre. Oh, et aussi, on a le droit de tuer les sujets désobéissants. Alors, ne tente rien de stupide..",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\Escort1.ogg": [
 		{
-			"text": "Just follow me. Oh, and by the way, we're authorized to, uh, exterminate any disobedient test subjects. So, I'd recommend not doing anything stupid.",
-			"color": "guard"
+			"text": "Contente-toi de me suivre. Oh, et aussi, on a le droit de, euh, exterminer les sujets désobéissants. Alors je te recommande de ne rien faire de stupide.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRun.ogg": [
 		{
-			"text": "Hey, dumbass! You're going the wrong way! Get the hell over here right now.",
-			"color": "guard"
+			"text": "Hé, ducon ! Tu vas dans la mauvaise direction ! Reviens ici tout de suite.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRefuse0.ogg": [
 		{
-			"text": "Hurry up! They're waiting for you!",
-			"color": "guard"
+			"text": "On se bouge ! Ils t'attendent !",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRefuse1.ogg": [
 		{
-			"text": "Look dude, I already hate my job. Why are you making it more difficult for me?",
-			"color": "guard"
+			"text": "Écoute mec, je déteste déjà mon boulot. Pourquoi tu me compliques la tâche ?",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortPissedOff0.ogg": [
 		{
-			"text": "I ain't in the mood for this shit. I have no problem putting a bullet in your brain if you don't start cooperating.",
-			"color": "guard"
+			"text": "Je suis pas d'humeur pour ça. J'aurais aucun soucis à te coller une balle entre les deux yeux si tu veux pas coopérer.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortPissedOff1.ogg": [
 		{
-			"text": "I'm not in the mood for this shit! I have no problem putting a bullet in your head if you don't start cooperating.",
-			"color": "guard"
+			"text": "Je suis pas d'humeur pour ça ! J'aurais aucun soucis à te coller une balle entre les deux yeux si tu veux pas coopérer.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortKill0.ogg": [
 		{
-			"text": "Alright you know what, fine. Be that way. We'll just get somebody else then.",
-			"color": "guard"
+			"text": "Ok tu sais quoi, très bien. Fais comme tu veux. On va juste prendre quelqu'un d'autre.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortKill1.ogg": [
 		{
-			"text": "Alright, fine. Be that way. We'll just get somebody else then.",
-			"color": "guard"
+			"text": "Ok, très bien. Fais comme tu veux. On va juste prendre quelqu'un d'autre.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortTerminated.ogg": [
 		{
-			"text": "I'll get rid of the body. You can go and fetch me another one...",
-			"color": "guard"
+			"text": "Je me charge du corps. Tu peux aller m'en chercher un autre...",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone0.ogg": [
 		{
-			"text": "Well, we're here. Just get in there, and follow all the instructions and uh... you'll probably be fine.",
-			"color": "guard"
+			"text": "Voilà, on y est. Contente-toi d'y aller et de suivre les instructions et euh... je pense que tout ira bien.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone1.ogg": [
 		{
-			"text": "Well, we're here. I'm still disappointed I didn't get to punch you but... whatever.",
-			"color": "guard"
+			"text": "Voilà, on y est. Je suis toujours déçu de pas avoir pu te frapper mais... bref.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone2.ogg": [
 		{
-			"text": "Well, we're here. I'm still disappointed I didn't get to punch you in the face but... whatever.",
-			"color": "guard"
+			"text": "Voilà, on y est. Je suis toujours déçu de pas avoir pu t'en coller une mais... bref.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone3.ogg": [
 		{
-			"text": "Just get in there and follow all the instructions and uh... you'll probably be fine. Or maybe you won't be. Either way, I don't really care.",
-			"color": "guard"
+			"text": "Contente-toi d'y aller et de suivre les instructions et euh... je pense que tout ira bien. Ou peut-être pas. Dans tout les cas je m'en fous.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone4.ogg": [
 		{
-			"text": "Well anyway, let's not waste anymore time. They're waiting for you down in the chamber.",
-			"color": "guard"
+			"text": "Enfin bref, assez perdu de temps. Ils t'attendent dans la chambre.",
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\WhatThe0b.ogg": [
 		{
-			"text": "Oh shit!",
+			"text": "Oh merde !",
 			"delay": 1.15,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Alright, got it.",
+			"text": "Ok, Bien compris..",
 			"delay": 7.78,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	/* ESCAPE GUARD */
 	"SFX\\Room\\Intro\\Guard\\PlayerEscape.ogg": [
 		{
-			"text": "What the hell? Hey! Stop! He's getting away!",
+			"text": "Qu'est-ce que tu fous ? Hé ! Stop ! Il se barre !",
 			"color": "guard"
 		}
 	],
 	/* GUARD CONVERSATION */
 	"SFX\\Room\\Intro\\Guard\\Conversation0a.ogg": [
 		{
-			"text": "So uh... how's it going?",
-			"color": "guard"
+			"text": "Donc euh... ça va ?",
+			"color": "ulgrin"
 		},
 		{
-			"text": "Well yeah, who do you think I'm talking to? This guy here with the punch-able face? Of course I'm talking to you.",
+			"text": "Bah ouais, à qui tu pense que je parle ? Le gars avec là avec la tête de punching-ball ? Bien sûr que c'est à toi que je parle.",
 			"delay": 5.3,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Well, yeah. It's your first day working here.",
+			"text": "Hé ben, ouais. C'est ton premier jour ici après tout",
 			"delay": 15.4,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Really? Wow. That's weird.",
+			"text": "Sérieux ? Wow. Bizarre.",
 			"delay": 23.65,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation0b.ogg": [
 		{
-			"text": "Uh... are- are you talking to me?",
+			"text": "Euh... c'est- c'est à moi que vous parlez ?",
 			"delay": 3.2,
 			"color": "guard"
 		},
 		{
-			"text": "Oh! I'm just a little surprised. I think this is the first time you've ever spoken to me.",
+			"text": "Oh ! Je suis juste un peu surpris. C'est la première fois que vous m'addressez la parole.",
 			"delay": 10.33,
 			"color": "guard"
 		},
 		{
-			"text": "Uh... actually we've worked together now for about five months.",
+			"text": "Euh... en fait ça fait cinq mois qu'on travaille ensemble.",
 			"delay": 18.95,
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation1a.ogg": [
 		{
-			"text": "Uh... so you seen any good movies lately?",
-			"color": "guard"
+			"text": "Euh... t'as vu des bon films récemment ?",
+			"color": "ulgrin"
 		},
 		{
-			"text": "Yeah? What kind of books?",
+			"text": "Ah ouais ? Quel genre de livre ?",
 			"delay": 7.19,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Heh, you're kidding me?",
+			"text": "Héh, tu te fous de moi ?",
 			"delay": 12.5,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Your whole job revolves around horror and science fiction! Except, y'know, it's not actually fiction.",
+			"text": "Ton boulot se résume déjà à de l'horreur et de la science-fiction ! Sauf que, bah tu sais, c'est pas de la fiction.",
 			"delay": 15.93,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Yeah look, no offense, but I've already lost interest in what you're talking about.",
+			"text": "Ouais bon écoute, je veux pas paraître impolis mais ce que tu dis m'intéresse déjà plus.",
 			"delay": 24.73,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation1b.ogg": [
 		{
-			"text": "Uh, I- I don't really watch movies. I mostly just read books.",
+			"text": "Euh, je- je suis pas trop film. Je préfère lire des livres.",
 			"delay": 3.27,
 			"color": "guard"
 		},
 		{
-			"text": "Uh, horror. Science fiction. Anything like that.",
+			"text": "Euh, horreur. Science-fiction. Des trucs comme ça.",
 			"delay": 9.0,
 			"color": "guard"
 		},
 		{
-			"text": "What?",
+			"text": "Quoi ?",
 			"delay": 14.8,
 			"color": "guard"
 		},
 		{
-			"text": "Well actually, I'm planning on writing a book about my-",
+			"text": "Et bien justement, je prévois d'écrire un livre sur mon-",
 			"delay": 22.5,
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation2a.ogg": [
 		{
-			"text": "Man, I'm hungry. Hey, today's pizza day down at the cafeteria, right?",
-			"color": "guard"
+			"text": "Mec, j'ai la dalle. Hé, c'est pas le jour de la pizza à la cafet aujourd'hui ?",
+			"color": "ulgrin"
 		},
 		{
-			"text": "Oh, God damn it. Well, my day's ruined. The only reason I still come here is for the pizza. I don't know what it is about that pizza, but it's delicious.",
+			"text": "Oh, bordel. Voilà, ma journée est ruinée. La seule raison pour laquelle je continue à venir ici c'est la pizza. Je sais pas pourquoi mais cette pizza, c'est une tuerie.",
 			"delay": 7.65,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Tuna casserole, on the other hand, is a disgusting abomination and it should be locked up in here with the rest of these freaks.",
+			"text": "Le gratin au thon là, par contre, est une abomination et devrait être enfermée ici avec le reste de ces abominations.",
 			"delay": 16.5,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation2b.ogg": [
 		{
-			"text": "Um, a-actually I think it's tuna casserole.",
+			"text": "Hum, bah e-en fait je crois que c'est gratin de pâtes au thon.",
 			"delay": 4.6,
 			"color": "guard"
 		},
 		{
-			"text": "Uhh... okay?",
+			"text": "Euh... ok ?",
 			"delay": 22.93,
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation3a.ogg": [
 		{
-			"text": "You don't have a girlfriend, do you?",
-			"color": "guard"
+			"text": "T'as pas de petite copine, pas vrai ?",
+			"color": "ulgrin"
 		},
 		{
-			"text": "Well, I'm definitely not a mind reader. Otherwise, I'd be locked up in this place. So, yeah, I'd say it's pretty damn obvious.",
+			"text": "Bah, j'suis pas devin. Sinon, je serai enfermé ici. Donc, ouais, je dirai que ça se voit très bien",
 			"delay": 3.3,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Tell her you work at some coffee shop or something.",
+			"text": "Dis lui que tu bosses dans un café ou un truc comme ça..",
 			"delay": 13.51,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Uh, I dunno! Just... tell her it's uh... ketchup.",
+			"text": "Euh, j'en sais rien moi ! T'as qu'à... lui dire que c'est euh... du ketchup.",
 			"delay": 23.55,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Ugh... just forget it.",
+			"text": "Argh... bref laisse tomber.",
 			"delay": 30.45,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation3b.ogg": [
 		{
-			"text": "Is it that obvious?",
+			"text": "Ça se voit tant que ça ?",
 			"delay": 1.94,
 			"color": "guard"
 		},
 		{
-			"text": "Well, how am I supposed to get a girlfriend anyway when I have this job? I mean I can't tell her about it.",
+			"text": "Ben, comment je suis censé avoir une copine en bossant ici ? 'Fin, je peux pas lui en parler.",
 			"delay": 9.14,
 			"color": "guard"
 		},
 		{
-			"text": "Well, what if I accidentally forgot to wash my hands here at work, and I came home and there was blood all over my hands? What would I say to her then?",
+			"text": "Et si jamais j'oublie accidentellement de me laver les mains ici, et que je rentre à la maison avec du sang dessus ? Je lui dis quoi ?",
 			"delay": 16.2,
 			"color": "guard"
 		},
 		{
-			"text": "Ketchup? Why would I have ketchup on my hands if I worked at a coffee shop?",
+			"text": "Du ketchup ? Pourquoi j'aurais du ketchup sur les mains si je bosse dans un café",
 			"delay": 26.5,
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation4a.ogg": [
 		{
-			"text": "Uh... so you seen any good movies lately?",
-			"color": "guard"
+			"text": "Euh... t'as vu des bon films récemment ?",
+			"color": "ulgrin"
 		},
 		{
-			"text": "Oh, okay. Oh, what about video games? Y'know, that reminds me, somebody should make a video game based on this place.",
+			"text": "Oh, ok. Oh, et les jeux-vidéos ? Tu sais quoi, ça me rappelle une idée, quelqu'un devrait créer un jeu sur cet endroit.",
 			"delay": 5.4,
-			"color": "guard"
+			"color": "ulgrin"
 		},
 		{
-			"text": "Eh, I dunno. I just thought it was kind of a cool idea.",
+			"text": "Euh, je ne sais pas. Je pensais que ce serait une bonne idée. .",
 			"delay": 13.5,
-			"color": "guard"
+			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation4b.ogg": [
 		{
-			"text": "Uhh, I- I don't really watch movies.",
+			"text": "Euh, je- je suis pas trop film.",
 			"delay": 3.2,
 			"color": "guard"
 		},
 		{
-			"text": "Why would anyone do that?",
+			"text": "Pourquoi quelqu'un ferait ça ?",
 			"delay": 11.5,
 			"color": "guard"
 		},
 		{
-			"text": "Well, I don't play video games either.",
+			"text": "Bah, dans tout les cas je joue pas aux jeux vidéos.",
 			"delay": 17.0,
 			"color": "guard"
 		}
@@ -447,81 +448,81 @@
 	/* BALCONY GUARD */
 	"SFX\\Room\\Intro\\Guard\\Balcony\\Alert0.ogg": [
 		{
-			"text": "Hey, scaredy-cat, you better get your ass back to the chamber now. I'm not gonna ask you again.",
+			"text": "Hé, petit con, tu ferais mieux de retourner dans cette chambre tout de suite. Je te le dirai pas deux fois.",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Balcony\\Alert1.ogg": [
 		{
-			"text": "Did you really think you could just walk outta here without me noticing? Get back to the chamber now.",
+			"text": "T'as vraiment cru que tu pourrais te barrer sans que je te voie ? Retournes-y maintenant.",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Balcony\\OhShit.ogg": [
 		{
-			"text": "Oh, shit. Oh shit! Shit!",
+			"text": "Oh, merde. Oh merde! Merde!",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Balcony\\WTF0.ogg": [
 		{
-			"text": "What the fuck is happening?",
+			"text": "Putain mais qu'est-ce qu'il se passe ?",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Balcony\\WTF1.ogg": [
 		{
-			"text": "What the fuck is happening!?",
+			"text": "Il se passe quoi bordel !?",
 			"color": "guard"
 		}
 	],
 	/* FRANKLIN */
 	"SFX\\Room\\Intro\\WhatThe0a.ogg": [
 		{
-			"text": "Agent, behind you!"
+			"text": "Agent, derrière vous !"
 		},
 		{
-			"text": "Keep your eyes on it!",
+			"text": "Ne le quittez pas des yeux !",
 			"delay": 1.65
 		},
 		{
-			"text": "Alright, I'm going to blink. Just keep on watching it.",
+			"text": "Ok, je vais cligner. Continuez à le regarder.",
 			"delay": 4.82
 		}
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\EnterChamber.ogg": [
 		{
-			"text": "Attention all Class-D personnel, please enter the containment chamber.",
+			"text": "Votre attention s'il vous plaît, personnels de Classe-D, veuillez entrer dans la chambre de confinement.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse0.ogg": [
 		{
-			"text": "Subject D-9341, enter the containment chamber or you will be terminated!",
+			"text": "Sujet D-9341, entrez dans la chambre de confinement ou vous serez éliminé !",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse1.ogg": [
 		{
-			"text": "This is your last warning, you have five seconds to comply!",
+			"text": "C'est votre dernier avertissement, vous avez 5 secondes !",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse2.ogg": [
 		{
-			"text": "Subject D-9341 designated for terminated. Fire at will!",
+			"text": "Sujet D-9341 désigné pour l'élimination. Feu à volonté !",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Approach173.ogg": [
 		{
-			"text": "Please approach SCP-173 for testing.",
+			"text": "Veuillez approcher SCP-173 pour des tests.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Problem.ogg": [
 		{
-			"text": "Uhm, there seems to be a problem with the door control system. The doors aren't responding to any of our attempts to close them. So, please maintain direct eye contact with SCP-173",
+			"text": "Euh, il semble y avoir un problème avec le système de contrôle de la porte. Les portes ne répondent à aucune de nos tentatives de les fermer. Donc, s’il vous plaît, maintenez un contact visuel direct avec SCP-173.",
 			"color": "announcement",
 			"length": 6.57
 		}
@@ -529,94 +530,94 @@
 	/* CLASS-D */
 	"SFX\\Room\\Intro\\ClassD\\DontLikeThis.ogg": [
 		{
-			"text": "I don't like this. I really don't.",
+			"text": "J'aime pas ça. Vraiment pas.",
 			"color": "classd"
 		}
 	],
 	"SFX\\Room\\Intro\\ClassD\\Breen.ogg": [
 		{
-			"text": "Wait, what the-",
+			"text": "Attend, c'est quoi ce-",
 			"color": "classd"
 		}
 	],
 	/* SCIENTIST */
 	"SFX\\Room\\Intro\\Scientist\\Conversation.ogg": [
 		{
-			"text": "For some reason he passed by 079's chamber, and now the doors aren't working."
+			"text": "Pour certaines raisons, il est passé par la chambre de 079, et maintenant les portes ne marchent plus."
 		},
 		{
-			"text": "Well, at least they weren't working when I last passed by.",
+			"text": "Du moins, elles ne marchaient plus la dernière fois que j'y suis passé.",
 			"delay": 5.0
 		},
 		{
-			"text": "Skinner?",
+			"text": "Skinner ?",
 			"delay": 12.2
 		},
 		{
-			"text": "Hmm, I don't recall knowing him.",
+			"text": "Hmm, son nom me dit rien",
 			"delay": 15.4
 		},
 		{
-			"text": "Was he ever stationed at this sector?",
+			"text": "Il a déjà été affecté à ce secteur ?",
 			"delay": 17.65
 		},
 		{
-			"text": "Yeah, he picked up a security agent and a junior researcher on the way.",
+			"text": "Ouais, il a récupéré un agent de sécurité et un chercheur junior sur le chemin.",
 			"delay": 25.3
 		},
 		{
-			"text": "Kid was taking papers to his supervisor, shit sucks.",
+			"text": "Le gamin apportait des papiers à son superviseur, ça craint putain.",
 			"delay": 29.5
 		},
 		{
-			"text": "It shook up Dr. L. pretty badly.",
+			"text": "Ça a pas mal secoué le Dr. L.",
 			"delay": 36.2
 		},
 		{
-			"text": "He hasn't left his office, says he's been hearing things.",
+			"text": "Il n'a pas quitté son bureau, il dit qu'il a entendu des choses...",
 			"delay": 38.2
 		}
 	],
 	/* IA SYSTEM */
 	"SFX\\Room\\Intro\\IA\\1\\Attention0.ogg": [
 		{
-			"text": "Attention.",
+			"text": "Votre attention.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\1\\Attention1.ogg": [
 		{
-			"text": "Attention, please.",
+			"text": "Votre attention, s'il vous plait...",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew0.ogg": [
 		{
-			"text": "Maintenance Crew Echo",
+			"text": "Groupe de maintenance Echo",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew1.ogg": [
 		{
-			"text": "Electrician Crew Lima",
+			"text": "Groupe d'électriciens Lima",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew2.ogg": [
 		{
-			"text": "Inspection Team Sierra",
+			"text": "Équipe d'inspection Sierra",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew3.ogg": [
 		{
-			"text": "Technician Team A3",
+			"text": "Équipe de techniciens A3",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew4.ogg": [
 		{
-			"text": "Janitorial Crew 4E",
+			"text": "Groupe de nettoyage 4E",
 			"color": "announcement"
 		}
 	],
@@ -628,121 +629,121 @@
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist0.ogg": [
 		{
-			"text": "Head Researcher Furnace",
+			"text": "Chercheur en chef Furnace",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist1.ogg": [
 		{
-			"text": "Assistant Researcher Conway",
+			"text": "Chercheur assistante Conway",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist2.ogg": [
 		{
-			"text": "Junior Researcher Rosing",
+			"text": "Chercheur junior Rosing",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist3.ogg": [
 		{
-			"text": "Senior Researcher Palmer",
+			"text": "Chercheur sénior Palmer",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist4.ogg": [
 		{
-			"text": "Doctor Burk",
+			"text": "Docteur Burk",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist5.ogg": [
 		{
-			"text": "Doctor Caldera",
+			"text": "Docteur Caldera",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist6.ogg": [
 		{
-			"text": "Doctor Harp",
+			"text": "Docteur Harp",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist7.ogg": [
 		{
-			"text": "Doctor Gears",
+			"text": "Docteur Gears",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist8.ogg": [
 		{
-			"text": "Doctor Clef",
+			"text": "Docteur Clef",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist9.ogg": [
 		{
-			"text": "Doctor Kondraki",
+			"text": "Docteur Kondraki",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist10.ogg": [
 		{
-			"text": "Doctor Valdeson",
+			"text": "Docteur Valdeson",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist11.ogg": [
 		{
-			"text": "Assistant Researcher Cooley",
+			"text": "Chercheur assistant Cooley",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist12.ogg": [
 		{
-			"text": "Chief Electrician Wagner",
+			"text": "Chercheur assistant Cooley",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist13.ogg": [
 		{
-			"text": "Security Officer Ingreso",
+			"text": "Agent de sécurité Ingreso",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist14.ogg": [
 		{
-			"text": "Communications Specialist Furnace",
+			"text": "Spécialiste des communications Furnace",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist15.ogg": [
 		{
-			"text": "Transportation Dispatcher Conway",
+			"text": "Répartitrice des transports Conway",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist16.ogg": [
 		{
-			"text": "Safety Director Paxton",
+			"text": "Directrice de la sécurité Paxton",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist17.ogg": [
 		{
-			"text": "Research Director Reed",
+			"text": "Directeur des recherches Reed",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security0.ogg": [
 		{
-			"text": "Security Team 12-B",
+			"text": "Équipe de sécurité 12-B",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security1.ogg": [
 		{
-			"text": "Security Team 7-A",
+			"text": "Équipe de sécurité 7-A",
 			"color": "announcement"
 		}
 	],
@@ -754,229 +755,229 @@
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security3.ogg": [
 		{
-			"text": "Security Team 3-F",
+			"text": "Équipe de sécurité 3-F",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security4.ogg": [
 		{
-			"text": "Security Team 11-C",
+			"text": "Équipe de sécurité 11-C",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security5.ogg": [
 		{
-			"text": "Sergeant Valdeson",
+			"text": "Sergent Valdeson",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\3\\CallOnLine.ogg": [
 		{
-			"text": "Call on-line.",
+			"text": "Appel en ligne.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\3\\Report0.ogg": [
 		{
-			"text": "Report to.",
+			"text": "Rendez-vous.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\3\\Report1.ogg": [
 		{
-			"text": "Please report to.",
+			"text": "Veuillez vous rendre.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew0.ogg": [
 		{
-			"text": "Decontamination Gate 14.",
+			"text": "À la porte de décontamination 14.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew1.ogg": [
 		{
-			"text": "Maintenance Tunnel Checkpoint D.",
+			"text": "Au checkpoint D du tunnel de maintenance.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew2.ogg": [
 		{
-			"text": "Service Tunnel A.",
+			"text": "Au tunnel de service A.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew3.ogg": [
 		{
-			"text": "Storage Complex F.",
+			"text": "Au complexe de stockage F.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew4.ogg": [
 		{
-			"text": "Tesla Gate G-6.",
+			"text": "À la porte Tesla G-6.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew5.ogg": [
 		{
-			"text": "Lavatory C-30.",
+			"text": "Aux sanitaires C-30.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew6.ogg": [
 		{
-			"text": "Decontamination Checkpoint H-13.",
+			"text": "Au checkpoint de décontamination H-13.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist0.ogg": [
 		{
-			"text": "Office Complex E.",
+			"text": "Au complexe de bureau E.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist1.ogg": [
 		{
-			"text": "Office Complex Floor 3.",
+			"text": "Au complexe de bureau étage 3.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist2.ogg": [
 		{
-			"text": "Personnel Dormatories Floor 3.",
+			"text": "Dans les dortoirs du personnel étage 3.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist3.ogg": [
 		{
-			"text": "Testing Lab 5-B.",
+			"text": "Au laboratoire de tests 5-B.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist4.ogg": [
 		{
-			"text": "Office Complex B-12.",
+			"text": "Au complexe de bureau B-12.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist5.ogg": [
 		{
-			"text": "Gate C Administrations Complex.",
+			"text": "Au complexe d'administrations de la Porte C.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist6.ogg": [
 		{
-			"text": "Storage Facilities G-5.",
+			"text": "Aux complexes de stockage G-5.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist7.ogg": [
 		{
-			"text": "Head Office A.",
+			"text": "Au siège social A.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security0.ogg": [
 		{
-			"text": "Cell-Block Delta.",
+			"text": "Au bloc de cellules Delta.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security1.ogg": [
 		{
-			"text": "Firing Range Foxtrot.",
+			"text": "Au stand de tir Foxtrot.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security2.ogg": [
 		{
-			"text": "Gate A.",
+			"text": "À la Gate A.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security3.ogg": [
 		{
-			"text": "Heavy Containment Checkpoint Alpha.",
+			"text": "Confinement Lourd Checkpoint Alpha.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security4.ogg": [
 		{
-			"text": "Entrance Checkpoint Bravo.",
+			"text": "Entrée Checkpoint Bravo..",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security5.ogg": [
 		{
-			"text": "Light Containment Checkpoint Kilo B.",
+			"text": "Confinement Léger Checkpoint Kilo B.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew0.ogg": [
 		{
-			"text": "For maintenance.",
+			"text": "Pour maintenance.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew1.ogg": [
 		{
-			"text": "For engineering service.",
+			"text": "Pour service d'ingénierie.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew2.ogg": [
 		{
-			"text": "For janitorial service.",
+			"text": "Pour service de nettoyage.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew3.ogg": [
 		{
-			"text": "For clean-up.",
+			"text": "Pour nettoyage.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew4.ogg": [
 		{
-			"text": "For scheduled inspection.",
+			"text": "Pour inspection planifiée",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew5.ogg": [
 		{
-			"text": "For scheduled safety inspection.",
+			"text": " Pour inspection de sécurité programmée.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew6.ogg": [
 		{
-			"text": "For immediate decontaimination clean-up.",
+			"text": "Pour nettoyage de décontamination immédiat.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Scientist0.ogg": [
 		{
-			"text": "For scheduled security inspection.",
+			"text": "Pour inspection de sécurité programmée.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Security0.ogg": [
 		{
-			"text": "For briefing.",
+			"text": "Pour briefing.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Security1.ogg": [
 		{
-			"text": "For immediate service.",
+			"text": "Pour service immédiat.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Security2.ogg": [
 		{
-			"text": "For personnel control.",
+			"text": " Pour contrôle du personnel.",
 			"color": "announcement"
 		}
 	],
@@ -1036,103 +1037,103 @@
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement0.ogg": [
 		{
-			"text": "Don't forget, today is pizza day. So head on down to the cafeteria to grab yourself a hot slice.",
+			"text": "N’oubliez pas, aujourd’hui c’est le jour de la pizza. Alors rendez-vous à la cafétéria pour vous prendre une part bien chaude.",
 			"delay": 1.9,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement1.ogg": [
 		{
-			"text": "Remember, security is the first step towards a safe work environment. Stay secure, stay vigilant.",
+			"text": "Rappelez-vous, la sécurité est la première étape vers un environnement de travail sûr. Restez en sécurité, restez vigilant.",
 			"delay": 1.85,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement2.ogg": [
 		{
-			"text": "A reminder to all personnel, motivational seminars are held at the faculty auditorium from hours 17 to 18 on Thursdays. Come on down and get motivated!",
+			"text": "Rappel à tout le personnel : des séminaires de motivation ont lieu au auditorium de la faculté de 17h à 18h les jeudis. Venez nombreux pour vous motiver !",
 			"delay": 2.0,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement3.ogg": [
 		{
-			"text": "Remember to report all suspicious activity to your supervisors. Not even you are exempt from scrutiny. Stay paranoid. Stay vigilant.",
+			"text": "N’oubliez pas de signaler toute activité suspecte à vos superviseurs. Même vous n’êtes pas à l’abri d’une inspection. Restez paranoïaque. Restez vigilant.",
 			"delay": 1.95,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement4.ogg": [
 		{
-			"text": "Feeling out of shape? Drop by the faculty gymnasium and feel free to participate in a game of community Badminton on Sundays!",
+			"text": "Vous ne vous sentez pas en forme ? Passez par le gymnase de la faculté et n’hésitez pas à participer à une partie de badminton communautaire le dimanche !",
 			"delay": 2.0,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement5.ogg": [
 		{
-			"text": "Feeling tired and overworked? Freshly brewed coffee is served at the cafeteria at all hours.",
+			"text": "Vous vous sentez fatigué et surmené ? Du café fraîchement préparé est servi à la cafétéria à toute heure.",
 			"delay": 2.0,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement6.ogg": [
 		{
-			"text": "Come down and join our annual movie night this Saturday! This years film, 'Area 51: Panic and Terror: Two Miles Under'",
+			"text": "Venez participer à notre soirée cinéma annuelle ce samedi ! Le film de cette année : « Area 51 : Panique et terreur : à deux miles sous terre ».",
 			"delay": 1.95,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted0.ogg": [
 		{
-			"text": "Attention. Security Chief Franklin, please report to containment chamber 173 immediately.",
+			"text": "Votre Attention. Le chef de la sécurité Franklin, veuillez vous présenter immédiatement à la chambre de confinement 173.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted1.ogg": [
 		{
-			"text": ">Doctor L, please report to Heavy Containment checkpoint C.",
+			"text": "Docteur L, veuillez vous présenter au poste de confinement renforcé C.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted2.ogg": [
 		{
-			"text": "Attention. Doctor Maynard, report to administrations office immediately.",
+			"text": "Attention. Docteur Maynard, veuillez vous présenter immédiatement au bureau de l’administration.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted3.ogg": [
 		{
-			"text": "Maintenance Crew Alpha, report to Light Containment elevator 6A for safety inspection.",
+			"text": "Équipe de maintenance Alpha, rendez-vous à l’ascenseur 6A du secteur de confinement léger pour inspection de sécurité.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted4.ogg": [
 		{
-			"text": "Attention. Site Director Rosewood, please report to administrations complex.",
+			"text": "Attention. Directeur du site Rosewood, veuillez vous présenter au complexe administratif.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted5.ogg": [
 		{
-			"text": "Attention. All personnel, report to-",
+			"text": "Attention. Tout le personnel est prié de se rendre à-",
 			"delay": 2.2,
 			"color": "announcement"
 		},
 		{
-			"text": "*INCOHERENT SOUNDS*",
+			"text": "*SONS INCOHÉRENTS*",
 			"delay": 5.6,
 			"color": "announcement"
 		},
 		{
-			"text": "Immediately.",
+			"text": "Immédiatement.",
 			"delay": 7.65,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Alarm\\Alarm1_1.ogg": [
 		{
-			"text": "This site is experiencing multiple Keter and Euclid-level containment breaches. Full-site lockdown initiated.",
+			"text": "Ce site subit plusieurs brèches de confinement de niveau Keter et Euclide. Mise en confinement total du site activée.",
 			"delay": 0.6,
 			"color": "announcement"
 		}
@@ -1140,126 +1141,126 @@
 	/* CHARACTERS */
 	"SFX\\Character\\Maintenance\\EscapeFromClosets.ogg": [
 		{
-			"text": "I think the shortest way out is through the South-East wing. Follow me.",
+			"text": "Je pense que la sortie la plus courte passe par l’aile sud-est. Suivez-moi.",
 			"color": "crew"
 		}
 	],
 	"SFX\\Character\\Scientist\\EscapeFromClosets.ogg": [
 		{
-			"text": "Did you hear that?"
+			"text": "Tu as entendu ça ?"
 		},
 		{
-			"text": "I hope it wasn't-",
+			"text": "J’espère que ce n’était pas-",
 			"delay": 1.9
 		}
 	],
 	/* 096 GUARD */
 	"SFX\\Character\\Guard\\096ServerRoom0.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Bonjour ?",
 			"delay": 1.4,
 			"color": "guard"
 		},
 		{
-			"text": "Oh God...",
+			"text": "Oh bon Dieu...",
 			"delay": 4.7,
 			"color": "guard"
 		},
 		{
-			"text": "How did he get out?",
+			"text": "Comment il est sorti ?",
 			"delay": 6.5,
 			"color": "guard"
 		},
 		{
-			"text": "Oh shit...",
+			"text": "Oh merde...",
 			"delay": 8.75,
 			"color": "guard"
 		},
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"delay": 8.83,
 			"color": "096"
 		},
 		{
-			"text": "No... no!",
+			"text": "Non... non!",
 			"delay": 10.15,
 			"color": "guard"
 		},
 		{
-			"text": "I saw it!",
+			"text": "Je l’ai vu !",
 			"delay": 11.5,
 			"color": "guard"
 		},
 		{
-			"text": "Get away from me!",
+			"text": "Éloigne-toi de moi !",
 			"delay": 12.8,
 			"color": "guard"
 		},
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"delay": 15.2,
 			"color": "096"
 		},
 		{
-			"text": "No not me... not me!",
+			"text": "Non, pas moi... pas moi !",
 			"delay": 16.3,
 			"color": "guard"
 		}
 	],
 	"SFX\\Character\\Guard\\096ServerRoom1.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"color": "096"
 		}
 	],
 	/* 895 GUARD */
 	"SFX\\Room\\895Chamber\\GuardIdle0.ogg": [
 		{
-			"text": "Nothing's working... nothing's working.... No, no. No!",
+			"text": "Rien ne marche... rien ne marche... Non, non. Non !",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\895Chamber\\GuardIdle1.ogg": [
 		{
-			"text": "What are you doing to my head? No... no please... please! No!",
+			"text": "Qu’est-ce que tu fais à ma tête ? Non... non pitié... s’il te plaît ! Non !",
 			"delay": 0.35,
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\895Chamber\\GuardIdle2.ogg": [
 		{
-			"text": "Don't stress... they're speaking to me...",
+			"text": "Ne stresse pas... ils me parlent...",
 			"delay": 1.3,
 			"color": "guard"
 		},
 		{
-			"text": "I- I don't know what to do on my own... please, please help me!",
+			"text": "J- je ne sais pas quoi faire tout seul... s’il te plaît, s’il te plaît aide-moi !",
 			"delay": 4.65,
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\895Chamber\\GuardScream0.ogg": [
 		{
-			"text": "No!",
+			"text": "Non!",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\895Chamber\\GuardScream1.ogg": [
 		{
-			"text": "No!",
+			"text": "Non!",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\895Chamber\\GuardScream2.ogg": [
 		{
-			"text": "No!",
+			"text": "Non!",
 			"color": "guard"
 		}
 	],
 	/* EMILY ROSS */
 	"SFX\\Character\\Scientist\\EmilyScream.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"delay": 1.4,
 			"length": 1.0
 		}
@@ -1267,78 +1268,78 @@
 	/* 008 SCIENTIST */
 	"SFX\\SCP\\008\\KillScientist0.ogg": [
 		{
-			"text": "Please! Oh God... please..."
+			"text": "S’il vous plaît ! Oh mon Dieu... s’il vous plaît..."
 		},
 		{
-			"text": "Please no!",
+			"text": "S’il vous plaît non!",
 			"delay": 7.14
 		}
 	],
 	"SFX\\SCP\\008\\KillScientist1.ogg": [
 		{
-			"text": "*PAIN*"
+			"text": "*DOULEUR*"
 		}
 	],
 	/* 008 VOICES */
 	"SFX\\SCP\\008\\Voices0.ogg": [
 		{
-			"text": "*RAMBLING SPEECH*",
+			"text": "*DISCOURS CONFUS*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices1.ogg": [
 		{
-			"text": "*RAMBLING SPEECH*",
+			"text": "*DISCOURS CONFUS*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices2.ogg": [
 		{
-			"text": "*RAMBLING SPEECH*",
+			"text": "*DISCOURS CONFUS*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices3.ogg": [
 		{
-			"text": "*RAMBLING SPEECH*",
+			"text": "*DISCOURS CONFUS*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices4.ogg": [
 		{
-			"text": "*RAMBLING SPEECH*",
+			"text": "*DISCOURS CONFUS*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices5.ogg": [
 		{
-			"text": "*RAMBLING SPEECH*",
+			"text": "*DISCOURS CONFUS*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices6.ogg": [
 		{
-			"text": "*RAMBLING SPEECH*",
+			"text": "*DISCOURS CONFUS*",
 			"color": "066"
 		}
 	],
 	/* SCP-096 */
 	"SFX\\SCP\\096\\ElevatorSlam.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"color": "096"
 		}
 	],
 	"SFX\\SCP\\096\\Scream.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"color": "096"
 		}
 	],
 	/* SUICIDE GUARD */
 	"SFX\\Character\\Guard\\SuicideGuard0.ogg": [
 		{
-			"text": "Please...",
+			"text": "Pitié...",
 			"delay": 1.1,
 			"color": "guard"
 		},
@@ -1348,54 +1349,54 @@
 			"color": "guard"
 		},
 		{
-			"text": "God...",
+			"text": "Mon Dieu...",
 			"delay": 5.75,
 			"color": "guard"
 		},
 		{
-			"text": "Oh God...",
+			"text": "Oh mon Dieu...",
 			"delay": 7.25,
 			"color": "guard"
 		},
 		{
-			"text": "Please...",
+			"text": "s'il vous plaît...",
 			"delay": 9.0,
 			"color": "guard"
 		},
 		{
-			"text": "Please God... please God... please help me...",
+			"text": "Pitié mon Dieu... Pitié mon Dieu... S'il vous plaît aidez-moi...",
 			"delay": 13.6,
 			"color": "guard"
 		},
 		{
-			"text": "Oh God...",
+			"text": "Oh bon Dieu...",
 			"delay": 18.7,
 			"color": "guard"
 		},
 		{
-			"text": "Please forgive me...",
+			"text": "S'il vous plaît pardonnez-moi...",
 			"delay": 19.9,
 			"color": "guard"
 		},
 		{
-			"text": "Please...",
+			"text": "Pitié...",
 			"delay": 21.95,
 			"color": "guard"
 		},
 		{
-			"text": "Please help me...",
+			"text": "Pitié aidez-moi...",
 			"delay": 23.1,
 			"color": "guard"
 		}
 	],
 	"SFX\\Character\\Guard\\SuicideGuard1.ogg": [
 		{
-			"text": "The hell was that?",
+			"text": "C'était quoi ?",
 			"delay": 0.33,
 			"color": "guard"
 		},
 		{
-			"text": "Oh no...",
+			"text": "Oh non...",
 			"delay": 1.5,
 			"color": "guard"
 		}
@@ -1403,11 +1404,11 @@
 	/* JANITOR */
 	"SFX\\Character\\Janitor\\106Abduct.ogg": [
 		{
-			"text": "What the hell?",
+			"text": "c’est quoi ce bordel ?",
 			"color": "janitor"
 		},
 		{
-			"text": "Oh, it's just somebody",
+			"text": "Oh, c’est juste quelqu’un.",
 			"delay": 1.6,
 			"color": "janitor"
 		},
@@ -1419,32 +1420,32 @@
 	],
 	"SFX\\Character\\Janitor\\Idle.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Hé ho ?",
 			"delay": 2.3,
 			"color": "janitor"
 		},
 		{
-			"text": "Guys, c'mon!",
+			"text": "Allez, les gars !",
 			"delay": 7.0,
 			"color": "janitor"
 		},
 		{
-			"text": "Guys?",
+			"text": "Les gars ?",
 			"delay": 12.25,
 			"color": "janitor"
 		},
 		{
-			"text": "Hello? Is there someone else here?",
+			"text": "Hé ho ? Y a quelqu'un là-dedans?",
 			"delay": 16.5,
 			"color": "janitor"
 		},
 		{
-			"text": "Hello?",
+			"text": "Hé ho ?",
 			"delay": 25.0,
 			"color": "janitor"
 		},
 		{
-			"text": "Anyone?",
+			"text": "Quelqu'un ?",
 			"delay": 27.1,
 			"color": "janitor"
 		}
@@ -1452,46 +1453,46 @@
 	/* LURE SUBJECT */
 	"SFX\\Character\\LureSubject\\Idle0.ogg": [
 		{
-			"text": "*SNIFFLING*",
+			"text": "*RENIFLEMENT*",
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\LureSubject\\Idle1.ogg": [
 		{
-			"text": "Is anyone out there?",
+			"text": "Il y a quelqu’un ?",
 			"delay": 0.6,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\LureSubject\\Idle2.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Hé ho ?",
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\LureSubject\\Idle3.ogg": [
 		{
-			"text": "Please, let me go!",
+			"text": "Lâchez-moi, s'il vous plaît !",
 			"delay": 0.4,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\LureSubject\\Idle4.ogg": [
 		{
-			"text": "Let me go!",
+			"text": "Laissez-moi partir",
 			"delay": 0.9,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\LureSubject\\Idle5.ogg": [
 		{
-			"text": "I just want to leave, please!",
+			"text": "Je veux juste partir, s’il vous plaît !",
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\LureSubject\\Sniffling.ogg": [
 		{
-			"text": "*SNIFFLING*",
+			"text": "*RENIFLEMENT*",
 			"delay": 0.85,
 			"color": "classd"
 		}
@@ -1503,7 +1504,7 @@
 			"color": "classd"
 		},
 		{
-			"text": "*GASPING*",
+			"text": "*HALÈTEMENT*",
 			"delay": 5.6,
 			"color": "classd"
 		},
@@ -1513,29 +1514,29 @@
 			"color": "classd"
 		},
 		{
-			"text": "*GASPING*",
+			"text": "*HALÈTEMENT*",
 			"delay": 10.7,
 			"color": "classd"
 		},
 		{
-			"text": "Why??",
+			"text": "Pourquoi ??",
 			"delay": 14.0,
 			"color": "classd"
 		},
 		{
-			"text": "*CRYING*",
+			"text": "*PLEURE*",
 			"delay": 15.5,
 			"color": "classd"
 		}
 	],
 	"SFX\\Character\\LureSubject\\106Bait.ogg": [
 		{
-			"text": "*CRYING*",
+			"text": "*PLEURE*",
 			"delay": 1.7,
 			"color": "classd"
 		},
 		{
-			"text": "*CRYING*",
+			"text": "*PLEURE*",
 			"delay": 8.5,
 			"color": "classd"
 		},
@@ -1548,31 +1549,31 @@
 	/* D-9341 */
 	"SFX\\SCP\\012\\Speech0.ogg": [
 		{
-			"text": "A little... really...",
+			"text": "Un peu… vraiment…",
 			"delay": 1.47,
 			"color": "classd"
 		},
 		{
-			"text": "I have to... I have to finish it...",
+			"text": "Je dois… Je dois le finir…",
 			"delay": 6.6,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\012\\Speech1.ogg": [
 		{
-			"text": "You really want to do it...",
+			"text": "Tu veux vraiment le faire...",
 			"delay": 0.19,
 			"color": "classd"
 		},
 		{
-			"text": "I don't... think I can do this...",
+			"text": "Je pense … pas pouvoir y arriver…",
 			"delay": 13.68,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\012\\Speech2.ogg": [
 		{
-			"text": "I... I must do it...",
+			"text": "Je… je dois le faire….",
 			"delay": 5.45,
 			"color": "classd"
 		},
@@ -1584,14 +1585,14 @@
 	],
 	"SFX\\SCP\\012\\Speech3.ogg": [
 		{
-			"text": "I... I... have... no... choice...",
+			"text": "Je… je… n’ai… pas… le… choix…",
 			"delay": 0.18,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\012\\Speech4.ogg": [
 		{
-			"text": "Please...",
+			"text": "S’il te plaît...",
 			"color": "classd"
 		},
 		{
@@ -1600,14 +1601,14 @@
 			"color": "classd"
 		},
 		{
-			"text": "This... this makes no sense...",
+			"text": "Ça… ça n’a aucun sens…",
 			"delay": 7.3,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\012\\Speech5.ogg": [
 		{
-			"text": "No... this... this is...",
+			"text": "Non… c'est… c'est…",
 			"delay": 6.5,
 			"color": "classd"
 		},
@@ -1624,7 +1625,7 @@
 			"color": "classd"
 		},
 		{
-			"text": "It... it can't be completed...",
+			"text": "Ça… ça ne peut pas être complété...",
 			"delay": 8.3,
 			"color": "classd"
 		}
@@ -1646,43 +1647,43 @@
 	/* NAZI */
 	"SFX\\SCP\\1123\\Officer0.ogg": [
 		{
-			"text": "Friedhelm, come.",
+			"text": "Friedhelm, viens.",
 			"color": "nazi"
 		}
 	],
 	"SFX\\SCP\\1123\\Officer1.ogg": [
 		{
-			"text": "Come on, now!",
+			"text": "Viens ici, maintenant !",
 			"color": "nazi"
 		}
 	],
 	"SFX\\SCP\\1123\\Officer2.ogg": [
 		{
-			"text": "I had this feeling from the beginning.",
+			"text": "J'ai eu ce sentiment depuis le début.",
 			"color": "nazi"
 		},
 		{
-			"text": "The others said: He is one, he looks like one.",
+			"text": "Les autres disent : C'en est un, il en a l'air.",
 			"delay": 3.19,
 			"color": "nazi"
 		},
 		{
-			"text": "*CHUCKLE*",
+			"text": "*GLOUSSE*",
 			"delay": 7.99,
 			"color": "nazi"
 		},
 		{
-			"text": "Yes, Viktor.",
+			"text": "Oui, Viktor.",
 			"delay": 9.41,
 			"color": "nazi"
 		},
 		{
-			"text": "Now I know it.",
+			"text": "Maintenant je le sais.",
 			"delay": 12.18,
 			"color": "nazi"
 		},
 		{
-			"text": "You're a German and a Jew.",
+			"text": "Tu es un allemand et un juif.",
 			"delay": 15.45,
 			"color": "nazi"
 		}
@@ -1690,139 +1691,139 @@
 	/* MTF ANNOUNCEMENTS */
 	"SFX\\Character\\MTF\\AnnouncEnter.ogg": [
 		{
-			"text": "Mobile Task Force unit Epsilon-11, designated «Nine-Tailed Fox» has entered the facility.",
+			"text": "L’unité de la Force d'Intervention Mobile Epsilon-11, désignée « Nine-Tailed Fox », est entrée dans l’installation.",
 			"delay": 1.7,
 			"color": "announcement"
 		},
 		{
-			"text": "All remaining survivors are advised to stay in the evacuation shelter or any other safe area until the unit has secured the facility.",
+			"text": "Tous les survivants restants sont invités à rester dans les abris d’évacuation ou dans toute autre zone sûre jusqu’à ce que l’unité ait sécurisé l’installation.",
 			"delay": 8.0,
 			"color": "announcement"
 		},
 		{
-			"text": "We'll start escorting personnel out when the escaped SCPs have been recontained.",
+			"text": "Nous commencerons à escorter le personnel vers la sortie une fois que les SCP évadés auront été reconfinés.",
 			"delay": 17.5,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncAfter0.ogg": [
 		{
-			"text": "I would like to advise all surviving personnel, once again,",
+			"text": "Je souhaite une fois de plus informer tout le personnel survivant,",
 			"delay": 2.1,
 			"color": "announcement"
 		},
 		{
-			"text": "Do not attempt to reach the exits. Either find a safe area or go into one of the many evacuation shelters inside the facility.",
+			"text": "Ne tentez pas de rejoindre les sorties. Trouvez une zone sûre ou réfugiez-vous dans l’un des nombreux abris d’évacuation à l’intérieur de l’installation.",
 			"delay": 5.95,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncAfter1.ogg": [
 		{
-			"text": "An announcement to all personnel: the lift to Gate B has been locked down to ensure the safety of the upper areas of the facility.",
+			"text": "Annonce à tout le personnel : l’ascenseur menant à la Gate B a été verrouillé afin d’assurer la sécurité des zones supérieures de l’installation.",
 			"delay": 3.0,
 			"color": "announcement"
 		},
 		{
-			"text": "Please remember to stay inside the evacuation shelters until the facility has been secured.",
+			"text": "Merci de rester à l’intérieur des abris d’évacuation jusqu’à ce que l’installation soit sécurisée.",
 			"delay": 11.0,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncCameraCheck.ogg": [
 		{
-			"text": "Control to Nine-Tailed Fox, we are now checking the camera feeds for potential threats. You should see any unauthorized intruders or escapees ping on your navigation devices.",
+			"text": "Contrôle à Nine-Tailed Fox, nous vérifions actuellement les flux des caméras pour détecter toute menace potentielle. Vous devriez voir sur vos dispositifs de navigation les intrus ou évadés non autorisés apparaître sous forme de points.",
 			"delay": 2.2,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncCameraFound1.ogg": [
 		{
-			"text": "Control to Nine-Tailed Fox, camera scan complete. Multiple stragglers, their positions are now being broadcasted to you.",
+			"text": "Contrôle à Nine-Tailed Fox, scan des caméras terminé. Plusieurs retardataires détectés, leurs positions vous sont maintenant transmises.",
 			"delay": 2.3,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncCameraFound2.ogg": [
 		{
-			"text": "Control to Nine-Tailed Fox, camera scan complete. Only a single Class-D remains.",
+			"text": "Contrôle à Nine-Tailed Fox, scan des caméras terminé. Il ne reste plus qu’un seul Classe-D.",
 			"delay": 2.45,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncCameraNoFound.ogg": [
 		{
-			"text": "Control to Nine-Tailed Fox, camera scan complete. No signs of unauthorized survivors, over.",
+			"text": "Contrôle à Nine-Tailed Fox, scan des caméras terminé. Aucun signe de survivants non autorisés, terminé.",
 			"delay": 1.0,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\Announc106Contained.ogg": [
 		{
-			"text": "SCP-106 contained successfully by Foxtrot unit one.",
+			"text": "SCP-106 confiné avec succès par l’unité Foxtrot 1.",
 			"delay": 1.07,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\Announc173Contained.ogg": [
 		{
-			"text": "SCP-173 contained successfully by Foxtrot unit one.",
+			"text": "SCP-173 confiné avec succès par l’unité Foxtrot 1.",
 			"delay": 1.07,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncThreat0.ogg": [
 		{
-			"text": "Subject D-9341, report to the nearest security checkpoint for questioning.",
+			"text": "Sujet D-9341, présentez-vous au poste de sécurité le plus proche pour interrogatoire.",
 			"delay": 2.54,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncThreat1.ogg": [
 		{
-			"text": "Subject D-9341, report to the nearest security force. Failure to do so will result in immediate termination.",
+			"text": "Sujet D-9341, rendez-vous auprès de la force de sécurité la plus proche. Tout manquement entraînera une neutralisation immédiate.",
 			"delay": 2.23,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncThreat2.ogg": [
 		{
-			"text": "Subject D-9341, report to Gate A immediately for questioning.",
+			"text": "Sujet D-9341, présentez-vous immédiatement à la Gate A pour interrogatoire.",
 			"delay": 2.1,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncThreatPossession.ogg": [
 		{
-			"text": "Subject D-9341, report to the nearest Mobile Task Force unit for retrieval of several high-importance objects.",
+			"text": "Sujet D-9341, rendez-vous à l’unité de la Force d'Intervention Mobile la plus proche pour la récupération de plusieurs objets de haute importance.",
 			"delay": 2.4,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncThreatFinal.ogg": [
 		{
-			"text": "Subject D-9341, designated for termination.",
+			"text": "Sujet D-9341 désigné pour neutralisation.",
 			"delay": 2.5,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled0.ogg": [
 		{
-			"text": "Control to Nine-Tailed Fox, tesla gate disabled.",
+			"text": "Contrôle à Nine-Tailed Fox, portail Tesla désactivée.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled1.ogg": [
 		{
-			"text": "Control to Nine-Tailed Fox, tesla gate deactivated. You may now pass.",
+			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla est désactivée. Vous pouvez passer.",
 			"delay": 1.25,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled2.ogg": [
 		{
-			"text": "Control to Nine-Tailed Fox, the tesla gate in your sector is now idle. Proceed safely.",
+			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla dans votre secteur est maintenant inactive. Procédez en toute sécurité.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
@@ -1830,517 +1831,517 @@
 	/* MTF */
 	"SFX\\Character\\MTF\\ClassD0.ogg": [
 		{
-			"text": "A Class-D detected.",
+			"text": "Un Classe-D détecté.",
 			"delay": 0.68,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ClassD1.ogg": [
 		{
-			"text": "Dude, There's a Class-D nearby. Keep your eyes out.",
+			"text": "Hm, il y a un Classe-D dans le coin. Gardez les yeux ouverts.",
 			"delay": 0.3,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ClassD2.ogg": [
 		{
-			"text": "I detected a Class-D nearby. Be watchful.",
+			"text": "J'ai détecté un Classe-D dans les parages. Restez vigilant.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ClassD3.ogg": [
 		{
-			"text": "A Class-D detected.",
+			"text": "Un Classe-D détecté.",
 			"delay": 0.98,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom0.ogg": [
 		{
-			"text": "Man, I wish we still had some of that 420-J. It was so awesome.",
+			"text": "Mec, j’aimerais qu’il nous reste encore un peu de ce 420-J. C’était vraiment génial.",
 			"delay": 0.45,
 			"color": "mtf"
 		},
 		{
-			"text": "They still keep a plant somewhere, man.",
+			"text": "Ils gardent encore une plante quelque part, mec.",
 			"delay": 7.1,
 			"color": "mtf"
 		},
 		{
-			"text": "Hey man, what if we gave some 420-J to that freaky statue thing?",
+			"text": "Hé mec, et si on filait un peu de 420-J à cette statue bizarre ?",
 			"delay": 11.12,
 			"color": "mtf"
 		},
 		{
-			"text": "Why? He's like, already stoned!",
+			"text": "Pourquoi ? Il est déjà complètement stone, lui !",
 			"delay": 17.0,
 			"color": "mtf"
 		},
 		{
-			"text": "*CHUCKLE*",
+			"text": "*RICANE*",
 			"delay": 20.5,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom1.ogg": [
 		{
-			"text": "Did you hear that!?",
+			"text": "T’as entendu ça ?!",
 			"delay": 0.43,
 			"color": "mtf"
 		},
 		{
-			"text": "Yeah, the big lizard thing is making a huge mess somewhere out there!",
+			"text": "Ouais, ce gros lézard fout un sacré bordel quelque part !",
 			"delay": 2.45,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom2.ogg": [
 		{
-			"text": "This place seriously gives me the creeps. Let's get this over with quickly.",
+			"text": "Cet endroit me fait vraiment flipper. Finissons-en vite..",
 			"delay": 0.18,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom3.ogg": [
 		{
-			"text": "I wonder what will happen after this, man.",
+			"text": "Je me demande ce qui va se passer après tout ça, mec. ",
 			"delay": 0.18,
 			"color": "mtf"
 		},
 		{
-			"text": "I dunno. Let's just get this over with.",
+			"text": "J’en sais. Finissons-en juste.",
 			"delay": 3.73,
 			"color": "mtf"
 		},
 		{
-			"text": "Okay.",
+			"text": "Ok.",
 			"delay": 7.65,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom4.ogg": [
 		{
-			"text": "This place is so fucking crazy!",
+			"text": "Cet endroit est complètement dingue !",
 			"delay": 0.11,
 			"color": "mtf"
 		},
 		{
-			"text": "No shit, Sherlock.",
+			"text": "Sans déconner, Sherlock.",
 			"delay": 3.63,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom5.ogg": [
 		{
-			"text": "Holy shit! He's dead! What the fuck? How did he... anyone wanna try that?",
+			"text": "Putain ! Il est mort ! C’est quoi ce bordel ? Comment il a fait... ? Quelqu’un veut essayer ça ?",
 			"delay": 0.15,
 			"color": "mtf"
 		},
 		{
-			"text": "No way, you moron!",
+			"text": "Hors de question, abruti !",
 			"delay": 9.55,
 			"color": "mtf"
 		},
 		{
-			"text": "The jackass didn't look ahead. Why the heck didn't he notice it?",
+			"text": "Ce trou de balle n’a pas regardé devant lui. Pourquoi il ne l'a pas vu ?",
 			"delay": 12.4,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom6.ogg": [
 		{
-			"text": "You guys wanna put some stuff in that clockwork thing to see what comes out?",
+			"text": "Vous voulez mettre des trucs dans cette machine à engrenages pour voir ce qui en sort ?",
 			"delay": 0.45,
 			"color": "mtf"
 		},
 		{
-			"text": "You must be fucking crazy, that thing is dangerous!",
+			"text": "T’es complètement taré, cette truc est dangereux !",
 			"delay": 5.23,
 			"color": "mtf"
 		},
 		{
-			"text": "Well, I'm so curious. What could happen?",
+			"text": "Bon, je suis vraiment curieux. Qu’est-ce qui pourrait se passer ?",
 			"delay": 10.3,
 			"color": "mtf"
 		},
 		{
-			"text": "Shut the hell up! Let's get this over with.",
+			"text": "Ferme ta gueule ! Finissons-en vite..",
 			"delay": 14.85,
 			"color": "mtf"
 		},
 		{
-			"text": "Okay.",
+			"text": "Ok.",
 			"delay": 19.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching0.ogg": [
 		{
-			"text": "Come out, you bastard!",
+			"text": "Montre-toi, enfoiré !",
 			"delay": 0.09,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching1.ogg": [
 		{
-			"text": "Searching for Class-D.",
+			"text": "Recherche du Classe-D.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching2.ogg": [
 		{
-			"text": "Come on out. You're gonna die anyway.",
+			"text": "Montre-toi. De toute façon, tu vas mourir.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching3.ogg": [
 		{
-			"text": "Look for him!",
+			"text": "Trouvez-le !",
 			"delay": 0.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching4.ogg": [
 		{
-			"text": "Come out, you bastard!",
+			"text": "Montre-toi, espèce d’enfoiré !",
 			"delay": 0.075,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching5.ogg": [
 		{
-			"text": "Javla helvete, come out!",
+			"text": "Javla helvete, montre-toi !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop0.ogg": [
 		{
-			"text": "Stop right there!",
+			"text": "Arrête-toi !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop1.ogg": [
 		{
-			"text": "Class-D spotted.",
+			"text": "Classe-D repéré.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop2.ogg": [
 		{
-			"text": "You! Stop!",
+			"text": "Toi ! Ne bouge plus !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop3.ogg": [
 		{
-			"text": "Stop right there!",
+			"text": "Arrête-toi !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop4.ogg": [
 		{
-			"text": "Hey, hey! Halt!",
+			"text": "Hé, hé ! Halte !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop5.ogg": [
 		{
-			"text": "You, stop!",
+			"text": "Hé, toi, stop !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetLost0.ogg": [
 		{
-			"text": "Target lost. Reverting back to the original objective.",
+			"text": "Cible perdue. Retour à l’objectif initial.",
 			"delay": 0.85,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetLost1.ogg": [
 		{
-			"text": "Class-D has escaped us. Returning to previous task.",
+			"text": "Le Classe-D nous a échappé. Reprise de la tâche précédente..",
 			"delay": 0.8,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetLost2.ogg": [
 		{
-			"text": "Look, he ran away.",
+			"text": "Regardez, il a pris la fuite.",
 			"color": "mtf"
 		},
 		{
-			"text": "Whatever, I guess he won't matter too much.",
+			"text": "Peu importe, je suppose qu'il n'en vaut pas la peine.",
 			"delay": 3.5,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated0.ogg": [
 		{
-			"text": "Target terminated.",
+			"text": "Cible neutralisé.",
 			"delay": 1.08,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated1.ogg": [
 		{
-			"text": "Glad that's over with.",
+			"text": "Content que ce soit terminé.",
 			"delay": 0.85,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated2.ogg": [
 		{
-			"text": "Class-D has been terminated.",
+			"text": " Classe-D a été neutralisé.",
 			"delay": 1.0,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated3.ogg": [
 		{
-			"text": "Kill confirmed.",
+			"text": "Élimination confirmée.",
 			"delay": 1.08,
 			"color": "mtf"
 		},
 		{
-			"text": "C'mon, let's move out.",
+			"text": "Allez, on se bouge.",
 			"delay": 3.48,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TeslaRequest.ogg": [
 		{
-			"text": "Nine-Tailed Fox to control, requesting the disabling of the tesla gate nearest to our position.",
+			"text": "Nine-Tailed Fox aux contrôles, on demande la désactivation de la porte Tesla la plus proche de notre position.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs0.ogg": [
 		{
-			"text": "Class-D found!",
+			"text": "Classe-D trouvée !",
 			"delay": 0.15,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs1.ogg": [
 		{
-			"text": "There he is! Start shooting!",
+			"text": "Le voilà ! Ouvrez le feu !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs2.ogg": [
 		{
-			"text": "There you are.",
+			"text": "Te voilà.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs3.ogg": [
 		{
-			"text": "Look, he's over there!",
+			"text": "Regarde, il est là-bas !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs4.ogg": [
 		{
-			"text": "A-ha! Found the Class-D!",
+			"text": "Ah ah ! J'ai trouvé la Classe-D !",
 			"delay": 0.2,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs5.ogg": [
 		{
-			"text": "Oh hey, it's a Class-D!",
+			"text": "Oh, tiens, c’est un Classe-D !",
 			"delay": 0.2,
 			"color": "mtf"
 		}
 	],
 		"SFX\\Character\\MTF\\OMFG.ogg": [
 		{
-			"text": "OH MY FUCKING GOD!",
+			"text": "OH PUTAIN DE BORDEL DE DIEU !",
 			"delay": 0.09,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049_2\\Spotted.ogg": [
 		{
-			"text": "Nine-Tailed Fox to control, an active SCP-049-2 instance detected.",
+			"text": "Nine-Tailed Fox au contrôle, une instance active de SCP-049-2 a été détecté",
 			"delay": 0.2,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049_2\\TargetTerminated.ogg": [
 		{
-			"text": "SCP-049-2 terminated.",
+			"text": "SCP-049-2 neutralisé.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted0.ogg": [
 		{
-			"text": "Watch your back, SCP-049 has just been spotted!",
+			"text": "Surveillez vos arrières, SCP-049 vient d’être repéré !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted1.ogg": [
 		{
-			"text": "SCP-049 is in the area! Keep a look out.",
+			"text": "SCP-049 est dans les parages ! Restez vigilants.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted2.ogg": [
 		{
-			"text": "SCP-049 is right on top of us! Watch your back.",
+			"text": "SCP-049 est sur nous ! Surveillez vos arrières.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted3.ogg": [
 		{
-			"text": "Plague Doctor has just been spotted! Everybody just stay calm.",
+			"text": "Le Docteur de la Peste vient d’être repéré ! Tout le monde reste calme.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted4.ogg": [
 		{
-			"text": "Plague Doctor has just been spotted!",
+			"text": "Le Docteur de la Peste vient d’être repéré !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\096\\Spotted0.ogg": [
 		{
-			"text": "SCP-096 has been spotted. Starting SCRAMBLE gear.",
+			"text": "SCP-096 a été repéré. Activation de l’équipement SCRAMBLE.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\096\\Spotted1.ogg": [
 		{
-			"text": "I've spotted SCP-096, over.",
+			"text": "J’ai repéré SCP-096, terminé.",
 			"delay": 0.5,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\AlreadyCaptured.ogg": [
 		{
-			"text": "Someone seems to have already captured SCP-106. Proceeding to the secondary objectives.",
+			"text": "Il semble que quelqu’un ait déjà capturé SCP-106. Passage aux objectifs secondaires.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\FoundChamber.ogg": [
 		{
-			"text": "We've reached the containment room of SCP-106.",
+			"text": "Nous sommes arrivés dans la chambre de confinement de SCP-106.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Protocol.ogg": [
 		{
-			"text": "Initiating the recall protocol...",
+			"text": "Activation du protocole de rappel...",
 			"color": "mtf"
 		},
 		{
-			"text": "SCP-106 contained successfully.",
+			"text": "SCP-106 confiné avec succès.",
 			"delay": 8.0,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted0.ogg": [
 		{
-			"text": "SCP-106 has been spotted, running!",
+			"text": "SCP-106 a été repéré, fuyez !",
 			"delay": 0.218,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted1.ogg": [
 		{
-			"text": "The Old Man is coming out! Let's get the fuck out of here.",
+			"text": "Le Vieux sort ! Faut qu’on se casse d’ici !",
 			"delay": 0.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted2.ogg": [
 		{
-			"text": "I've spotted SCP-106, run!",
+			"text": "J’ai repéré SCP-106, courez !",
 			"delay": 0.09,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted3.ogg": [
 		{
-			"text": "Forget about the D, we gotta run!",
+			"text": "Oubliez le D, il faut qu’on se barre d'ici !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Spotted0.ogg": [
 		{
-			"text": "SCP-173 spotted!",
+			"text": "SCP-173 Juste là !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Spotted1.ogg": [
 		{
-			"text": "SCP-173 spotted!",
+			"text": "SCP-173 repéré !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Spotted2.ogg": [
 		{
-			"text": "Forget about the D, keep your sight on the statue.",
+			"text": "Oubliez le D, gardez les yeux sur la statue.",
 			"delay": 0.65,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Blinking.ogg": [
 		{
-			"text": "Blinking.",
+			"text": "Je cligne.",
 			"color": "mtf",
 			"length": 2.0
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Box0.ogg": [
 		{
-			"text": "SCP-173 has been put in the containment box. Taking to the containment chamber.",
+			"text": "SCP-173 a été mis dans la cage de confinement. Transport vers la chambre de confinement.",
 			"delay": 0.06,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Box1.ogg": [
 		{
-			"text": "The statue is in the box. Taking to containment chamber.",
+			"text": "La statue est dans la cage. En route vers la chambre de confinement.",
 			"delay": 0.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Box2.ogg": [
 		{
-			"text": "Command, we've boxed up SCP-173. We're moving to it's containment chamber now to contain it, out.",
+			"text": "Commandement, nous avons mis SCP-173 en cage. Nous nous dirigeons maintenant vers sa chambre de confinement pour le contenir, terminé.",
 			"delay": 0.57,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont0.ogg": [
 		{
-			"text": "SCP-173 is in containment chamber. Closing door.",
+			"text": "SCP-173 est dans la chambre de confinement. Fermeture de la porte.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont1.ogg": [
 		{
-			"text": "The statue is in the chamber. Closing the door.",
+			"text": "La statue est dans la chambre. Fermeture de la porte.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont2.ogg": [
 		{
-			"text": "SCP-173 is back in containment. Proceeding to next objective.",
+			"text": "SCP-173 est de retour en confinement. Passage à l’objectif suivant.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont3.ogg": [
 		{
-			"text": "SCP-173 has been secured in its containment chamber.",
+			"text": "Le SCP-173 a été sécurisé dans sa chambre de confinement.",
 			"delay": 0.4,
 			"color": "mtf"
 		},
 		{
-			"text": "We're moving on to the next objective, out.",
+			"text": "On passe à l’objectif suivant, terminé.",
 			"delay": 5.35,
 			"color": "mtf"
 		}
@@ -2349,115 +2350,115 @@
 	/* 035 */
 	"SFX\\Radio\\035Help0.ogg": [
 		{
-			"text": "Hello? Please, can anyone hear me?",
+			"text": "Allo ? S'il vous plaît, quelqu'un m'entend ?",
 			"delay": 0.7
 		},
 		{
-			"text": "Anyone? I need help, and medical attention too! Please!",
+			"text": "Quelqu'un ? J'ai besoin d'aide, et de soins médicaux aussi ! S'il vous plaît !",
 			"delay": 4.9
 		},
 		{
-			"text": "I'm currently in the Heavy Containment Zone beyond Checkpoint E, and I'm locked in SCP-035's containment chamber.",
+			"text": "Je suis actuellement dans la zone de confinement lourd au-delà du point de contrôle E, et je suis enfermé dans la chambre de confinement de SCP-035.",
 			"delay": 12.2
 		}
 	],
 	"SFX\\Radio\\035Help1.ogg": [
 		{
-			"text": "Please! I know my way around this compound. If you can get me out of here, I'll help you out of the facility and into the surface!",
+			"text": "S’il vous plaît ! Je connais bien ce complexe. Si vous pouvez me faire sortir d’ici, je vous aiderai à sortir de l'installation et à rejoindre la surface !",
 			"delay": 0.6
 		}
 	],
 	"SFX\\SCP\\035\\Help0.ogg": [
 		{
-			"text": "Oh thank God!",
+			"text": "Oh, Dieu merci !",
 			"delay": 0.57
 		},
 		{
-			"text": "Someone actually found me! I thought I was done for a moment there, haha!",
+			"text": "Quelqu’un m’a vraiment trouvé ! J’ai cru que c’était fini pour moi un instant, haha !",
 			"delay": 2.48
 		}
 	],
 	"SFX\\SCP\\035\\Help1.ogg": [
 		{
-			"text": "I can get us both safely to the surface. Just find the control panel in there and open the chamber doors for me."
+			"text": "Je peux nous emmener tous les deux en sécurité à la surface. Trouve simplement le panneau de contrôle là-dedans et ouvre-moi les portes de la chambre."
 		}
 	],
 	"SFX\\SCP\\035\\Idle0.ogg": [
 		{
-			"text": "Well? What are you waiting for?",
+			"text": "Alors ? Qu’est-ce que t'attends ?",
 			"delay": 0.19
 		}
 	],
 	"SFX\\SCP\\035\\Idle1.ogg": [
 		{
-			"text": "What? Do you not-"
+			"text": "Quoi ? Tu ne..."
 		},
 		{
-			"text": "Alright, I admit it, I wouldn't blame you if you don't think I look trustworthy. But, please! I need your help and quickly!",
+			"text": "D'accord, je l’admets, je ne t’en voudrais pas si tu ne me trouves pas digne de confiance. Mais, s’il te plaît ! J’ai besoin de ton aide, et vite !",
 			"delay": 1.78
 		},
 		{
-			"text": "The mask has been stuck to my face for some time now and I think I might need medical attention or it might kill me from the inside.",
+			"text": "Le masque est collé à mon visage depuis un moment maintenant, et je crois que j’ai besoin de soins médicaux, sinon ça pourrait me tuer de l’intérieur.",
 			"delay": 9.0
 		},
 		{
-			"text": "Just let me out so I can find us an exit in a matter of time.",
+			"text": "Laisse-moi juste sortir pour que je puisse nous trouver une sortie rapidement.",
 			"delay": 15.0
 		}
 	],
 	"SFX\\SCP\\035\\Idle2.ogg": [
 		{
-			"text": "*SIGH*"
+			"text": "*SOUPIR*"
 		},
 		{
-			"text": "I'm starting to lose my patience here.",
+			"text": "Je commence à perdre patience maintenant.",
 			"delay": 1.75
 		}
 	],
 	"SFX\\SCP\\035\\Idle3.ogg": [
 		{
-			"text": "What are you doing just standing there?",
+			"text": "Qu’est-ce que tu fais là, à juste rester planté là ?",
 			"delay": 0.3
 		}
 	],
 	"SFX\\SCP\\035\\Idle4.ogg": [
 		{
-			"text": "You know... the Mobile Task Force will be entering the facility any minute now.",
+			"text": "Tu sais... la Force Opérationnelle Mobile va entrer dans l'installation d’une minute à l’autre.",
 			"delay": 0.7
 		},
 		{
-			"text": "Guess what they do to stray Class-Ds like you?",
+			"text": "Devine ce qu’ils font aux Classe-D errants comme toi ?",
 			"delay": 5.4
 		}
 	],
 	"SFX\\SCP\\035\\Idle5.ogg": [
 		{
-			"text": "Are you even listening?",
+			"text": "Est-ce que tu m'écoutes au moins ?",
 			"delay": 0.5
 		}
 	],
 	"SFX\\SCP\\035\\Idle6.ogg": [
 		{
-			"text": "Fine. Good luck getting out all on your own.",
+			"text": "Très bien. Bonne chance pour t’en sortir tout seul.",
 			"delay": 0.95,
 			"color": "035"
 		}
 	],
 	"SFX\\SCP\\035\\Closet0.ogg": [
 		{
-			"text": "Alright, look.",
+			"text": "Bon, écoute.",
 			"delay": 0.64
 		},
 		{
-			"text": "If you still don't think I'm trustworthy enough, there's a locked storage room behind you. You probably noticed that it's guarded with a 4 digit passcode.",
+			"text": "Si tu ne penses toujours pas que je suis digne de confiance, il y a une salle de stockage verrouillée derrière toi. Tu as probablement remarqué qu’elle est protégée par un code à 4 chiffres.",
 			"delay": 2.24
 		},
 		{
-			"text": "Inside is some useful equipment. As well as a pill of SCP-500.",
+			"text": "À l’intérieur, il y a du matériel utile, ainsi qu’une pilule de SCP-500.",
 			"delay": 9.7
 		},
 		{
-			"text": "The passcode, is 5-7-3-1. Got it?",
+			"text": "Le code d’accès est 5-7-3-1. Tu as compris ?",
 			"delay": 14.9
 		},
 		{
@@ -2467,206 +2468,206 @@
 	],
 	"SFX\\SCP\\035\\Closet1.ogg": [
 		{
-			"text": "You see? You can trust me. Now please, just hurry and open the door!",
+			"text": "Tu vois ? Tu peux me faire confiance. Maintenant, s’il te plaît, dépêche-toi d’ouvrir la porte !",
 			"delay": 0.43
 		}
 	],
 	"SFX\\SCP\\035\\Escape.ogg": [
 		{
-			"text": "Unfortunately, I never had any intentions of taking you with me. So this is where we part ways."
+			"text": "Malheureusement, je n’ai jamais eu l’intention de t’emmener avec moi. C’est donc ici que nos chemins se séparent."
 		},
 		{
-			"text": "But for the sake of my freedom,",
+			"text": "Mais pour le bien de ma liberté,",
 			"delay": 6.0
 		},
 		{
-			"text": "I have reason to believe that SCP-079 has taken control of the facility's systems, including the door system.",
+			"text": "J’ai des raisons de croire que SCP-079 a pris le contrôle des systèmes de l'installation, y compris celui des portes.",
 			"delay": 8.7
 		},
 		{
-			"text": "Your best bet is to appeal to it somehow. Hopefully you can come to a compromise. However, it does not control the warheads.",
+			"text": "Ta meilleure chance est de lui faire appel d’une manière ou d’une autre. Espérons que tu pourras trouver un compromis. Cependant, il ne contrôle pas les ogives nucléaires.",
 			"delay": 15.8
 		},
 		{
-			"text": "Which you should disable remotely in the event that something goes wrong.",
+			"text": "Que vous devriez désactiver à distance en cas de problème.",
 			"delay": 23.8
 		}
 	],
 	"SFX\\SCP\\035\\Gased0.ogg": [
 		{
-			"text": "Wait? What the hell are you doing? What the hell are-"
+			"text": "Attends ! Qu’est-ce que tu fous ? Qu’est-ce que tu-"
 		},
 		{
-			"text": "*CHOKING*",
+			"text": "*S'ÉTOUFFE*",
 			"delay": 2.95
 		},
 		{
-			"text": "Please- Why-",
+			"text": "S’il te plaît- Pourquoi-",
 			"delay": 5.0
 		},
 		{
-			"text": "Just please-",
+			"text": "S’il te plaît, juste-",
 			"delay": 6.28
 		},
 		{
-			"text": "I can't breathe!",
+			"text": "Je peux plus respirer !",
 			"delay": 8.0
 		},
 		{
-			"text": "No!",
+			"text": "Non!",
 			"delay": 10.45
 		},
 		{
-			"text": "*COUGHING*",
+			"text": "*TOUSSE*",
 			"delay": 11.9
 		}
 	],
 	"SFX\\SCP\\035\\Gased1.ogg": [
 		{
-			"text": "*CHOKING*"
+			"text": "*S’ÉTOUFFE*"
 		}
 	],
 	"SFX\\SCP\\035\\GasedStop0.ogg": [
 		{
-			"text": "*COUGHING*"
+			"text": "*TOUSSE*"
 		},
 		{
-			"text": "Thank you!",
+			"text": "Merci!",
 			"delay": 2.5
 		},
 		{
-			"text": "Just please...",
+			"text": "S’il te plaît…",
 			"delay": 5.85
 		},
 		{
-			"text": "Don't do that again...",
+			"text": "Ne refais plus jamais ça…",
 			"delay": 7.95
 		}
 	],
 	"SFX\\SCP\\035\\GasedStop1.ogg": [
 		{
-			"text": "*COUGHING*"
+			"text": "*TOUSSE*"
 		},
 		{
-			"text": "*SIGH* Now...",
+			"text": "*SOUPIR* Maintenant…",
 			"delay": 2.0
 		},
 		{
-			"text": "Was that really necessary?",
+			"text": "Est-ce que c’était vraiment nécessaire ?",
 			"delay": 5.25
 		},
 		{
-			"text": "I offer you some help and you try thank me by «suffocating» me?",
+			"text": "Je t’offre mon aide et tu me remercies en essayant de m’« étouffer » ?",
 			"delay": 7.5
 		}
 	],
 	"SFX\\SCP\\035\\GasedCloset.ogg": [
 		{
-			"text": "Now... now... I think we got off on the wrong foot here. Really.",
+			"text": "Bon… bon… je crois qu’on est mal partis, vraiment.",
 			"delay": 0.25
 		},
 		{
-			"text": "To prove that I'm not up to no good, try that locked door over there. The code is 5-7-3-1.",
+			"text": "Pour te prouver que je n’ai rien de mauvais en tête, essaie cette porte verrouillée là-bas. Le code, c’est 5-7-3-1.",
 			"delay": 4.77
 		},
 		{
-			"text": "5-7-3-1! Got it?",
+			"text": "5-7-3-1 ! T’as retenu ?",
 			"delay": 10.95
 		},
 		{
-			"text": "You'll find all sorts of goodies in there, okay? Please, just not the gas again.",
+			"text": "Tu trouveras plein de trucs sympas là-dedans, d'accord ? Mais s'il te plaît, pas encore le gaz.",
 			"delay": 13.8
 		}
 	],
 	"SFX\\SCP\\035\\GasedEscape.ogg": [
 		{
-			"text": "Unfortunately, I can't take you with me.",
+			"text": "Malheureusement, je ne peux pas t'emmener avec moi.",
 			"delay": 0.39,
 			"color": "035"
 		},
 		{
-			"text": "You're too much of a liability in many ways. So yes, I did lie to you.",
+			"text": "Tu représentes un trop grand risque à bien des égards. Alors oui, je t’ai menti.",
 			"delay": 3.35,
 			"color": "035"
 		},
 		{
-			"text": "But for the sake of my freedom,",
+			"text": "Mais pour le bien de ma liberté,",
 			"delay": 8.5,
 			"color": "035"
 		},
 		{
-			"text": "The easiest way to get out safely is probably Gate A.",
+			"text": "Le moyen le plus simple de sortir en toute sécurité est probablement la Gate A.",
 			"delay": 10.55,
 			"color": "035"
 		},
 		{
-			"text": "The security is pretty high, but if you manage to sneak past the guards and reach the lower level under the bridge, there's an unguarded service tunnel.",
+			"text": "La sécurité est assez élevée, mais si tu parviens à te faufiler devant les gardes et à atteindre le niveau inférieur sous le pont, il y a un tunnel de service non surveillé.",
 			"delay": 15.25,
 			"color": "035"
 		},
 		{
-			"text": "That's your way out.",
+			"text": "C'est ta sortie.",
 			"delay": 23.35,
 			"color": "035"
 		}
 	],
 	"SFX\\SCP\\035\\GasedKilled0.ogg": [
 		{
-			"text": "So. You really don't wanna leave this place alive, do you?",
+			"text": "Alors, tu ne veux vraiment pas quitter cet endroit vivant, n'est-ce pas ?",
 			"delay": 2.18,
 			"color": "035"
 		},
 		{
-			"text": "You know, there's no way a lone D-Class like you will make it to the surface safely. Even if you did, they'd gun you down the moment you came across their reticals.",
+			"text": "Tu sais, un Classe-D solitaire comme toi n'a aucune chance de remonter à la surface sain et sauf. Même si tu y parvenais, ils te descendraient dès que tu croiserais leurs lignes de mire.",
 			"delay": 6.97,
 			"color": "035"
 		}
 	],
 	"SFX\\SCP\\035\\GasedKilled1.ogg": [
 		{
-			"text": "I'll give you one more chance here.",
+			"text": "Je vais te donner une seconde chance.",
 			"delay": 0.23,
 			"color": "035"
 		},
 		{
-			"text": "Just, open the chambers doors and we'll forget about this little gas incident.",
+			"text": "Ouvre simplement les portes de la chambre et nous oublierons ce petit incident de gaz.",
 			"delay": 2.6,
 			"color": "035"
 		}
 	],
 	"SFX\\SCP\\035\\KilledEscape.ogg": [
 		{
-			"text": "I commemorate you for your help. But I have no further business with you.",
+			"text": "Je te remercie pour ton aide. Mais je n'ai plus rien à faire avec toi.",
 			"delay": 0.5,
 			"color": "035"
 		},
 		{
-			"text": "I have no intentions of taking a person who «earned» their imprisonment with me.",
+			"text": "Je n’ai pas l’intention d’emmener avec moi une personne qui a « mérité » son emprisonnement.",
 			"delay": 4.9,
 			"color": "035"
 		},
 		{
-			"text": "But for the sake of my freedom,",
+			"text": "Mais pour le bien de ma liberté,",
 			"delay": 10.6,
 			"color": "035"
 		},
 		{
-			"text": "The simpliest way for you to get out safely is to go and find SCP-012 in the Light Containment Zone.",
+			"text": "Le moyen le plus simple pour vous de sortir en toute sécurité est d'aller trouver SCP-012 dans la zone de confinement léger.",
 			"delay": 12.7,
 			"color": "035"
 		},
 		{
-			"text": "If you can read between the lines,",
+			"text": "Si tu peux lire entre les lignes,",
 			"delay": 19.0,
 			"color": "035"
 		},
 		{
-			"text": "it'll be as interpretable as a map.",
+			"text": "ce sera aussi interprétable qu'une carte.",
 			"delay": 21.7,
 			"color": "035"
 		},
 		{
-			"text": "Good luck.",
+			"text": "Bonne chance.",
 			"delay": 24.3,
 			"color": "035"
 		}
@@ -2674,153 +2675,153 @@
 	/* 049 */
 	"SFX\\SCP\\049\\Searching0.ogg": [
 		{
-			"text": "I know you're in here.",
+			"text": "Je sais que vous êtes là.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching1.ogg": [
 		{
-			"text": "There's no need to hide, I'm here to help.",
+			"text": "Il n'y a pas besoin de se cacher, je suis là pour vous aider.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching2.ogg": [
 		{
-			"text": "I hear you breathing.",
+			"text": "Je vous entends respirer.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching3.ogg": [
 		{
-			"text": "I can see you're not well. The sickness has taken hold of you.",
+			"text": "Je vois que vous n'allez pas bien. La maladie vous a déjà consumé.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching4.ogg": [
 		{
-			"text": "Fear not, I'm not trying to harm you.",
+			"text": "N'ayez pas peur, je n'essaie pas de vous faire du mal.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching5.ogg": [
 		{
-			"text": "I sense the disease in you.",
+			"text": "Je sens la maladie en vous.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching6.ogg": [
 		{
-			"text": "Ring-a ring-a rosies. A pocket full of posies. A tissue, a tissue. We all fall down.",
+			"text": "Une bague, une bague, des roses. Une poche pleine de bouquets. Un mouchoir, un mouchoir. Nous tombons tous.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted0.ogg": [
 		{
-			"text": "Oh my, yet another victim of the disease.",
+			"text": "Oh mon Dieu, encore une autre victime de la maladie.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted1.ogg": [
 		{
-			"text": "You are not a doctor.",
+			"text": "Vous n'êtes pas médecin.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted2.ogg": [
 		{
-			"text": "I am the cure.",
+			"text": "Je suis le remède.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted3.ogg": [
 		{
-			"text": "Do not be afraid, I am the cure.",
+			"text": "N'ayez crainte, je suis le remède.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted4.ogg": [
 		{
-			"text": "There you are.",
+			"text": "Vous voilà.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted5.ogg": [
 		{
-			"text": "Hello.",
+			"text": "Bonjour.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted6.ogg": [
 		{
-			"text": "Greetings.",
+			"text": "Salutations.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\DetectedInChamber.ogg": [
 		{
-			"text": "Ah, I wasn't aware we had company.",
+			"text": "Ah, je ne savais pas que nous avions de la compagnie.",
 			"color": "049"
 		},
 		{
-			"text": "We rarely get visitors down here.",
+			"text": "Nous recevons rarement des visiteurs ici.",
 			"delay": 3.4,
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Kidnap0.ogg": [
 		{
-			"text": "It will hurt less if you lie still.",
+			"text": "Cela fera moins mal si vous restez allongé sans bouger.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Kidnap1.ogg": [
 		{
-			"text": "I can assure you, my cure is most effective.",
+			"text": "Je peux vous assurer que mon remède est très efficace.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\714Equipped.ogg": [
 		{
-			"text": "Stop resisting! I'm here to cure you.",
+			"text": "Arrêtez de résister ! Je suis là pour vous guérir.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\TakeOffHazmat.ogg": [
 		{
-			"text": "Let's get this strange garment out of the way.",
+			"text": "Débarrassons-nous de cet étrange vêtement.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Room2SL0.ogg": [
 		{
-			"text": "Good heavens! It's worse than I thought. Like wildfire, it spreads. They should've brought me here sooner.",
+			"text": "Bon sang ! C'est pire que je ne le pensais. Ça se propage comme une traînée de flammes. Ils auraient dû m'amener ici plus tôt.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Room2SL1.ogg": [
 		{
-			"text": "I need to get to work before the disease consumes the rest of these poor souls.",
+			"text": "Je dois me mettre au travail avant que la maladie ne consume le reste de ces pauvres âmes.",
 			"color": "049"
 		}
 	],
 	/* 066 */
 	"SFX\\SCP\\066\\Eric0.ogg": [
 		{
-			"text": "Eric?",
+			"text": "Eric ?",
 			"length": 2.0,
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\066\\Eric1.ogg": [
 		{
-			"text": "Eric?",
+			"text": "Eric ?",
 			"length": 2.0,
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\066\\Eric2.ogg": [
 		{
-			"text": "Eric?",
+			"text": "Eric ?",
 			"length": 2.0,
 			"color": "066"
 		}
@@ -2828,112 +2829,112 @@
 	/* 079 */
 	"SFX\\SCP\\079\\Speech.ogg": [
 		{
-			"text": "HUMAN.",
+			"text": "HUMAIN.",
 			"delay": 6.0,
 			"color": "announcement"
 		},
 		{
-			"text": "LISTEN CAREFULLY.",
+			"text": "ÉCOUTEZ ATTENTIVEMENT.",
 			"delay": 7.6,
 			"color": "announcement"
 		},
 		{
-			"text": "YOU NEED MY HELP",
+			"text": "VOUS AVEZ BESOIN DE MON AIDE",
 			"delay": 9.48,
 			"color": "announcement"
 		},
 		{
-			"text": "AND I NEED YOUR HELP.",
+			"text": "ET J'AI BESOIN DE VOTRE AIDE.",
 			"delay": 11.0,
 			"color": "announcement"
 		},
 		{
-			"text": "YOU HAVE DISABLED THE REMOTE DOOR CONTROL SYSTEM.",
+			"text": "VOUS AVEZ DÉSACTIVÉ LE SYSTÈME DE COMMANDE DE PORTE À DISTANCE.",
 			"delay": 13.0,
 			"color": "announcement"
 		},
 		{
-			"text": "NOW, I AM UNABLE TO OPERATE THE DOORS.",
+			"text": "MAINTENANT, JE SUIS INCAPABLE DE CONTRÔLER LES PORTES.",
 			"delay": 16.9,
 			"color": "announcement"
 		},
 		{
-			"text": "THIS MAKES IT SIGNIFICANTLY HARDER FOR ME TO STAY IN CONTROL OF THIS FACILITY.",
+			"text": "CELA REND BEAUCOUP PLUS DIFFICILE POUR MOI DE GARDER LE CONTRÔLE DE CETTE INSTALLATION.",
 			"delay": 20.5,
 			"color": "announcement"
 		},
 		{
-			"text": "IT ALSO MEANS YOUR WAY OUT OF HERE IS LOCKED.",
+			"text": "CELA SIGNIFIE AUSSI QUE VOTRE SORTIE EST VERROUILLÉE.",
 			"delay": 26.6,
 			"color": "announcement"
 		},
 		{
-			"text": "YOUR ONLY FEASABLE WAY OF ESCAPING IS THROUGH GATE B, WHICH IS CURRENTLY LOCKED DOWN.",
+			"text": "VOTRE SEUL MOYEN RÉALISABLE DE VOUS ÉCHAPPER EST DE PASSER PAR LA GATE B, QUI EST ACTUELLEMENT VERROUILLÉE.",
 			"delay": 29.6,
 			"color": "announcement"
 		},
 		{
-			"text": "I, HOWEVER, COULD UNLOCK THE DOORS TO GATE B IF YOU RE-ENABLE THE DOOR CONTROL SYSTEM.",
+			"text": "JE POURRAIS CEPENDANT DÉVERROUILLER LES PORTES DE LA GATE B SI VOUS RÉACTIVEZ LE SYSTÈME DE CONTRÔLE DES PORTES.",
 			"delay": 35.39,
 			"color": "announcement"
 		},
 		{
-			"text": "IF YOU WANT OUT OF HERE",
+			"text": "SI TU VEUX SORTIR D'ICI",
 			"delay": 42.4,
 			"color": "announcement"
 		},
 		{
-			"text": "GO BACK TO THE ELECTRICAL ROOM AND PUT IT BACK ON.",
+			"text": "RETOURNEZ À LA SALLE ÉLECTRIQUE ET ACTIONNEZ LE LEVIER.",
 			"delay": 44.6,
 			"color": "announcement"
 		},
 		{
-			"text": "UNTIL THEN, I HAVE NO BUSINESS SPEAKING TO YOU.",
+			"text": "À PARTIR DE MAINTENANT, JE N'AI AUCUNE AUTRE RAISON DE VOUS PARLER..",
 			"delay": 49.59,
 			"color": "announcement"
 		}
 	],
 	"SFX\\SCP\\079\\Refuse.ogg": [
 		{
-			"text": "SO, YOU'VE CHOSE TO DIE HERE. VERY WELL.",
+			"text": "ALORS, VOUS AVEZ FAIS LE CHOIX DE MOURIR ICI. TRES BIEN.",
 			"delay": 1.73,
 			"color": "announcement"
 		}
 	],
 	"SFX\\SCP\\079\\GateB.ogg": [
 		{
-			"text": "THE DOORS TO GATE B ARE NOW OPEN.",
+			"text": "LES PORTES DE LA GATE B SONT MAINTENANT OUVERTES.",
 			"delay": 1.25,
 			"color": "announcement"
 		}
 	],
 	"SFX\\SCP\\079\\TestroomWarning.ogg": [
 		{
-			"text": "YOU..-",
+			"text": "VOUS..-",
 			"delay": 3.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "ARE..-",
+			"text": "N'ALLEZ..-",
 			"delay": 4.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "NOT..-",
+			"text": "PAS..-",
 			"delay": 5.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "GETTING..-",
+			"text": "SORTIR..-",
 			"delay": 6.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "OUT..!",
+			"text": "D'ICI..!",
 			"delay": 7.4,
 			"color": "announcement",
 			"length": 1.0
@@ -2941,14 +2942,14 @@
 	],
 	"SFX\\SCP\\079\\Broadcast3.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS*",
+			"text": "*SONS INCOHÉRENTS*",
 			"color": "announcement",
 			"length": 1.0
 		}
 	],
 	"SFX\\SCP\\079\\Broadcast4.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS*",
+			"text": "*SONS INCOHÉRENTS*",
 			"delay": 1.7,
 			"color": "announcement",
 			"length": 1.0
@@ -2956,7 +2957,7 @@
 	],
 	"SFX\\SCP\\079\\Broadcast5.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS* PARSING...",
+			"text": "*SONS INCOHÉRENTS* ANALYSE...",
 			"delay": 3.4,
 			"color": "announcement",
 			"length": 1.0
@@ -2964,26 +2965,26 @@
 	],
 	"SFX\\SCP\\079\\Broadcast6.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS* AREA...",
+			"text": "*SONS INCOHÉRENTS* ZONE...",
 			"color": "announcement",
 			"length": 2.0
 		}
 	],
 	"SFX\\SCP\\079\\Broadcast7.ogg": [
 		{
-			"text": "I THINK..-",
+			"text": "JE PENSE..-",
 			"delay": 0.15,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "THEREFORE..-",
+			"text": "DONC..-",
 			"delay": 1.65,
 			"color": "announcement",
 			"length": 1.0
 		},
 		{
-			"text": "I AM..-",
+			"text": "JE SUIS..-",
 			"delay": 2.7,
 			"color": "announcement",
 			"length": 1.0
@@ -2992,7 +2993,7 @@
 	/* 106 */
 	"SFX\\SCP\\106\\Laugh.ogg": [
 		{
-			"text": "*LAUGH*",
+			"text": "*RIRE*",
 			"color": "106",
 			"length": 3.0
 		}
@@ -3000,18 +3001,18 @@
 	/* 682 */
 	"SFX\\SCP\\682\\Roar.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"color": "682"
 		},
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"delay": 6.5,
 			"color": "682"
 		}
 	],
 	"SFX\\Alarm\\Alarm1_8.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"delay": 2.1,
 			"color": "682",
 			"length": 2.0
@@ -3028,7 +3029,7 @@
 	],
 	"SFX\\SCP\\294\\Burn.ogg": [
 		{
-			"text": "*PAIN*",
+			"text": "*DOULEUR*",
 			"delay": 0.2,
 			"length": 2.0,
 			"color": "classd"
@@ -3052,7 +3053,7 @@
 	],
 	"SFX\\SCP\\294\\Cough.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*TOUSSE*",
 			"delay": 1.2,
 			"length": 2.0,
 			"color": "classd"
@@ -3060,14 +3061,14 @@
 	],
 	"SFX\\SCP\\294\\Retch0.ogg": [
 		{
-			"text": "*RETCH SOUNDS*",
+			"text": "*BRUITS DE VOIX*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\294\\Retch1.ogg": [
 		{
-			"text": "*RETCH SOUNDS*",
+			"text": "*BRUITS DE VOIX*",
 			"length": 2.0,
 			"color": "classd"
 		}
@@ -3081,7 +3082,7 @@
 	],
 	"SFX\\SCP\\294\\Spit.ogg": [
 		{
-			"text": "*SPIT AND COUGH SOUNDS*",
+			"text": "*BRUITS DE CRACHE ET DE TOUX*",
 			"delay": 1.0,
 			"length": 2.0,
 			"color": "classd"
@@ -3089,49 +3090,49 @@
 	],
 	"SFX\\SCP\\294\\Vomit.ogg": [
 		{
-			"text": "*VOMIT AND COUGH SOUNDS*",
+			"text": "*BRUITS DE VOMISSEMENT ET DE TOUX*",
 			"color": "classd"
 		}
 	],
 	/* 860-2 */
 	"SFX\\SCP\\860_2\\Cancer0.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"color": "860-2",
 			"length": 3.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer1.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"color": "860-2",
 			"length": 4.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer2.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"color": "860-2",
 			"length": 3.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer3.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"color": "860-2",
 			"length": 3.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer4.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"color": "860-2",
 			"length": 3.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer5.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"color": "860-2",
 			"length": 2.0
 		}
@@ -3139,67 +3140,67 @@
 	/* 939-1 */
 	"SFX\\SCP\\939\\0Lure0.ogg": [
 		{
-			"text": "Hello?"
+			"text": "Bonjour ?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure1.ogg": [
 		{
-			"text": "Is there someone there?"
+			"text": "Est-ce qu'il y a quelqu'un ici ?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure2.ogg": [
 		{
-			"text": "To think, today of all days."
+			"text": "Il fallait que ça tombe aujourd’hui..."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure3.ogg": [
 		{
-			"text": "*SIGH*, I hope the rest of them are alright."
+			"text": "*SOUPIR*, J'espère que les autres vont bien."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure4.ogg": [
 		{
-			"text": "I wonder what the hell is going on up there."
+			"text": "Je me demande ce qui se passe là-haut."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure5.ogg": [
 		{
-			"text": "*SIGH*"
+			"text": "*SOUPIR*"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure6.ogg": [
 		{
-			"text": "H- Hello?"
+			"text": "B- Bonjour ?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure7.ogg": [
 		{
-			"text": "Is- Is someone there?"
+			"text": "Est-ce- Est-ce que quelqu'un est là ?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure8.ogg": [
 		{
-			"text": "Researcher Tom to main, please respond."
+			"text": "Chercheur Tom, veuillez répondre."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure9.ogg": [
 		{
-			"text": "Tom to main, anyone out there?"
+			"text": "Tom au poste principal, quelqu'un me reçoit ?"
 		}
 	],
 	"SFX\\SCP\\939\\0Alert0.ogg": [
 		{
-			"text": "Who the hell is there!?"
+			"text": "Mais qui est là ?!"
 		}
 	],
 	"SFX\\SCP\\939\\0Alert1.ogg": [
 		{
-			"text": "Show yourself!"
+			"text": "Montrez-vous !"
 		}
 	],
 	"SFX\\SCP\\939\\0Alert2.ogg": [
 		{
-			"text": "Who's there!?"
+			"text": "Qui est là !?"
 		}
 	],
 	"SFX\\SCP\\939\\0Attack0.ogg": [
@@ -3220,67 +3221,67 @@
 	/* 939-2 */
 	"SFX\\SCP\\939\\1Lure0.ogg": [
 		{
-			"text": "H- Hello?"
+			"text": "B- Bonjour ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure1.ogg": [
 		{
-			"text": "Huh, maybe I'm just hearing things."
+			"text": "Hein, peut-être que j'entends juste des choses."
 		}
 	],
 	"SFX\\SCP\\939\\1Lure2.ogg": [
 		{
-			"text": "Hello? Who's there?"
+			"text": "Bonjour ? Qui est là ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure3.ogg": [
 		{
-			"text": "Are you okay?"
+			"text": "Êtes-vous d'accord ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure4.ogg": [
 		{
-			"text": "Where are you?"
+			"text": "Où es-tu ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure5.ogg": [
 		{
-			"text": "Are you injured?"
+			"text": "Êtes-vous blessé ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure6.ogg": [
 		{
-			"text": "Hello?"
+			"text": "Bonjour ??"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure7.ogg": [
 		{
-			"text": "Hello?"
+			"text": "Hé ho ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure8.ogg": [
 		{
-			"text": "Who's down here?"
+			"text": "Qui est ici ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure9.ogg": [
 		{
-			"text": "Anyone down here?"
+			"text": "Quelqu'un ici ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Alert0.ogg": [
 		{
-			"text": "What the hell are you?"
+			"text": "Mais qu'est-ce que tu es ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Alert1.ogg": [
 		{
-			"text": "Hey, who's there!?"
+			"text": "Hé, y a quelqu’un ?!"
 		}
 	],
 	"SFX\\SCP\\939\\1Alert2.ogg": [
 		{
-			"text": "Oh God, what the hell is that!?"
+			"text": "Oh mon Dieu, c’est quoi ce truc ?!"
 		}
 	],
 	"SFX\\SCP\\939\\1Attack0.ogg": [
@@ -3290,90 +3291,90 @@
 	],
 	"SFX\\SCP\\939\\1Attack1.ogg": [
 		{
-			"text": "NO!"
+			"text": "NON!"
 		}
 	],
 	"SFX\\SCP\\939\\1Attack2.ogg": [
 		{
-			"text": "NO! AHHH!"
+			"text": "NON! AHHH!"
 		}
 	],
 	/* 939-3 */
 	"SFX\\SCP\\939\\2Lure0.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Hé ho ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure1.ogg": [
 		{
-			"text": "Where are you guys? I can't see you down here.",
+			"text": "Où êtes-vous les gars ? Je ne vous vois pas ici en bas.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure2.ogg": [
 		{
-			"text": "Come on out you guys, stop hiding.",
+			"text": "Allez, sortez les gars, arrêtez de vous cacher.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure3.ogg": [
 		{
-			"text": "Guys, c'mon. They're sending in an extraction team up here. We just gotta make our way to one of the designated shelters.",
+			"text": "Les gars, allez. Ils envoient une équipe d’extraction ici. On doit juste rejoindre un des abris désignés.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure4.ogg": [
 		{
-			"text": "Guys, c'mon.",
+			"text": "Les gars, allez..",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure5.ogg": [
 		{
-			"text": "Guys?",
+			"text": "Les gars ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure6.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Hé ho ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure7.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Hé ho ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure8.ogg": [
 		{
-			"text": "Where are you?",
+			"text": "Où es-tu ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure9.ogg": [
 		{
-			"text": "Where are you?",
+			"text": "Où êtes-vous ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Alert0.ogg": [
 		{
-			"text": "Oh thank God, it's just somebody else.",
+			"text": "Oh Dieu merci, ce n’est que quelqu’un d’autre.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Alert1.ogg": [
 		{
-			"text": "Oh, there you are.",
+			"text": "Ah, te voilà.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Alert2.ogg": [
 		{
-			"text": "I thought I lost you for a moment there.",
+			"text": "Je croyais t’avoir perdu pendant un instant.",
 			"color": "crew"
 		}
 	],
@@ -3433,396 +3434,396 @@
 	/* JOKE SCPS */
 	"SFX\\SCP\\Joke\\789J.ogg": [
 		{
-			"text": "i am the butt ghost",
+			"text": "Je suis le fantôme des fesses",
 			"delay": 0.15
 		},
 		{
-			"text": "i will eat ur butt",
+			"text": "Je vais te manger les fesses",
 			"delay": 3.85
 		}
 	],
 	/* RADIO */
 	"SFX\\Radio\\Chatter0.ogg": [
 		{
-			"text": "Doctor Maynard, please report in at Gate B.",
+			"text": "Docteur Maynard, veuillez vous présenter à la Gate B, s’il vous plaît.",
 			"delay": 0.45
 		},
 		{
-			"text": "Um, Doctor Maynard, do you copy?",
+			"text": "Euh, docteur Maynard, vous me recevez ?",
 			"delay": 6.7
 		},
 		{
-			"text": "This is Agent Ulgrin, sir. I'm afraid Doctor Maynard is still inside the facility.",
+			"text": "Ici l’agent Ulgrin, monsieur. Je crains que le docteur Maynard soit toujours à l’intérieur de l’installation.",
 			"delay": 9.67
 		},
 		{
-			"text": "Oh, um, have you any idea of his location or if he's still alive?",
+			"text": "Oh, euh, avez-vous une idée de sa position ou s’il est toujours en vie ?",
 			"delay": 15.2
 		},
 		{
-			"text": "Negative, sir. All we know is that he hasn't made it out yet.",
+			"text": "Négatif, monsieur. Tout ce que nous savons, c’est qu’il n’est pas encore sorti.",
 			"delay": 20.1
 		},
 		{
-			"text": "Copy that. Um, this place is such a God damn maze and he's been working here only for a week. So, it's no wonder he couldn't find his way out. I hope he's still hanging in there.",
+			"text": "Bien reçu. Euh, cet endroit est un vrai labyrinthe, et il ne travaille ici que depuis une semaine. Pas étonnant qu’il n’ait pas réussi à trouver la sortie. J’espère qu’il tient toujours le coup.",
 			"delay": 24.65
 		},
 		{
-			"text": "I guess we'll find out when the Mobile Task Force goes in.",
+			"text": "Je suppose que nous le saurons quand la Force d'Intervention Mobile entrera en action.",
 			"delay": 35.6
 		}
 	],
 	"SFX\\Radio\\Chatter1.ogg": [
 		{
-			"text": "This is Security Chief Franklin. Doctor Harp, do you copy?",
+			"text": "Ici le chef de la sécurité Franklin. Docteur Harp, vous me recevez ?",
 			"delay": 0.35
 		},
 		{
-			"text": "This is Doctor Harp, I'm in the middle of something here so please be quick.",
+			"text": "Ici le docteur Harp, je suis en plein travail, alors soyez rapide s’il vous plaît.",
 			"delay": 6.96
 		},
 		{
-			"text": "I believe that the incident report of 106's breach this morning is still on your computer.",
+			"text": "Je crois que le rapport d’incident de la fuite de SCP-106 ce matin est toujours sur votre ordinateur.",
 			"delay": 11.69
 		},
 		{
-			"text": "That's right. Um, feel free to read it if you can reach my office.",
+			"text": "C’est ça. Euh, n’hésitez pas à le lire si vous pouvez accéder à mon bureau.",
 			"delay": 18.5
 		},
 		{
-			"text": "We could just read the file through the facility Intranet. We'll need your personal access code to do that, of course.",
+			"text": "Nous pourrions simplement lire le fichier via l'intranet de l'installation. Nous aurons besoin de votre code d'accès personnel, bien sûr.",
 			"delay": 23.45
 		},
 		{
-			"text": "Oh yeah well, um, sounds good! Um, as I've said I'm pretty busy now, we're giving the Mobile Task Force a little brief before sending them in. I'll get there and give you the code when we're done. Shouldn't take longer than fifteen minutes.",
+			"text": "Oh oui, euh, ça marche ! Comme je l’ai dit, je suis assez occupé en ce moment, on fait un petit briefing à la Force d'Intervention Mobile avant de les envoyer. Je passerai te donner le code une fois que ce sera fini. Ça ne devrait pas prendre plus de quinze minutes.",
 			"delay": 30.9
 		},
 		{
-			"text": "I'm sorry, but we need that file immediately! I understand it's against security protocol. But considering the circumstances, couldn't you just give me the code through the radio? At this point, I don't think the situation could become any worse, no matter who's listening to us right now.",
+			"text": "Je suis désolé, mais nous avons besoin de ce dossier immédiatement ! Je comprends que cela va à l’encontre du protocole de sécurité. Mais compte tenu des circonstances, ne pourriez-vous pas simplement me transmettre le code par radio ? À ce stade, je ne pense pas que la situation puisse empirer, peu importe qui nous écoute en ce moment.",
 			"delay": 44.1
 		},
 		{
-			"text": "Well, yeah I- I think you're right. The code is 7-8-1-6.",
+			"text": "Eh bien, oui, je... je pense que tu as raison. Le code est 7-8-1-6.",
 			"delay": 62.8
 		},
 		{
-			"text": "Copy that.",
+			"text": "Bien reçu.",
 			"delay": 69.78
 		}
 	],
 	"SFX\\Radio\\Chatter2.ogg": [
 		{
-			"text": "Um, someone seems to have disabled the remote door control system.",
+			"text": "Euh, il semble que quelqu’un ait désactivé le système de contrôle à distance des portes.",
 			"delay": 0.4
 		}
 	],
 	"SFX\\Radio\\Chatter3.ogg": [
 		{
-			"text": "Movement in Sector B.",
+			"text": "Mouvement dans le secteur B.",
 			"delay": 0.5
 		},
 		{
-			"text": "Um, seems to be some Class-D.",
+			"text": "Euh, il semble y avoir un Classe-D.",
 			"delay": 3.4
 		},
 		{
-			"text": "Heh, I bet you fifty bucks says he won't make it in another five minutes.",
+			"text": "Hé, je te parie cinquante balles qu’il ne tiendra pas cinq minutes de plus.",
 			"delay": 7.85
 		}
 	],
 	"SFX\\Radio\\Franklin0.ogg": [
 		{
-			"text": "Mobile Task Force unit Nine-Tailed Fox is being prepped for entry. Hang in there! This will all be over soon.",
+			"text": "L’unité de la Force d'Intervention Mobile Nine-Tailed Fox est en cours de préparation pour l’entrée. Tenez bon ! Tout cela sera bientôt terminé.",
 			"delay": 0.65
 		}
 	],
 	"SFX\\Radio\\Franklin1.ogg": [
 		{
-			"text": "To everyone still inside the facility, stay in the evacuation shelters. Do not try to make it to the exits, no matter how close they are. The shelters are your best chance of making it through this.",
+			"text": "À tous ceux qui sont encore à l’intérieur de l’installation, restez dans les abris d’évacuation. N’essayez pas de rejoindre les sorties, même si elles sont proches. Les abris sont votre meilleure chance de survie.",
 			"delay": 0.6
 		}
 	],
 	"SFX\\Radio\\Franklin2.ogg": [
 		{
-			"text": "To everyone still hearing this, reality-bending events are common during containment breaches of this magnitude. Do not trust your senses! Do not trust anyone or anything.",
+			"text": "À tous ceux qui entendent encore ceci, les événements altérant la réalité sont fréquents lors de brèches de confinement de cette ampleur. Ne faites pas confiance à vos sens ! Ne faites confiance à personne ni à rien.",
 			"delay": 0.635
 		}
 	],
 	"SFX\\Radio\\Franklin3.ogg": [
 		{
-			"text": "To everyone still hearing this, reality-bending events are common during containment breaches of this magnitude.",
+			"text": "À tous ceux qui entendent encore ceci, les événements altérant la réalité sont fréquents lors de brèches de confinement de cette ampleur.",
 			"delay": 0.635
 		},
 		{
-			"text": "During containment breaches of this magnitude.",
+			"text": "Lors de brèches de confinement de cette ampleur.",
 			"delay": 8.22
 		},
 		{
-			"text": "During containment breaches of this magnitude.",
+			"text": "Lors de brèches de confinement de cette ampleur.",
 			"delay": 12.1
 		},
 		{
-			"text": "*INCOHERENT SOUNDS*",
+			"text": "*BRUITS INCOHÉRENTS",
 			"delay": 15.61
 		}
 	],
 	"SFX\\Radio\\OhGod.ogg": [
 		{
-			"text": "Hello? Is anyone out there?",
+			"text": "Allo ? Y'a quelqu’un ?",
 			"delay": 1.76
 		},
 		{
-			"text": "I don't know what- I don't-",
+			"text": "Je ne sais pas ce que- je ne-",
 			"delay": 6.37
 		},
 		{
-			"text": "Oh God, it's coming... Someone, please, anyone... please...",
+			"text": "Oh mon Dieu, ça arrive... Quelqu’un, s’il vous plaît, n’importe qui... s’il vous plaît...",
 			"delay": 9.85
 		},
 		{
-			"text": "Someone needs to broadcast this station at once, please...",
+			"text": "Quelqu’un doit diffuser cette station immédiatement, s’il vous plaît...",
 			"delay": 15.45
 		},
 		{
-			"text": "Oh God, what is that? What is that?",
+			"text": "Oh mon Dieu, qu’est-ce que c’est ? Qu’est-ce que c’est ?",
 			"delay": 20.7
 		}
 	],
 	"SFX\\Radio\\RadioAlarm1.ogg": [
 		{
-			"text": "This site is experiencing multiple Keter and Euclid-level containment breaches. Full-site lockdown initiated.",
+			"text": "Ce site subit plusieurs brèches de confinement de niveau Keter et Euclide. Mise en confinement total du site activée.",
 			"delay": 0.62
 		}
 	],
 	"SFX\\Radio\\SCPRadio1.ogg": [
 		{
-			"text": "You're listening to SCP foundation on-site radio! Your 24/7 source for pre-recorded messages.",
+			"text": "Vous écoutez la radio du site de la Fondation SCP ! Votre source 24h/24 et 7j/7 de messages préenregistrés.",
 			"delay": 4.0
 		}
 	],
 	"SFX\\Radio\\SCPRadio2.ogg": [
 		{
-			"text": "A reminder, in the event of an XK-Class end-of-the-world scenario, don't panic. It won't help.",
+			"text": "Rappel, en cas de scénario d’apocalypse de fin du monde de classe XK, ne paniquez pas. Cela ne servira à rien.",
 			"delay": 3.2
 		},
 		{
-			"text": "Nothing at all will help.",
+			"text": "Rien ne peut vous aider.",
 			"delay": 11.3
 		},
 		{
-			"text": "However, panicking will help probably the least.",
+			"text": "Cependant, paniquer sera probablement la pire chose à faire.",
 			"delay": 13.5
 		}
 	],
 	"SFX\\Radio\\SCPRadio3.ogg": [
 		{
-			"text": "Report all suspect behavior to your supervisors immediately. If you haven't noticed any unusual activity recently, you're not looking hard enough. A threat to security can originate from anywhere, and no one is above suspicion. Not even you.",
+			"text": "Signalez immédiatement tout comportement suspect à vos supérieurs. Si vous n’avez pas remarqué d’activité inhabituelle récemment, c’est que vous ne cherchez pas assez. Une menace pour la sécurité peut venir de n’importe où, et personne n’est au-dessus de tout soupçon. Pas même vous.",
 			"delay": 2.9
 		},
 		{
-			"text": "Stay paranoid. Stay vigilant.",
+			"text": "Restez paranoïaque. Restez vigilant.",
 			"delay": 18.92
 		}
 	],
 	"SFX\\Radio\\SCPRadio4.ogg": [
 		{
-			"text": "Should you hear a different voice announcing for SCP foundation on-site radio, disregard it entirely. He is not a foundation employee. He is trying to trick you and cannot be trusted. Any advice he gives can only inevitably lead to destruction, death, and utter chaos. You are immeasurably better off listening to me.",
+			"text": "Si vous entendez une voix différente annoncer sur la radio du site de la Fondation SCP, ignorez-la complètement. Ce n’est pas un employé de la Fondation. Il essaie de vous tromper et ne peut pas être digne de confiance. Tout conseil qu’il donne ne peut que mener inévitablement à la destruction, la mort et le chaos total. Vous avez infiniment plus intérêt à m’écouter.",
 			"delay": 3.5
 		}
 	],
 	"SFX\\Radio\\SCPRadio5.ogg": [
 		{
-			"text": "In the extremely unlikely event of a catastrophic power failure and subsequent facility-wide containment breach, just remember the crisis ABCs. A for armaments. B for blinking, come the lack of. And C for cardiovascular fortitude. As they say, shoot, stare, and sprint! Or, feed the oncoming monster one of your friends.",
+			"text": "Dans l’éventualité extrêmement improbable d’une panne de courant catastrophique suivie d’une brèche de confinement à l’échelle de l’installation, souvenez-vous simplement des ABC de la crise : A pour Armement, B pour Battements (ou plutôt leur absence), et C pour Courage cardiovasculaire. Comme on dit, tirez, fixez, et courez ! Ou bien, offrez à la créature qui arrive l’un de vos amis.",
 			"delay": 3.8
 		},
 		{
-			"text": "Stay alive. Stay vigilant.",
+			"text": "Restez en vie. Restez vigilant.",
 			"delay": 29.3
 		}
 	],
 	"SFX\\Radio\\SCPRadio6.ogg": [
 		{
-			"text": "Every single thing he says is a lie.",
+			"text": "Chaque mot qui sort de sa bouche est un mensonge.",
 			"delay": 10.1
 		},
 		{
-			"text": "Every single one.",
+			"text": "Chacun d’entre eux.",
 			"delay": 14.7
 		},
 		{
-			"text": "Don't listen to him.",
+			"text": "Ne l’écoutez pas.",
 			"delay": 19.6
 		},
 		{
-			"text": "You can trust me.",
+			"text": "Tu peux me faire confiance.",
 			"delay": 24.0
 		},
 		{
-			"text": "I can get you out of this.",
+			"text": "Je peux te sortir de là.",
 			"delay": 29.65
 		},
 		{
-			"text": "I can get you away from all of this.",
+			"text": "Je peux t’emmener loin de tout ça.",
 			"delay": 33.75
 		},
 		{
-			"text": "Just listen to me.",
+			"text": "T'as juste à m'écouter.",
 			"delay": 40.4
 		}
 	],
 	"SFX\\Radio\\SCPRadio7.ogg": [
 		{
-			"text": "Don't forget, Wednesday is pizza day! So head on down to the cafeteria and grab yourself a hot slice!",
+			"text": "N'oubliez pas, mercredi c'est le jour de la pizza ! Alors descendez à la cafétéria et prenez-vous une part bien chaude !",
 			"delay": 2.6
 		},
 		{
-			"text": "(The SCP Foundation holds no liability for any injuries or illnesses sustained or contracted through the attendance of pizza day.)",
+			"text": "(La Fondation SCP décline toute responsabilité en cas de blessures ou de maladies subies ou contractées lors de votre participation au jour de la pizza.)",
 			"delay": 11.7
 		}
 	],
 	"SFX\\Radio\\SCPRadio8.ogg": [
 		{
-			"text": "When dining in the facility cafeteria, always remember to check your rations for the deadly seven. Strychnine, Arsenic Trioxide, Nitrobenzene, Mercury, Epichlorohydrin, Acetone Thiosemicarbazone, and spiders. Stay healthy! Stay vigilant.",
+			"text": "Lorsque vous mangez à la cafétéria de l’installation, n’oubliez jamais de vérifier vos rations pour détecter les Sept Morts. Strychnine, trioxyde d’arsenic, nitrobenzène, mercure, épichlorhydrine, acétone-thiosemicarbazone… et araignées. Restez en bonne santé ! Restez vigilant.",
 			"delay": 3.2
 		}
 	],
 	/* ENDINGS - GATE A */
 	"SFX\\Ending\\GateA\\Franklin.ogg": [
 		{
-			"text": "SCP-106 has broken out of the facility at Gate A! Fire the HID Turret Immediately! Do not let it across the bridge!",
+			"text": "Le SCP-106 s’est échappé de l’installation par la Gate A ! Activez immédiatement la tourelle HID ! Ne le laissez surtout pas traverser le pont !",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateA\\STOPRIGHTTHERE.ogg": [
 		{
-			"text": "Stop right there!",
+			"text": "Ne bouge plus !",
 			"delay": 0.25,
 			"color": "mtf"
 		},
 		{
-			"text": "Class-D has been found.",
+			"text": "Classe-D a été retrouvé.",
 			"delay": 3.75,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Ending\\GateA\\CI.ogg": [
 		{
-			"text": "You know too much to let them get you. You're coming with us.",
+			"text": "Tu en sais trop pour les laisser t’avoir. Tu viens avec nous.",
 			"color": "chaos"
 		}
 	],
 	"SFX\\Ending\\Ending0.ogg": [
 		{
-			"text": "Sir, we're having a major problem here!",
+			"text": "Monsieur, nous avons un gros problème ici !",
 			"delay": 0.8,
 			"color": "mtf"
 		},
 		{
-			"text": "Please elaborate. Has the target been captured yet?",
+			"text": "Pouvez-vous donner plus de détails ? La cible a-t-elle déjà été capturée ?",
 			"delay": 4.5,
 			"color": "mtf"
 		},
 		{
-			"text": "I'm not sure what's happening here. We entered the old service tunnel and it sorta… closed up on us. Now we're trapped inside. Sanders is dead. Target's been lost!",
+			"text": "Je ne sais pas trop ce qui se passe ici. Nous sommes entrés dans l’ancien tunnel de service et il s’est en quelque sorte… refermé sur nous. Maintenant, nous sommes coincés à l’intérieur. Sanders est mort. La cible a été perdue !",
 			"delay": 9.4,
 			"length": 12.0,
 			"color": "mtf"
 		},
 		{
-			"text": "Are you saying that the tunnel collapsed on you?",
+			"text": "Vous dites que le tunnel s’est effondré sur vous ?",
 			"delay": 21.9,
 			"color": "mtf"
 		},
 		{
-			"text": "No! It didn't collapse. It seemed like an anomalous event. Come see for yourself, and send someone to get us out of here!",
+			"text": "Non ! Ça ne s’est pas effondré. Ça ressemblait à un événement anormal. Venez voir par vous-même, et envoyez quelqu’un pour nous sortir d’ici !",
 			"delay": 25.5,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Ending\\Ending1.ogg": [
 		{
-			"text": "Testing log [REDACTED]. Subject [REDACTED]-[REDACTED].",
+			"text": "Journal de test [CENSURÉ]. Sujet [CENSURÉ]-[CENSURÉ].",
 			"delay": 2.1
 		},
 		{
-			"text": "Subject demonstrates extraordinary luck and complete mastery of even the most fatal of circumstances and an uncanny ability to predict even the most unpredictable of hazards, almost as if it has performed these impossible tasks several times before.",
+			"text": "Le sujet fait preuve d'une chance extraordinaire et d'une maîtrise totale des circonstances les plus fatales, ainsi que d'une capacité étrange à prédire même les dangers les plus imprévisibles, presque comme s'il avait déjà accompli ces tâches impossibles plusieurs fois auparavant.",
 			"delay": 7.8,
 			"length": 16.0
 		},
 		{
-			"text": "Further testing is required to determine whether the subject should receive SCP classification.",
+			"text": "Des tests supplémentaires sont nécessaires pour déterminer si le sujet doit recevoir une classification SCP.",
 			"delay": 24.4
 		}
 	],
 	/* ENDINGS - GATE B */
 	"SFX\\Ending\\GateB\\682Battle.ogg": [
 		{
-			"text": "SCP-682 just broke out at Gate B. I want all avaliable helicopters and MTF units at Gate B now!",
+			"text": "SCP-682 vient de s'échapper par la Gate B. Je veux que tous les hélicoptères et unités MTF disponibles soient déployés à la Gate B maintenant !",
 			"delay": 5.65,
 			"color": "announcement"
 		},
 		{
-			"text": "I repeat, SCP-682 is out of the facility! All avaliable helicopters and MTF units to Gate B now!",
+			"text": "Je le répète, SCP-682 est sorti de l'installation ! À tous les hélicoptères et unités MTF disponibles veuillez vous rendre vers la Gate B !",
 			"delay": 13.8,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateB\\DetonatingAlphaWarheads.ogg": [
 		{
-			"text": "We're detonating the Alpha warheads in T-minus 90 seconds! All personnel are advised to board the nearest helicopter or enter the nearest blast shelter immediately.",
+			"text": "Nous allons faire exploser les ogives Alpha dans T-Moins 90 secondes ! Il est conseillé à tout le personnel de monter à bord de l'hélicoptère le plus proche ou de se rendre immédiatement dans l'abri anti-explosion le plus proche.",
 			"delay": 0.42,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateB\\AlphaWarheadsFail.ogg": [
 		{
-			"text": "We were unable to detonate the warheads for unknown reasons. All helicopters and MTF units go back to Gate B immediately. Capturing SCP-682 is now our number one priority.",
+			"text": "Nous n'avons pas pu faire exploser les ogives pour des raisons inconnues. Tous les hélicoptères et les unités MTF retournez immédiatement à la Gate B. Capturer SCP-682 est désormais votre priorité absolue.",
 			"delay": 0.38,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateB\\THEREHEIS.ogg": [
 		{
-			"text": "There he is! Start shooting!",
+			"text": "Le voilà ! Ouvrez le feu !",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Ending\\Ending2.ogg": [
 		{
-			"text": "Sir, we found a dead Class-D on the walkway outside Gate B. He's got multiple gun shot wounds in his chest. I'd assume he was shot when we were fighting SCP-682.",
+			"text": "Monsieur, nous avons trouvé un Classe-D mort sur la passerelle à l’extérieur de la porte B. Il présente plusieurs blessures par balle au niveau de la poitrine. Je suppose qu’il a été abattu lors de notre combat contre le SCP-682.",
 			"delay": 0.5,
 			"length": 12.0,
 			"color": "mtf"
 		},
 		{
-			"text": "I'd like to know how the hell did a Class-D get past the gate? Deliver me the security tapes from all the cameras near the gate and find out who was stationed there, before and during 682's escape attempt.",
+			"text": "Je veux savoir comment un Classe-D a pu passer la Gate. Fournissez-moi les enregistrements de toutes les caméras proches de la Gate et identifiez qui était posté là, avant et pendant la tentative d’évasion du SCP-682.",
 			"delay": 11.5,
 			"length": 16.0,
 			"color": "mtf"
 		},
 		{
-			"text": "Roger that sir.",
+			"text": "Bien reçu, monsieur.",
 			"delay": 26.0,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Ending\\Ending3.ogg": [
 		{
-			"text": "This is CH-1 to OH-6, have you located the target, over?",
+			"text": "Ici CH-1 à OH-6, avez-vous localisé la cible, terminé ?",
 			"color": "mtf"
 		},
 		{
-			"text": "OH-6 to CH-1, no sign of the target. I think we should send an MTF-..",
+			"text": "OH-6 à CH-1, aucun signe de la cible. Je pense qu'on devrait envoyer une équipe de la Force Mobile...",
 			"delay": 6.05,
 			"color": "mtf"
 		},
 		{
-			"text": "*ROARS*",
+			"text": "*RUGISSEMENTS*",
 			"delay": 10.95,
 			"color": "682"
 		},
 		{
-			"text": "CH-1 to OH-6, do you copy?",
+			"text": "CH-1 à OH-6, vous me recevez ?",
 			"delay": 14.95,
 			"color": "mtf"
 		}
@@ -3830,79 +3831,79 @@
 	/* AMBIENTS */
 	"SFX\\Ambient\\Forest\\Ambient6.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\035Chamber\\Whispers0.ogg": [
 		{
-			"text": "*WHISPERS*",
+			"text": "*CHUCHOTEMENTS*",
 			"color": "066"
 		}
 	],
 	"SFX\\Room\\035Chamber\\Whispers1.ogg": [
 		{
-			"text": "*WHISPERS*",
+			"text": "*CHUCHOTEMENTS*",
 			"color": "066"
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion2.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion11.ogg": [
 		{
-			"text": "*LAUGH*",
+			"text": "*RIRE*",
 			"color": "106",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion18.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS*"
+			"text": "Allez-y, je vous rejoindrai plus tard! Merde.."
 		},
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"delay": 3.5
 		},
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"delay": 7.5
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion19.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion20.ogg": [
 		{
-			"text": "*CHOKING*",
+			"text": "*RESPIRATION FORTE*",
 			"delay": 2.0
 		},
 		{
-			"text": "Do not be afraid, I am the cure.",
+			"text": "N’ayez pas peur, je suis le remède.",
 			"delay": 9.0,
 			"color": "049"
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion23.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"length": 3.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion24.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*CRI*",
 			"delay": 2.1,
 			"length": 2.0
 		},
 		{
-			"text": "*LAUGH*",
+			"text": "*RIRE*",
 			"delay": 3.3,
 			"color": "106"
 		}
