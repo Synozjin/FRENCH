@@ -114,7 +114,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse0.ogg": [
 		{
-			"text": "T'es débile ou quoi ? Je t'ai dis de sortir. Si tu ne sors pas de ta cellule, je vais te botter le cul.",
+			"text": "T'es con ou quoi ? Je t'ai dis de sortir. Si tu ne sors pas de ta cellule, je vais te botter le cul.",
 			"color": "ulgrin",
 			"length": 6.05
 		}
@@ -142,7 +142,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\Escort0.ogg": [
 		{
-			"text": "Contente-toi de me suivre. Oh, et aussi, on a le droit de tuer les sujets désobéissants. Alors, ne tente rien de stupide..",
+			"text": "Contente-toi de me suivre. Oh, et aussi, on a le droit de tuer les sujets désobéissants. Alors, ne tente rien de stupide...",
 			"color": "ulgrin"
 		}
 	],
@@ -184,7 +184,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortKill0.ogg": [
 		{
-			"text": "Ok tu sais quoi, très bien. Fais comme tu veux. On va juste prendre quelqu'un d'autre.",
+			"text": "Ok, t'sais quoi, très bien. Fais comme tu veux. On va juste prendre quelqu'un d'autre.",
 			"color": "ulgrin"
 		}
 	],
@@ -237,7 +237,7 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Ok, Bien compris..",
+			"text": "Ok, bien compris...",
 			"delay": 7.78,
 			"color": "ulgrin"
 		}
@@ -245,7 +245,7 @@
 	/* ESCAPE GUARD */
 	"SFX\\Room\\Intro\\Guard\\PlayerEscape.ogg": [
 		{
-			"text": "Qu'est-ce que tu fous ? Hé ! Stop ! Il se barre !",
+			"text": "Oh qu'est-ce que ? Hé ! Stop ! Il prend la fuite !",
 			"color": "guard"
 		}
 	],
@@ -256,7 +256,7 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Bah ouais, à qui tu pense que je parle ? Le gars avec là avec la tête de punching-ball ? Bien sûr que c'est à toi que je parle.",
+			"text": "Bah ouais, à qui tu pense que je parle ? Le gars là avec sa tête de punching-ball ? Bien sûr que c'est à toi que je parle.",
 			"delay": 5.3,
 			"color": "ulgrin"
 		},
@@ -266,19 +266,19 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Sérieux ? Wow. Bizarre.",
+			"text": "Sérieux ? Wow. C'est bizarre.",
 			"delay": 23.65,
 			"color": "ulgrin"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation0b.ogg": [
 		{
-			"text": "Euh... c'est- c'est à moi que vous parlez ?",
+			"text": "Euh... c'est- c'est à moi que tu parles ?",
 			"delay": 3.2,
 			"color": "guard"
 		},
 		{
-			"text": "Oh ! Je suis juste un peu surpris. C'est la première fois que vous m'addressez la parole.",
+			"text": "Oh ! Je suis juste un peu surpris. C'est la première fois que tu m'addresses la parole.",
 			"delay": 10.33,
 			"color": "guard"
 		},
@@ -309,7 +309,7 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Ouais bon écoute, je veux pas paraître impolis mais ce que tu dis m'intéresse déjà plus.",
+			"text": "Ouais bon écoute, je veux pas paraître impolis mais ce que tu me dis m'intéresse plus.",
 			"delay": 24.73,
 			"color": "ulgrin"
 		}
@@ -375,7 +375,7 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Dis lui que tu bosses dans un café ou un truc comme ça..",
+			"text": "Dis lui que tu bosses dans un café ou un truc comme ça...",
 			"delay": 13.51,
 			"color": "ulgrin"
 		},
@@ -397,7 +397,7 @@
 			"color": "guard"
 		},
 		{
-			"text": "Ben, comment je suis censé avoir une copine en bossant ici ? 'Fin, je peux pas lui en parler.",
+			"text": "Bah, comment je suis censé avoir une copine en bossant ici ? 'Fin, je peux pas lui en parler.",
 			"delay": 9.14,
 			"color": "guard"
 		},
@@ -418,7 +418,7 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Oh, ok. Oh, et les jeux-vidéos ? Tu sais quoi, ça me rappelle une idée, quelqu'un devrait créer un jeu sur cet endroit.",
+			"text": "Oh, ok. Oh, et les jeux-vidéos ? T'sais quoi, ça me rappelle une idée, quelqu'un devrait créer un jeu sur cet endroit.",
 			"delay": 5.4,
 			"color": "ulgrin"
 		},
@@ -448,7 +448,7 @@
 	/* BALCONY GUARD */
 	"SFX\\Room\\Intro\\Guard\\Balcony\\Alert0.ogg": [
 		{
-			"text": "Hé, petit con, tu ferais mieux de retourner dans cette chambre tout de suite. Je te le dirai pas deux fois.",
+			"text": "Hé, le trouillard, tu ferais mieux de retourner dans cette chambre tout de suite. Je te le dirai pas deux fois.",
 			"color": "guard"
 		}
 	],
@@ -466,7 +466,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Balcony\\WTF0.ogg": [
 		{
-			"text": "Putain mais qu'est-ce qu'il se passe ?",
+			"text": "Putain mais qu'est-ce qu'il se passe !?",
 			"color": "guard"
 		}
 	],
@@ -479,7 +479,7 @@
 	/* FRANKLIN */
 	"SFX\\Room\\Intro\\WhatThe0a.ogg": [
 		{
-			"text": "Agent, derrière vous !"
+			"text": "Agent, derrière vous!"
 		},
 		{
 			"text": "Ne le quittez pas des yeux !",
@@ -492,13 +492,13 @@
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\EnterChamber.ogg": [
 		{
-			"text": "Votre attention s'il vous plaît, personnels de Classe-D, veuillez entrer dans la chambre de confinement.",
+			"text": "Attention, tout le personnel de Classe-D, veuillez entrer dans la chambre de confinement.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse0.ogg": [
 		{
-			"text": "Sujet D-9341, entrez dans la chambre de confinement ou vous serez éliminé !",
+			"text": "Sujet D-9341, entrez dans la chambre de confinement ou vous serez neutralisé !",
 			"color": "announcement"
 		}
 	],
@@ -510,7 +510,7 @@
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse2.ogg": [
 		{
-			"text": "Sujet D-9341 désigné pour l'élimination. Feu à volonté !",
+			"text": "Sujet D-9341 désigné pour neutralisation. Feu à volonté !",
 			"color": "announcement"
 		}
 	],
@@ -520,13 +520,11 @@
 			"color": "announcement"
 		}
 	],
-	"SFX\\Room\\Intro\\Scientist\\Franklin\\Problem.ogg": [
+	"SFX\\Room\\Intro\\Scientist\\Franklin\\Problem.ogg": 
 		{
-			"text": "Euh, il semble y avoir un problème avec le système de contrôle de la porte. Les portes ne répondent à aucune de nos tentatives de les fermer. Donc, s’il vous plaît, maintenez un contact visuel direct avec SCP-173.",
-			"color": "announcement",
-			"length": 6.57
-		}
-	],
+			"text": "Agent, derrière vous!"
+		},
+		
 	/* CLASS-D */
 	"SFX\\Room\\Intro\\ClassD\\DontLikeThis.ogg": [
 		{
@@ -574,7 +572,7 @@
 			"delay": 36.2
 		},
 		{
-			"text": "Il n'a pas quitté son bureau, il dit qu'il a entendu des choses...",
+			"text": "Il n'a pas quitté son bureau, il dit qu'il a entendu des choses..",
 			"delay": 38.2
 		}
 	],
@@ -815,7 +813,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew4.ogg": [
 		{
-			"text": "À la porte Tesla G-6.",
+			"text": "Au portail Tesla G-6.",
 			"color": "announcement"
 		}
 	],
@@ -1079,7 +1077,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement6.ogg": [
 		{
-			"text": "Venez participer à notre soirée cinéma annuelle ce samedi ! Le film de cette année : « Area 51 : Panique et terreur : à deux miles sous terre ».",
+			"text": "Venez participer à notre soirée cinéma annuelle ce samedi ! Le film de cette année : « Zone 51 : Panique et terreur : à deux miles sous terre ».",
 			"delay": 1.95,
 			"color": "announcement"
 		}
@@ -1147,7 +1145,7 @@
 	],
 	"SFX\\Character\\Scientist\\EscapeFromClosets.ogg": [
 		{
-			"text": "Tu as entendu ça ?"
+			"text": "Vous avez entendu ça ?"
 		},
 		{
 			"text": "J’espère que ce n’était pas-",
@@ -1157,7 +1155,7 @@
 	/* 096 GUARD */
 	"SFX\\Character\\Guard\\096ServerRoom0.ogg": [
 		{
-			"text": "Bonjour ?",
+			"text": "Hé ho ?",
 			"delay": 1.4,
 			"color": "guard"
 		},
@@ -1192,7 +1190,7 @@
 			"color": "guard"
 		},
 		{
-			"text": "Éloigne-toi de moi !",
+			"text": "T'approche pas de moi !",
 			"delay": 12.8,
 			"color": "guard"
 		},
@@ -1216,7 +1214,7 @@
 	/* 895 GUARD */
 	"SFX\\Room\\895Chamber\\GuardIdle0.ogg": [
 		{
-			"text": "Rien ne marche... rien ne marche... Non, non. Non !",
+			"text": "Rien ne marche... rien ne marche... non, non. Non !",
 			"color": "guard"
 		}
 	],
@@ -1283,25 +1281,25 @@
 	/* 008 VOICES */
 	"SFX\\SCP\\008\\Voices0.ogg": [
 		{
-			"text": "*DISCOURS CONFUS*",
+			"text": "*DISCOURS INDÉCHIFFRABLE*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices1.ogg": [
 		{
-			"text": "*DISCOURS CONFUS*",
+			"text": "*DISCOURS INCOMPRÉHENSIBLE*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices2.ogg": [
 		{
-			"text": "*DISCOURS CONFUS*",
+			"text": "*DISCOURS INDESCRIPTIBLE*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices3.ogg": [
 		{
-			"text": "*DISCOURS CONFUS*",
+			"text": "*DISCOURS ÉTOUFFÉ *",
 			"color": "066"
 		}
 	],
@@ -1313,13 +1311,13 @@
 	],
 	"SFX\\SCP\\008\\Voices5.ogg": [
 		{
-			"text": "*DISCOURS CONFUS*",
+			"text": "*DISCOURS INEXPLICABLE*",
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\008\\Voices6.ogg": [
 		{
-			"text": "*DISCOURS CONFUS*",
+			"text": "*DISCOURS INTRADUISIBLE*",
 			"color": "066"
 		}
 	],
@@ -1472,7 +1470,7 @@
 	],
 	"SFX\\Character\\LureSubject\\Idle3.ogg": [
 		{
-			"text": "Lâchez-moi, s'il vous plaît !",
+			"text": "Relâchez-moi, s'il vous plaît !",
 			"delay": 0.4,
 			"color": "classd"
 		}
@@ -1578,7 +1576,7 @@
 			"color": "classd"
 		},
 		{
-			"text": "Hahahahaha!",
+			"text": "Hahahahaha !",
 			"delay": 9.15,
 			"color": "classd"
 		}
@@ -1596,7 +1594,7 @@
 			"color": "classd"
 		},
 		{
-			"text": "Hahahahahahaha!",
+			"text": "Hahahahahahaha !",
 			"delay": 1.0,
 			"color": "classd"
 		},
@@ -1620,7 +1618,7 @@
 	],
 	"SFX\\SCP\\012\\Speech6.ogg": [
 		{
-			"text": "Hahahahaha!",
+			"text": "Hahahahaha !",
 			"delay": 3.3,
 			"color": "classd"
 		},
@@ -1809,21 +1807,21 @@
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled0.ogg": [
 		{
-			"text": "Contrôle à Nine-Tailed Fox, portail Tesla désactivée.",
+			"text": "Contrôle à Nine-Tailed Fox, portail Tesla désactivé.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled1.ogg": [
 		{
-			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla est désactivée. Vous pouvez passer.",
+			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla est désactivé. Vous pouvez passer.",
 			"delay": 1.25,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled2.ogg": [
 		{
-			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla dans votre secteur est maintenant inactive. Procédez en toute sécurité.",
+			"text": "Contrôle à Nine-Tailed Fox, le portail Tesla dans votre secteur est maintenant inactif. Procédez en toute sécurité.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
@@ -1898,7 +1896,7 @@
 	],
 	"SFX\\Radio\\MTFRandom2.ogg": [
 		{
-			"text": "Cet endroit me fait vraiment flipper. Finissons-en vite..",
+			"text": "Cet endroit me fait vraiment flipper. Finissons-en vite...",
 			"delay": 0.18,
 			"color": "mtf"
 		}
@@ -1956,7 +1954,7 @@
 			"color": "mtf"
 		},
 		{
-			"text": "T’es complètement taré, cette truc est dangereux !",
+			"text": "T’es complètement taré, ce truc est dangereux !",
 			"delay": 5.23,
 			"color": "mtf"
 		},
@@ -1966,7 +1964,7 @@
 			"color": "mtf"
 		},
 		{
-			"text": "Ferme ta gueule ! Finissons-en vite..",
+			"text": "Ferme ta gueule ! Finissons-en vite...",
 			"delay": 14.85,
 			"color": "mtf"
 		},
@@ -2029,7 +2027,7 @@
 	],
 	"SFX\\Character\\MTF\\Stop2.ogg": [
 		{
-			"text": "Toi ! Ne bouge plus !",
+			"text": "Toi ! Stop !",
 			"color": "mtf"
 		}
 	],
@@ -2047,7 +2045,7 @@
 	],
 	"SFX\\Character\\MTF\\Stop5.ogg": [
 		{
-			"text": "Hé, toi, stop !",
+			"text": "Toi, stop !",
 			"color": "mtf"
 		}
 	],
@@ -2060,7 +2058,7 @@
 	],
 	"SFX\\Character\\MTF\\TargetLost1.ogg": [
 		{
-			"text": "Le Classe-D nous a échappé. Reprise de la tâche précédente..",
+			"text": "Le Classe-D nous a échappé. Reprise de la tâche précédente...",
 			"delay": 0.8,
 			"color": "mtf"
 		}
@@ -2092,7 +2090,7 @@
 	],
 	"SFX\\Character\\MTF\\TargetTerminated2.ogg": [
 		{
-			"text": " Classe-D a été neutralisé.",
+			"text": "Classe-D a été neutralisé.",
 			"delay": 1.0,
 			"color": "mtf"
 		}
@@ -2111,7 +2109,7 @@
 	],
 	"SFX\\Character\\MTF\\TeslaRequest.ogg": [
 		{
-			"text": "Nine-Tailed Fox aux contrôles, on demande la désactivation de la porte Tesla la plus proche de notre position.",
+			"text": "Nine-Tailed Fox aux contrôles, on demande la désactivation du portail Tesla le plus proche de notre position.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
@@ -2150,7 +2148,7 @@
 	],
 	"SFX\\Character\\MTF\\ThereHeIs5.ogg": [
 		{
-			"text": "Oh, tiens, c’est un Classe-D !",
+			"text": "Oh, hé, c’est un Classe-D !",
 			"delay": 0.2,
 			"color": "mtf"
 		}
@@ -2195,7 +2193,7 @@
 	],
 	"SFX\\Character\\MTF\\049\\Spotted3.ogg": [
 		{
-			"text": "Le Docteur de la Peste vient d’être repéré ! Tout le monde reste calme.",
+			"text": "Le Docteur de la Peste vient d’être repéré ! Que tout le monde reste calme.",
 			"color": "mtf"
 		}
 	],
@@ -2250,7 +2248,7 @@
 	],
 	"SFX\\Character\\MTF\\106\\Spotted1.ogg": [
 		{
-			"text": "Le Vieux sort ! Faut qu’on se casse d’ici !",
+			"text": "Le vieil homme sort ! Faut qu’on se casse d’ici !",
 			"delay": 0.1,
 			"color": "mtf"
 		}
@@ -2423,7 +2421,7 @@
 	],
 	"SFX\\SCP\\035\\Idle4.ogg": [
 		{
-			"text": "Tu sais... la Force Opérationnelle Mobile va entrer dans l'installation d’une minute à l’autre.",
+			"text": "Tu sais... la Force d'Intervention Mobile va entrer dans l'installation d’une minute à l’autre.",
 			"delay": 0.7
 		},
 		{
@@ -2458,7 +2456,7 @@
 			"delay": 9.7
 		},
 		{
-			"text": "Le code d’accès est 5-7-3-1. Tu as compris ?",
+			"text": "Le code d’accès est 5-7-3-1. T'as compris ?",
 			"delay": 14.9
 		},
 		{
@@ -2489,7 +2487,7 @@
 			"delay": 15.8
 		},
 		{
-			"text": "Que vous devriez désactiver à distance en cas de problème.",
+			"text": "Que tu vas devoir désactiver à distance en cas de problème.",
 			"delay": 23.8
 		}
 	],
@@ -2575,7 +2573,7 @@
 			"delay": 10.95
 		},
 		{
-			"text": "Tu trouveras plein de trucs sympas là-dedans, d'accord ? Mais s'il te plaît, pas encore le gaz.",
+			"text": "Tu trouveras plein de trucs sympas là-dedans, d'accord ? Mais s'il te plaît, juste pas le gaz encore.",
 			"delay": 13.8
 		}
 	],
@@ -2586,7 +2584,7 @@
 			"color": "035"
 		},
 		{
-			"text": "Tu représentes un trop grand risque à bien des égards. Alors oui, je t’ai menti.",
+			"text": "Tu représentes un risque bien trop grand, sous trop d'aspects. Alors oui, je t’ai menti.",
 			"delay": 3.35,
 			"color": "035"
 		},
@@ -2618,7 +2616,7 @@
 			"color": "035"
 		},
 		{
-			"text": "Tu sais, un Classe-D solitaire comme toi n'a aucune chance de remonter à la surface sain et sauf. Même si tu y parvenais, ils te descendraient dès que tu croiserais leurs lignes de mire.",
+			"text": "Tu sais, un Classe-D solitaire comme toi n'a aucune chance de remonter à la surface sain et sauf. Même si tu y parviens, ils vont te descendre dès que tu croiserais leurs lignes de mire.",
 			"delay": 6.97,
 			"color": "035"
 		}
@@ -2652,7 +2650,7 @@
 			"color": "035"
 		},
 		{
-			"text": "Le moyen le plus simple pour vous de sortir en toute sécurité est d'aller trouver SCP-012 dans la zone de confinement léger.",
+			"text": "Le moyen le plus simple pour sortir en toute sécurité est d'aller trouver SCP-012 dans la zone de confinement léger.",
 			"delay": 12.7,
 			"color": "035"
 		},
@@ -2711,7 +2709,7 @@
 	],
 	"SFX\\SCP\\049\\Searching6.ogg": [
 		{
-			"text": "Une bague, une bague, des roses. Une poche pleine de bouquets. Un mouchoir, un mouchoir. Nous tombons tous.",
+			"text": "« Ring-a-ring o' roses, a pocket full of posies, a-tishoo! a-tishoo! We all fall down. »",
 			"color": "049"
 		}
 	],
@@ -2723,7 +2721,7 @@
 	],
 	"SFX\\SCP\\049\\Spotted1.ogg": [
 		{
-			"text": "Vous n'êtes pas médecin.",
+			"text": "Vous n'êtes pas un docteur.",
 			"color": "049"
 		}
 	],
@@ -2788,7 +2786,7 @@
 	],
 	"SFX\\SCP\\049\\TakeOffHazmat.ogg": [
 		{
-			"text": "Débarrassons-nous de cet étrange vêtement.",
+			"text": "Débarrassons-nous de ce costume étrange .",
 			"color": "049"
 		}
 	],
@@ -3862,7 +3860,7 @@
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion18.ogg": [
 		{
-			"text": "Allez-y, je vous rejoindrai plus tard! Merde.."
+			"text": "Allez-y, je vous rejoindrai plus tard ! Merde..."
 		},
 		{
 			"text": "*CRI*",
