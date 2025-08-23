@@ -520,10 +520,13 @@
 			"color": "announcement"
 		}
 	],
-	"SFX\\Room\\Intro\\Scientist\\Franklin\\Problem.ogg": 
+	"SFX\\Room\\Intro\\Scientist\\Franklin\\Problem.ogg": [
 		{
-			"text": "Agent, derrière vous!"
-		},
+			"text": "Euh, il semble y avoir un problème avec le système de contrôle de la porte. Les portes ne répondent à aucune de nos tentatives de les fermer. Donc, s’il vous plaît, maintenez un contact visuel direct avec SCP-173.",
+			"color": "announcement",
+			"length": 7.60
+		}
+	],
 		
 	/* CLASS-D */
 	"SFX\\Room\\Intro\\ClassD\\DontLikeThis.ogg": [
