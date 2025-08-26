@@ -385,7 +385,7 @@
 			"color": "ulgrin"
 		},
 		{
-			"text": "Argh... bref laisse tomber.",
+			"text": "Orh... bref laisse tomber.",
 			"delay": 30.45,
 			"color": "ulgrin"
 		}
@@ -2572,7 +2572,7 @@
 			"delay": 4.77
 		},
 		{
-			"text": "5-7-3-1 ! T’as retenu ?",
+			"text": "5-7-3-1 ! T’as compris ?",
 			"delay": 10.95
 		},
 		{
@@ -2619,7 +2619,7 @@
 			"color": "035"
 		},
 		{
-			"text": "Tu sais, un Classe-D solitaire comme toi n'a aucune chance de remonter à la surface sain et sauf. Même si tu y parviens, ils vont te descendre dès que tu croiserais leurs lignes de mire.",
+			"text": "Tu sais, un Classe-D solitaire comme toi n'a aucune chance de remonter à la surface sain et sauf. Même si tu y parviens, ils vont te descendre dès que tu croiseras leurs lignes de mire.",
 			"delay": 6.97,
 			"color": "035"
 		}
@@ -3232,7 +3232,7 @@
 	],
 	"SFX\\SCP\\939\\1Lure2.ogg": [
 		{
-			"text": "Bonjour ? Qui est là ?"
+			"text": "Hé ho ? Qui est là ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure3.ogg": [
@@ -3242,12 +3242,12 @@
 	],
 	"SFX\\SCP\\939\\1Lure4.ogg": [
 		{
-			"text": "Où es-tu ?"
+			"text": "Tu es où ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure5.ogg": [
 		{
-			"text": "Êtes-vous blessé ?"
+			"text": "Vous êtes blessé ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure6.ogg": [
@@ -3267,7 +3267,7 @@
 	],
 	"SFX\\SCP\\939\\1Lure9.ogg": [
 		{
-			"text": "Quelqu'un ici ?"
+			"text": "Quelqu'un est ici ?"
 		}
 	],
 	"SFX\\SCP\\939\\1Alert0.ogg": [
@@ -3309,7 +3309,7 @@
 	],
 	"SFX\\SCP\\939\\2Lure1.ogg": [
 		{
-			"text": "Où êtes-vous les gars ? Je ne vous vois pas ici en bas.",
+			"text": "Vous êtes où les gars ? Je ne vous vois pas ici en bas.",
 			"color": "crew"
 		}
 	],
@@ -3351,13 +3351,13 @@
 	],
 	"SFX\\SCP\\939\\2Lure8.ogg": [
 		{
-			"text": "Où es-tu ?",
+			"text": "T'es où ?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure9.ogg": [
 		{
-			"text": "Où êtes-vous ?",
+			"text": "Vous êtes où ?",
 			"color": "crew"
 		}
 	],
