@@ -2336,7 +2336,7 @@
 		"alpha": 0.9,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
-		"drink_message": "\"Oh shit, I gotta shit! I need to find a bathroom stat!\"",
+		"drink_message": "\"Oh merde, faut que je chie ! Il me faut des toilettes, et vite !\"",
 		"stomachache": true,
 		"vomit": 20.0
 	},
@@ -2424,7 +2424,7 @@
 		"alpha": 0.5,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
-		"drink_message": "You realise that you will miss Christmas.. ",
+		"drink_message": "Vous réalisez que vous allez manquer Noël...",
 		"blur": 10.0,
 		"death_timer": 50.0
 	},
@@ -2434,7 +2434,7 @@
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
-		"drink_message": "Vous réalisez que vous allez manquer Noël...",
+		"drink_message": "Cette boisson t’insuffle la force nécessaire pour continuer ta quête d’évasion du complexe SCP.",
 		"stamina_effect": 0.3,
 		"stamina_timer": 555.0,
 		"damage": -8.0,
@@ -2903,7 +2903,7 @@
 		"stomachache": true,
 		"blur": 10.0,
 		"damage": 5.0,
-		"death_message": "Le Sujet D-9341 a été retrouvé mort à l’intérieur du Site-[DONNÉES CENSURÉES]. La trachée était imbibée de cannelle.",
+		"death_message": "Le Sujet D-9341 a été retrouvé mort à l’intérieur du Site-[DONNÉES SUPPRIMÉES]. La trachée était imbibée de cannelle.",
 		"death_timer": 10.0
 	},
 	{
@@ -2960,7 +2960,7 @@
 		"alpha": 0.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg",
-		"death_message": " L’unité Nine-Tailed Fox a trouvé le Sujet D-9341 inconscient au [DONNÉES CENSURÉES]. Six instances de SCP-1610-2 ainsi que le Sujet D-9341 ont été neutralisés.",
+		"death_message": " L’unité Nine-Tailed Fox a trouvé le Sujet D-9341 inconscient au [DONNÉES SUPPRIMÉES]. Six instances de SCP-1610-2 ainsi que le Sujet D-9341 ont été neutralisés.",
 		"death_timer": 0.0
 	},
 	{
@@ -3055,7 +3055,7 @@
 		"alpha": 0.9,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
-		"drink_message": "\"Hey! I drank it in Russia!\""
+		"drink_message": "\"Hé ! Je l’ai bue en Russie !\""
 	},
 	{
 		"name": ["White Kvass", "White Bread Kvass"],
@@ -3063,7 +3063,7 @@
 		"alpha": 0.9,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
-		"drink_message": "\"Hey! I drank this drink in Russia.\""
+		"drink_message": "\"Hé ! J’ai bu cette boisson en Russie.\""
 	},
 	{
 		"name": ["Apple Braga", "Apple Brew Drink", "Apple Brewing Drink", "Pear Braga", "Grape Braga", "Grape-Apple Braga", "Apple-Grape Braga", "Pear Brew Drink", "Grape Brew Drink", "Grape-Apple Brew Drink", "Apple-Grape Brew Drink", "Pear Brewing Drink", "Grape Brewing Drink", "Grape-Apple Brewing Drink", "Apple-Grape Brewing Drink", "Pear-Grape Braga", "Pear-Grape Brew Drink", "Pear-Grape Brewing Drink", "Grape-Pear Brewing Drink", "Grape-Pear Brew Drink", "Grape-Pear Braga"],
@@ -3110,7 +3110,7 @@
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg",
-		"death_message": "Subject D-9341 found dead in [DATA REDACTED]. The cause of death was a heart attack.",
+		"death_message": "Le sujet D-9341 a été retrouvé mort dans [DONNÉES SUPPRIMÉES]. La cause du décès est une crise cardiaque.",
 		"death_timer": 0.0
 	},
 	{
@@ -3156,7 +3156,7 @@
 		"color": [250, 200, 15],
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
-		"refuse_message": "\"Je ne suis pas assez stupide pour boire de la colle.\""
+		"refuse_message": "\"Qui est assez stupide pour boire de la colle sérieux ?\""
 	},
 	{
 		"name": ["Chicory", "Coffee Drink"],
@@ -3191,7 +3191,7 @@
 		"alpha": 1.0,
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg",
-		"death_message": "Le Sujet D-9341 a été retrouvé à [DONNÉES CENSURÉES]. Le sujet est décédé en tentant de consommer le virus Ebola de Reston (Ebola).",
+		"death_message": "Le Sujet D-9341 a été retrouvé à [DONNÉES SUPPRIMÉES]. Le sujet est décédé en tentant de consommer le virus Ebola de Reston (Ebola).",
 		"death_timer": 0.0
 	},
 	{
@@ -3209,7 +3209,7 @@
 		"dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg",
 		"blur": 5.0,
-		"death_message": "Le Sujet D-9341 a été retrouvé inconscient à [DONNÉES CENSURÉES]. Sujet neutralisé.",
+		"death_message": "Le Sujet D-9341 a été retrouvé inconscient à [DONNÉES SUPPRIMÉES]. Sujet neutralisé.",
 		"death_timer": 0.0
 	},
 	{
@@ -3325,7 +3325,7 @@
 		"dispense_sound": "SFX\\SCP\\294\\Dispense2.ogg",
 		"drink_sound": "SFX\\SCP\\294\\Cough.ogg",
 		"blur": 20.0,
-		"death_message": "L’unité Nine-Tailed Fox a trouvé SCP-1664-[DONNÉES CENSURÉES] au [DONNÉES CENSURÉES]. Sujet neutralisé.",
+		"death_message": "L’unité Nine-Tailed Fox a trouvé SCP-1664-[DONNÉES SUPPRIMÉES] au [DONNÉES SUPPRIMÉES]. Sujet neutralisé.",
 		"death_timer": 0.0
 	},
 	{
@@ -3540,7 +3540,7 @@
 		"dispense_sound": "SFX\\SCP\\294\\Dispense3.ogg",
 		"drink_message": "Vous sentez un vrai couteau vous ouvrir la gorge, avec de la drill FR qui résonne dans votre tête.",
 		"blur": 100.0,
-		"death_message": " L’unité Nine-Tailed Fox a trouvé le Sujet D-9341 avec un vrai couteau planté dans la gorge. La cause du décès est inconnue. Le vrai couteau portait une inscription sur le manche : « Eh Gang » et « Libérez tous mes copains, huh huh ! ». ",
+		"death_message": " L’unité Nine-Tailed Fox a trouvé le Sujet D-9341 avec un vrai couteau planté dans la gorge. La cause du décès est inconnue. Le vrai couteau portait une inscription sur le manche : « Ziakimbo » et « Chrome.Castle ». ",
 		"death_timer": 0.0
 	},
 	{
@@ -3629,5 +3629,13 @@
 		"drink_sound": "SFX\\SCP\\294\\Ahh.ogg",
 		"drink_message": "Vous ne vous sentez plus seul.",
 		"blur": 20.0
-	}
+	},
+    {
+	    "name": ["Ciao Kombucha", "Squeezie Kombucha", "Ciao Drink", "Squeezie's Ciao", "Ciao Energy", "Ciao Tea"],
+	    "color": [210, 145, 75],
+	    "alpha": 1.0,
+	    "dispense_sound": "SFX\\SCP\\294\\Dispense1.ogg",
+	    "drink_sound": "SFX\\SCP\\294\\Slurp.ogg",
+	    "drink_message": "\"Bon, vous ressentez une énergie créative inexplicable… et une envie soudaine de dire 'Ciao' à tout le monde, est-ce que c'est bon pour vous ?!\""
+    }
   ]
