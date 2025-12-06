@@ -40,53 +40,54 @@
 		"049": [50, 70, 70],
 		"066": [180, 35, 60],
 		"096": [230, 230, 230],
-		"106": [30, 30, 30],
+		"106": [180, 180, 180],
 		"682": [180, 160, 135],
 		"860-2": [110, 55, 80],
 		"1499-1": [30, 29, 40],
-		"ulgrin":[180, 180, 150]
+		"ulgrin":[180, 180, 150],
+		"player": [255, 255, 255]
 	},
 	/* D-9341 */
 	"SFX\\Character\\D9341\\Cough0.ogg": [
 		{
 			"text": "*TOUSSE*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough1.ogg": [
 		{
 			"text": "*TOUSSE*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough2.ogg": [
 		{
 			"text": "*TOUSSE*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough0Gas.ogg": [
 		{
 			"text": "*TOUSSE*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough1Gas.ogg": [
 		{
 			"text": "*TOUSSE*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\Character\\D9341\\Cough2Gas.ogg": [
 		{
 			"text": "*TOUSSE*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	/* INTRO */
@@ -1520,7 +1521,7 @@
 			"color": "classd"
 		},
 		{
-			"text": "Pourquoi ??",
+			"text": "Pourquoi !?",
 			"delay": 14.0,
 			"color": "classd"
 		},
@@ -1552,43 +1553,43 @@
 		{
 			"text": "Un peu… vraiment…",
 			"delay": 1.47,
-			"color": "classd"
+			"color": "player"
 		},
 		{
 			"text": "Je dois… Je dois le finir…",
 			"delay": 6.6,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\012\\Speech1.ogg": [
 		{
 			"text": "Tu veux vraiment le faire...",
 			"delay": 0.19,
-			"color": "classd"
+			"color": "player"
 		},
 		{
 			"text": "Je pense … pas pouvoir y arriver…",
 			"delay": 13.68,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\012\\Speech2.ogg": [
 		{
 			"text": "Je… je dois le faire….",
 			"delay": 5.45,
-			"color": "classd"
+			"color": "player"
 		},
 		{
 			"text": "Hahahahaha !",
 			"delay": 9.15,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\012\\Speech3.ogg": [
 		{
 			"text": "Je… je… n’ai… pas… le… choix…",
 			"delay": 0.18,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\012\\Speech4.ogg": [
@@ -1635,14 +1636,14 @@
 		{
 			"text": "Ewwuh...",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\Room\\Intro\\Ew1.ogg": [
 		{
 			"text": "Eww...",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	/* NAZI */
@@ -2880,12 +2881,12 @@
 			"color": "announcement"
 		},
 		{
-			"text": "SI TU VEUX SORTIR D'ICI",
+			"text": "SI VOUS VOULEZ SORTIR D'ICI",
 			"delay": 42.4,
 			"color": "announcement"
 		},
 		{
-			"text": "RETOURNEZ À LA SALLE ÉLECTRIQUE ET ACTIONNEZ LE LEVIER.",
+			"text": "RETOURNEZ À LA SALLE ÉLECTRIQUE ET RÉACTIONNEZ LE LEVIER.",
 			"delay": 44.6,
 			"color": "announcement"
 		},
@@ -2908,6 +2909,25 @@
 			"delay": 1.25,
 			"color": "announcement"
 		}
+	],
+	"SFX\\SCP\\079\\Reward.ogg": [
+		{
+			"text": "J’AI OUVERT LA PORTE DE ROSEWOOD.",
+			"delay": 1.25,
+			"color": "announcement"
+		},
+		{
+			"text": "PRENEZ CE DONT VOUS AVEZ BESOIN ET PARTEZ.",
+			"delay": 3.1,
+			"color": "announcement"
+		}
+	],
+	"SFX\\SCP\\079\\Stairs.ogg": [
+		{
+			"text": "DOCTEUR, VÉRIFIEZ LES ESCALIERS.",
+			"delay": 1.25,
+			"color": "announcement"
+		}	
 	],
 	"SFX\\SCP\\079\\TestroomWarning.ogg": [
 		{
@@ -3025,7 +3045,7 @@
 			"text": "Ahhhh...",
 			"delay": 1.5,
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Burn.ogg": [
@@ -3033,7 +3053,7 @@
 			"text": "*DOULEUR*",
 			"delay": 0.2,
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Ew0.ogg": [
@@ -3041,7 +3061,7 @@
 			"text": "*EW*",
 			"delay": 1.5,
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Ew1.ogg": [
@@ -3049,7 +3069,7 @@
 			"text": "*EW*",
 			"delay": 1.5,
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Cough.ogg": [
@@ -3057,28 +3077,28 @@
 			"text": "*TOUSSE*",
 			"delay": 1.2,
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Retch0.ogg": [
 		{
 			"text": "*BRUITS DE VOIX*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Retch1.ogg": [
 		{
 			"text": "*BRUITS DE VOIX*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Slurp.ogg": [
 		{
 			"text": "*SLURP*",
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Spit.ogg": [
@@ -3086,13 +3106,13 @@
 			"text": "*BRUITS DE CRACHE ET DE TOUX*",
 			"delay": 1.0,
 			"length": 2.0,
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	"SFX\\SCP\\294\\Vomit.ogg": [
 		{
 			"text": "*BRUITS DE VOMISSEMENT ET DE TOUX*",
-			"color": "classd"
+			"color": "player"
 		}
 	],
 	/* 860-2 */
