@@ -191,6 +191,22 @@
         "009": {
             "name": "Incident Surgelé",
             "description": "A interagi avec la glace rouge."
+        },
+        "cmr": {
+            "name": "Contrôle sur la Fondation",
+            "description": "Vous êtes entré dans la Salle de Réunion du Commandement."
+        },
+        "frostbite": {
+            "name": "Gelure",
+            "description": "Vous avez attiré un ennemi dans la Glace Rouge."
+        },
+        "457": {
+            "name": "Poursuite infernale",
+            "description": "Vous avez rencontré l’Homme en feu."
+        },
+        "2022": {
+            "name": "Supplément Photonique",
+            "description": "Vous avez avalé un échantillon de Pilules de Lumière Solaire."
         }
     }
 }
